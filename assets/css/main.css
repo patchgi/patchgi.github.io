@@ -25,6 +25,10 @@
 	body {
 		line-height: 1;
 	}
+	.alink{
+		color: #aaa;
+		text-decoration	:none;
+	}
 
 	ol, ul {
 		list-style: none;
