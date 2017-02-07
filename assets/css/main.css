@@ -25,10 +25,6 @@
 	body {
 		line-height: 1;
 	}
-	.alink{
-		color: #aaa;
-		text-decoration	:none;
-	}
 
 	ol, ul {
 		list-style: none;
@@ -67,6 +63,10 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
+	}
+	.alink{
+		color: #aaa;
+		text-decoration	:none;
 	}
 
 	.row > * {
