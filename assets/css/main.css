@@ -26,6 +26,7 @@
 		line-height: 1;
 	}
 
+
 	ol, ul {
 		list-style: none;
 	}
@@ -63,10 +64,6 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
-	}
-	.alink{
-		color: #aaa;
-		text-decoration	:none;
 	}
 
 	.row > * {
