@@ -11,9 +11,10 @@ header .back {
   position: relative;
 }
 
-header video {
+header iframe {
   position: absolute;
   width: 100%;
+  height: 57vw;
 }
 
 header .cover {

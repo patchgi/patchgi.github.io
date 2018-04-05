@@ -8,9 +8,10 @@ header {
     .back{
         position: relative;
     }
-    video {
+    iframe {
         position: absolute;
         width: 100%;
+        height: $height;
     }
     .cover {
         position: absolute;
