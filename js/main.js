@@ -1,181 +1,64 @@
-;(function () {
-	
-	'use strict';
+const typeCommand = (command) => {
+    let $command = document.querySelector(".command")
+    let command_length = command.length
+    let idx = 0
+    let type = function () {
+        $command.textContent += command[idx++]
+        if (idx == command_length) return
+        setTimeout(type, 150)
+    }
+    type()
+}
+const outputDatum = (_k, _v, _$ul, _links) => {
+    let data = `"${_k}": "${_v}",`
+    let $li = document.createElement("li")
+    $li.classList.add('profile')
+    if (_links.indexOf(_k) != -1) {
+        let $div = document.createElement("div")
+        let $a = document.createElement("a")
+        $a.href = _v
+        $div.textContent = `"${_k}": `
+        $a.textContent = `"${_v}",`
+        $div.appendChild($a)
+        $li.appendChild($div)
+    }
+    else {
+        let node = document.createTextNode(data)
+        $li.appendChild(node)
+    }
+    _$ul.appendChild($li)
+}
+
+const outputData = (_profile) => {
+    let $ul = document.querySelector(".personal_data")
+    let links = ["twitter", "facebook", "github"]
+    let $l1 = document.createElement("li")
+    let $l2 = document.createElement("li")
+    $l1.classList.add('profile')
+    $l2.classList.add('profile')
+    $l1.textContent = "{"
+    $l2.textContent = "}"
+    $ul.appendChild($l1)
+    for (k in _profile) {
+        outputDatum(k, _profile[k], $ul, links)
+    }
+    $ul.appendChild($l2)
+}
 
 
+window.addEventListener("DOMContentLoaded", function () {
 
-	var isMobile = {
-		Android: function() {
-			return navigator.userAgent.match(/Android/i);
-		},
-			BlackBerry: function() {
-			return navigator.userAgent.match(/BlackBerry/i);
-		},
-			iOS: function() {
-			return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-		},
-			Opera: function() {
-			return navigator.userAgent.match(/Opera Mini/i);
-		},
-			Windows: function() {
-			return navigator.userAgent.match(/IEMobile/i);
-		},
-			any: function() {
-			return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-		}
-	};
-
-	var fullHeight = function() {
-
-		// if ( !isMobile.any() ) {
-			$('.js-fullheight').css('height', $(window).height());
-			$(window).resize(function(){
-				$('.js-fullheight').css('height', $(window).height());
-			});
-		// }
-
-	};
-
-	var parallax = function() {
-		$(window).stellar({
-			horizontalScrolling: false,
-			hideDistantElements: false, 
-			responsive: true
-
-		});
-	};
-
-	var testimonialCarousel = function(){
-		var owl = $('.owl-carousel-fullwidth');
-		owl.owlCarousel({
-			items: 1,
-		    loop: true,
-		    margin: 0,
-		    responsiveClass: true,
-		    nav: false,
-		    dots: true,
-		    smartSpeed: 500,
-		    autoHeight: true
-		});
-	};
-
-
-	// Animations
-
-	var contentWayPoint = function() {
-		var i = 0;
-		$('.animate-box').waypoint( function( direction ) {
-
-			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
-				
-				i++;
-
-				$(this.element).addClass('item-animate');
-				setTimeout(function(){
-
-					$('body .animate-box.item-animate').each(function(k){
-						var el = $(this);
-						setTimeout( function () {
-							var effect = el.data('animate-effect');
-							if ( effect === 'fadeIn') {
-								el.addClass('fadeIn animated');
-							} else if ( effect === 'fadeInLeft') {
-								el.addClass('fadeInLeft animated');
-							} else if ( effect === 'fadeInRight') {
-								el.addClass('fadeInRight animated');
-							} else {
-								el.addClass('fadeInUp animated');
-							}
-
-							el.removeClass('item-animate');
-						},  k * 200, 'easeInOutExpo' );
-					});
-					
-				}, 100);
-				
-			}
-
-		} , { offset: '85%' } );
-	};
-
-	var counter = function() {
-		$('.js-counter').countTo({
-			 formatter: function (value, options) {
-	      return value.toFixed(options.decimals);
-	    },
-		});
-	};
-
-	var counterWayPoint = function() {
-		if ($('#counter-animate').length > 0 ) {
-			$('#counter-animate').waypoint( function( direction ) {
-										
-				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
-					setTimeout( counter , 400);					
-					$(this.element).addClass('animated');
-						
-				}
-			} , { offset: '90%' } );
-		}
-	};
-
-	var burgerMenu = function() {
-
-		$('.js-fh5co-nav-toggle').on('click', function(event){
-			event.preventDefault();
-			var $this = $(this);
-
-			if ($('body').hasClass('offcanvas')) {
-				$this.removeClass('active');
-				$('body').removeClass('offcanvas');	
-			} else {
-				$this.addClass('active');
-				$('body').addClass('offcanvas');	
-			}
-		});
-
-
-
-	};
-
-	// Click outside of offcanvass
-	var mobileMenuOutsideClick = function() {
-
-		$(document).click(function (e) {
-	    var container = $("#fh5co-aside, .js-fh5co-nav-toggle");
-	    if (!container.is(e.target) && container.has(e.target).length === 0) {
-
-	    	if ( $('body').hasClass('offcanvas') ) {
-
-    			$('body').removeClass('offcanvas');
-    			$('.js-fh5co-nav-toggle').removeClass('active');
-			
-	    	}
-	    	
-	    }
-		});
-
-		$(window).scroll(function(){
-			if ( $('body').hasClass('offcanvas') ) {
-
-    			$('body').removeClass('offcanvas');
-    			$('.js-fh5co-nav-toggle').removeClass('active');
-			
-	    	}
-		});
-
-	};
-
-	// Document on load.
-	$(function(){
-		fullHeight();
-		parallax();
-		testimonialCarousel();
-		contentWayPoint();
-		counterWayPoint();
-		burgerMenu();
-		mobileMenuOutsideClick();
-	});
-
-
-}());
+    let $data = document.querySelector(".data")
+    let profile = {
+        "name": "Kosuke Yagi",
+        "birthday": "1994/09/10",
+        "email": "pacchigi0910@gmail.com",
+        "education": "Meiji University",
+        "laboratory": "Keita Watanabe",
+        "twitter": 'https://twitter.com/patchgi',
+        "facebook": "https://facebook.com/patchgi",
+        "github": "https://github.com/patchgi",
+    }
+    typeCommand(" whois me")
+    setTimeout(outputData, 1500, profile)
+})
