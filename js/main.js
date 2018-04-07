@@ -1,5 +1,3 @@
-
-
 const typeCommand = (command, $command) => {
     let command_length = command.length
     let idx = 0
@@ -46,13 +44,22 @@ const outputData = (_profile, $ul, _class, f) => {
     $ul.appendChild($l2)
 
 }
-let displayProfile = ($dom) => {
+const displayProfile = ($dom) => {
     return new Promise((resolve, reject) => {
         setTimeout(typeCommand, 500, " whois me", $dom)
         resolve(true)
     })
 }
-
+let outputProjects = () => {
+    document.querySelector(".projects").style = "display:flex;"
+    document.querySelector(".career").style = "display: inline;"
+}
+let outputCareer = () => {
+    let c = document.querySelectorAll(".c")
+    for (let idx = 0; idx < c.length; idx++) {
+        c[idx].style = "display: block;"
+    }
+}
 window.addEventListener("DOMContentLoaded", function () {
 
     let $data = document.querySelector(".data")
@@ -80,27 +87,19 @@ window.addEventListener("DOMContentLoaded", function () {
         "株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, Javascript)",
         "株式会社Life is Tech": "メンター(Ruby on Rails, Javascript, OpenFrameWorks)"
     }
+    let thum = ["ar.png", "ex2.png", "home.jpg", "lightalk.png", "milk.jpeg", "pc.png"]
+
     let ua = navigator.userAgent
     if (ua.indexOf("iPhone") > 0 || ua.indexOf("Android") > 0 || ua.indexOf("iPad") > 0) {
         mobile = true
         let $youtube = document.querySelector(".movie")
         $youtube.style = "display:none;"
         let $background = document.createElement("img")
-        $background.src = "image/ex.jpg"
+        $background.src = `image/${thum[Math.floor(Math.random() * Math.floor(thum.length))]}`
         $background.setAttribute("class", "mobile")
         document.querySelector(".player").insertBefore($background, $youtube)
+    }
 
-    }
-    let outputProjects = () => {
-        document.querySelector(".projects").style = "display:flex;"
-        document.querySelector(".career").style = "display: inline;"
-    }
-    let outputCareer = () => {
-        let c = document.querySelectorAll(".c")
-        for (let idx = 0; idx < c.length; idx++) {
-            c[idx].style = "display: block;"
-        }
-    }
     displayProfile($who)
         .then((f) => {
             if (f) {
