@@ -17,6 +17,12 @@ header .movie {
   height: 56vw;
 }
 
+header .mobile {
+  position: absolute;
+  width: 100%;
+  height: 56vw;
+}
+
 header .cover {
   position: absolute;
   width: 100%;

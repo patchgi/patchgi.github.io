@@ -59,6 +59,15 @@ window.addEventListener("DOMContentLoaded", function () {
         "facebook": "https://facebook.com/patchgi",
         "github": "https://github.com/patchgi",
     }
+    let ua = navigator.userAgent
+    if (ua.indexOf("iPhone") > 0 || ua.indexOf("Android") > 0 || ua.indexOf("iPad") > 0) {
+        let $youtube = document.querySelector(".movie")
+        $youtube.style = "display:none;"
+        let $background = document.createElement("img")
+        $background.src = "image/ex.jpg"
+        $background.setAttribute("class", "mobile")
+        document.querySelector(".player").insertBefore($background, $youtube)
+    }
     setTimeout(typeCommand, 1500, " whois me")
     setTimeout(outputData, 3000, profile)
 })
