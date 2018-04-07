@@ -11,7 +11,7 @@ header .back {
   position: relative;
 }
 
-header img {
+header .movie {
   position: absolute;
   width: 100%;
   height: 56vw;
