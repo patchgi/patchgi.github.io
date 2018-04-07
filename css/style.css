@@ -34,7 +34,7 @@ header .main {
   position: relative;
   height: 100%;
   display: flex;
-  padding: 0 36px;
+  padding: 0 24px;
   overflow: auto;
 }
 
@@ -88,6 +88,80 @@ span .name {
   }
 }
 
+.header {
+  font-family: 'Source Code Pro', monospace;
+  padding: 0 24px;
+}
+
+@media screen and (min-width: 376px) {
+  .header {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .header {
+    font-size: 36px;
+  }
+}
+
 .projects {
-  display: flex;
+  display: none;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 12px 24px;
+}
+
+.project {
+  margin: 16px;
+  width: 30%;
+}
+
+@media screen and (max-width: 480px) {
+  .project {
+    width: 100%;
+  }
+}
+
+.project img {
+  width: 100%;
+}
+
+.project article {
+  color: #4CAF50;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.project article h4 {
+  margin: 0;
+}
+
+@media screen and (max-width: 480px) {
+  .project article h4 {
+    font-size: 20px;
+  }
+}
+
+.project article .long {
+  font-size: 20px;
+}
+
+.project article p {
+  margin: 2px 0;
+}
+
+.ja {
+  font-family: "Rounded Mplus 1c";
+}
+
+.pro {
+  display: none;
+}
+
+.career {
+  display: none;
+}
+
+.c {
+  display: none;
 }

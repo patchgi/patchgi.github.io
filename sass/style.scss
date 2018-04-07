@@ -28,7 +28,7 @@ header {
         position: relative;
         height: 100%;
         display: flex;
-        padding: 0 36px;
+        padding: 0 24px;
         overflow:auto;
     }
 }
@@ -67,6 +67,61 @@ span{
         font-size: 36px;
     }
 }
+
+.header{
+    font-family: 'Source Code Pro', monospace;
+    padding: 0 24px;
+    @media screen and(min-width: 376px){
+        font-size: 13px;
+    }
+    @media screen and(min-width: 480px){
+        font-size: 36px;
+    }
+}
+
 .projects{
-    display: flex;
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin: 12px 24px;
+}
+.project{
+     margin: 16px;
+     width: 30%;
+     @media screen and(max-width: 480px){
+        width: 100%;
+    }
+    img{
+       width: 100%;
+    }
+    article{
+        color: #4CAF50 ;
+        font-family: 'Source Code Pro', monospace;
+        h4{
+            margin: 0;
+            @media screen and(max-width: 480px){
+                 font-size: 20px;
+            }
+        }
+        .long{
+                font-size: 20px;
+            }
+        
+        p{
+            margin: 2px 0;
+        }
+    }
+    
+}
+.ja{
+    font-family: "Rounded Mplus 1c";
+}
+.pro{
+     display: none;
+}
+.career{
+    display: none;
+}
+.c{
+    display: none;
 }
