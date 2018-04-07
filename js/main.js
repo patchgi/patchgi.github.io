@@ -59,7 +59,6 @@ window.addEventListener("DOMContentLoaded", function () {
         "facebook": "https://facebook.com/patchgi",
         "github": "https://github.com/patchgi",
     }
-
-    setTimeout(typeCommand, 3500, " whois me")
-    setTimeout(outputData, 5000, profile)
+    setTimeout(typeCommand, 1500, " whois me")
+    setTimeout(outputData, 3000, profile)
 })
