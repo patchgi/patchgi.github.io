@@ -96,8 +96,9 @@ window.addEventListener("DOMContentLoaded", function () {
         document.querySelector(".career").style = "display: inline;"
     }
     let outputCareer = () => {
-        for (let c of document.querySelectorAll(".c")) {
-            c.style = "display: block;"
+        let c = document.querySelectorAll(".c")
+        for (let idx = 0; idx < c.length; idx++) {
+            c[idx].style = "display: block;"
         }
     }
     displayProfile($who)

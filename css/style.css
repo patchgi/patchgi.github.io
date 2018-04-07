@@ -40,7 +40,6 @@ header .main {
 
 .data {
   display: inline-block;
-  float: left;
 }
 
 .data .icon {
