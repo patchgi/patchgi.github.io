@@ -101,13 +101,9 @@ window.addEventListener("DOMContentLoaded", function () {
     }
 
     displayProfile($who)
-        .then((f) => {
-            if (f) {
-                setTimeout(outputData, 2500, profile, $ul, "profile", () => {
-                    document.querySelector(".pro").style = "display: inline;"
-                })
-            }
-        })
+        .then(setTimeout(outputData, 2500, profile, $ul, "profile", () => {
+            document.querySelector(".pro").style = "display: inline;"
+        }))
         .then(setTimeout(typeCommand, 3500, " ls projects/", $projects))
         .then(setTimeout(outputProjects, 5500))
         .then(setTimeout(typeCommand, 7000, " ls career/", $career))
