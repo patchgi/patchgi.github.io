@@ -83,7 +83,7 @@ window.addEventListener("DOMContentLoaded", function() {
     github: "https://github.com/patchgi"
   }
   let career = {
-    "株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, Javascript)",
+    "株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, JavaScript)",
     "株式会社Life is Tech":
       "メンター(Ruby on Rails, Javascript, OpenFrameWorks)",
     "リクルートライフスタイル": "Webエンジニア(React, Redux)"
@@ -125,9 +125,9 @@ window.addEventListener("DOMContentLoaded", function() {
     .then(setTimeout(typeCommand, 7000, " ls career/", $career))
     .then(setTimeout(outputCareer, 9000))
 
-  let elem = document.querySelector(".modal")
-  let instance = M.Modal.init(elem, options)
+  //   let elem = document.querySelector(".modal")
+  //   let instance = M.Modal.init(elem, options)
 
-  // Or with jQuery
-  $(".modal").modal()
+  //   // Or with jQuery
+  //   $(".modal").modal()
 })
