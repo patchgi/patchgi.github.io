@@ -40,7 +40,7 @@
         <ul class="projects green-text">
             <li class="project">
                 <div>
-                    <a href="#">
+                    <a href="#ar" class="modal-trigger">
                         <img src="image/ar.png">
                         <article>
                             <h4>ARWatch</h4>
@@ -119,11 +119,14 @@
                         {
                     </li>
                     <li class="c ja">
-                        <span>"株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, Javascript)",</span>
+                        <span>"株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, JavaScript)",</span>
                     </li>
                     <li class="c ja">
-                        <span>"株式会社Life is Tech": "メンター(Ruby on Rails, Javascript, OpenFrameWorks)",</span>
+                        <span>"株式会社Life is Tech": "メンター(Ruby on Rails, JavaScript, OpenFrameWorks)",</span>
                     </li>
+                    <li class="c ja">
+                         <span>"リクルートライフスタイル": "Webエンジニア(React)",</span>
+                     </li>
                     <li class="c">
                         }
                     </li>
@@ -132,6 +135,30 @@
             </div>
 
     </article>
+    <div id="ar" class="modal">
+        <div class="modal-content">
+            <h4>ARWatch</h4>
+            <iframe style="width:100%;" src="https://www.youtube.com/embed/g2lwau1TT1c" frameborder="0" allow="autoplay; encrypted-media"
+                allowfullscreen></iframe>
+            <p>スマートフォンでページをスクロールするようにARマーカーが描かれたブレスレットを回転させることでアプリケーションを切り替えることができる。</p>
+
+            <blockquote class="twitter-tweet" data-lang="ja">
+                <p lang="ja" dir="ltr">授業の課題で作ったAR時計が個人的に気に入ってる
+                    <br>
+                    <br>特にスクロールでアプリを変えれる部分が好き
+                    <a href="https://twitter.com/hashtag/CV?src=hash">#CV</a>
+                    <a href="https://t.co/57IdWfpbz8">pic.twitter.com/57IdWfpbz8</a>
+                </p>&mdash; パッチギ (@patchgi)
+                <a href="https://twitter.com/patchgi/status/819129770910699521">2017年1月11日</a>
+            </blockquote>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Back</a>
+        </div>
+
+    </div>
     <script type="text/javascript">
         let ua = navigator.userAgent
         let mobile = false
@@ -143,9 +170,6 @@
             tag.src = "https://www.youtube.com/iframe_api"
             var firstScriptTag = document.getElementsByTagName('script')[0]
             firstScriptTag.parentNode.insertBefore(tag, firstScriptTag)
-
-            // 3. This function creates an <iframe> (and YouTube player)
-            //    after the API code downloads.
             var player;
             function onYouTubeIframeAPIReady() {
                 player = new YT.Player('player', {
@@ -163,13 +187,13 @@
                     }
                 });
             }
-
-            // 4. The API will call this function when the video player is ready.
             function onPlayerReady(event) {
                 event.target.mute()
             }
         }
     </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
     <script type=" text/javascript " src="js/materialize.min.js "></script>
     <script type=" text/javascript " src="js/main.js " charset="uft-8"></script>
 </body>
