@@ -60,6 +60,8 @@ let outputCareer = () => {
         c[idx].style = "display: block;"
     }
 }
+let elem = document.querySelector('.modal');
+let instance = M.Modal.init(elem, {});
 window.addEventListener("DOMContentLoaded", function () {
 
     let $data = document.querySelector(".data")
@@ -85,7 +87,8 @@ window.addEventListener("DOMContentLoaded", function () {
     }
     let career = {
         "株式会社Appbank": "Webエンジニア(PHP, Ruby on Rails, Javascript)",
-        "株式会社Life is Tech": "メンター(Ruby on Rails, Javascript, OpenFrameWorks)"
+        "株式会社Life is Tech": "メンター(Ruby on Rails, Javascript, OpenFrameWorks)",
+        "リクルートライフスタイル": "Webエンジニア(React, Redux)"
     }
     let thum = ["ar.png", "ex2.png", "home.jpg", "lightalk.png", "milk.jpeg", "pc.png"]
 
@@ -108,5 +111,11 @@ window.addEventListener("DOMContentLoaded", function () {
         .then(setTimeout(outputProjects, 5500))
         .then(setTimeout(typeCommand, 7000, " ls career/", $career))
         .then(setTimeout(outputCareer, 9000))
+
+    let elem = document.querySelector('.modal');
+    let instance = M.Modal.init(elem, options);
+
+    // Or with jQuery
+    $('.modal').modal();
 
 })
