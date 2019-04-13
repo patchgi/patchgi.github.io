@@ -46,7 +46,7 @@ const outputData = (_profile, $ul, _class, f) => {
 }
 const displayProfile = ($dom) => {
     return new Promise((resolve, reject) => {
-        setTimeout(typeCommand, 500, " whois me", $dom)
+        setTimeout(typeCommand, 500, " whoami", $dom)
         resolve(true)
     })
 }
