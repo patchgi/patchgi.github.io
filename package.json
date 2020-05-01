@@ -1,16 +1,20 @@
 {
-  "name": "portfolio_2018",
+  "name": "patchgi.github.io",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "gulp": "gulp"
-  },
-  "keywords": [],
+  "description": "My cool Nuxt.js project",
   "author": "",
-  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
   "dependencies": {
-    "siimple": "^3.1.0-beta"
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
