@@ -75,9 +75,19 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [pair, setPair] = useState<{ left: DeckEntry; right: DeckEntry } | null>(null)
+  const [nextPair, setNextPair] = useState<{ left: DeckEntry; right: DeckEntry } | null>(null)
   const [result, setResult] = useState<'correct' | 'wrong' | null>(null)
   const [enlargedImageUrl, setEnlargedImageUrl] = useState<string | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(false)
+
+  /** 次の問題の画像を先読みして切り替えを速くする */
+  useEffect(() => {
+    if (!nextPair) return
+    const leftImg = new Image()
+    const rightImg = new Image()
+    leftImg.src = nextPair.left.imageUrl
+    rightImg.src = nextPair.right.imageUrl
+  }, [nextPair])
 
   const setCurrentSource = useCallback((id: string, byId: Record<string, DeckData>) => {
     const raw = byId[id]
@@ -86,6 +96,7 @@ export default function App() {
     if (!filtered.decks.length) return
     setData(filtered)
     setPair(pickPair(filtered))
+    setNextPair(null)
     setResult(null)
     setCurrentId(id)
     try {
@@ -122,6 +133,7 @@ export default function App() {
       if (!filtered.decks.length) throw new Error('デッキデータが空です（2026/1/23以降のデータのみ使用）')
       setData(filtered)
       setPair(pickPair(filtered))
+      setNextPair(null)
       setCurrentId(initialId)
     } catch (e) {
       setError(e instanceof Error ? e.message : '不明なエラー')
@@ -144,16 +156,18 @@ export default function App() {
   }, [sidebarOpen])
 
   const answer = (choice: 'left' | 'right') => {
-    if (!pair || result !== null) return
+    if (!pair || result !== null || !data) return
     const chosen = choice === 'left' ? pair.left : pair.right
     const isCorrect = chosen.rank !== '優勝'
     setResult(isCorrect ? 'correct' : 'wrong')
+    setNextPair(pickPair(data))
   }
 
   const next = () => {
-    if (!data) return
-    setPair(pickPair(data))
+    if (!data || !nextPair) return
+    setPair(nextPair)
     setResult(null)
+    setNextPair(pickPair(data))
   }
 
   const switchSource = (id: string) => {
@@ -211,6 +225,7 @@ export default function App() {
               src={pair.left.imageUrl}
               alt="デッキ画像（A）"
               className="deck-image"
+              fetchPriority="high"
             />
           </button>
           {deckCaption(pair.left) && (
@@ -237,6 +252,7 @@ export default function App() {
               src={pair.right.imageUrl}
               alt="デッキ画像（B）"
               className="deck-image"
+              fetchPriority="high"
             />
           </button>
           {deckCaption(pair.right) && (
