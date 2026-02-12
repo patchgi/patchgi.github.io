@@ -40,13 +40,22 @@ jobs:
       - name: Build
         working-directory: monca
         env:
-          BASE_PATH: /
+          BASE_PATH: /monca/
         run: npm run build
 
+      - name: Prepare artifact (under monca/)
+        run: |
+          mkdir -p deploy/monca
+          cp -r monca/dist/* deploy/monca/
+
+      - name: Remove CNAME (custom domain を無効化)
+        run: |
+          rm -f deploy/CNAME deploy/monca/CNAME
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@3
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: monca/dist
+          path: deploy
 
   deploy:
     environment:
@@ -57,4 +66,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@4
+        uses: actions/deploy-pages@v4

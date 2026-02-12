@@ -33,7 +33,7 @@ function formatFetchedAt(iso: string): string {
 }
 
 function deckCaption(entry: DeckEntry): string {
-  return entry.venue
+  return `${entry.date} ${entry.venue} `
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -104,7 +104,8 @@ export default function App() {
       const ids = SOURCE_URLS.map(([, id]) => id)
       const results = await Promise.all(
         ids.map(async (id) => {
-          const res = await fetch(`/deck-data-${id}.json`)
+          const base = (import.meta.env.BASE_URL ?? '/').replace(/\/$/, '') || ''
+          const res = await fetch(`${base}/deck-data-${id}.json`)
           if (!res.ok) return { id, data: null as DeckData | null }
           const data: DeckData = await res.json()
           return { id, data }
