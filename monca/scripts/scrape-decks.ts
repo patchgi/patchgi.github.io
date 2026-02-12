@@ -4,13 +4,27 @@
  * 2026/1/23 以降のデータのみを対象とする。
  *
  * 実行: npm run scrape
- * 出力: public/deck-data.json
+ * 出力: public/deck-data-{アーカイブID}.json（SOURCE_URLS の各URLごとに1ファイル）
  */
 
 import * as cheerio from "cheerio";
 
-const DEFAULT_SOURCE_URL = 'https://pokecabook.com/archives/122503';
-const SOURCE_URL = process.env.SOURCE_URL ?? DEFAULT_SOURCE_URL;
+const SOURCE_URLS = [
+  'https://pokecabook.com/archives/122503',
+  'https://pokecabook.com/archives/290646',
+  'https://pokecabook.com/archives/197309',
+  'https://pokecabook.com/archives/287934',
+  'https://pokecabook.com/archives/216334',
+  'https://pokecabook.com/archives/285277',
+  'https://pokecabook.com/archives/214576',
+  'https://pokecabook.com/archives/234601',
+];
+
+/** URL からアーカイブIDを取得し、ファイル名用のサフィックスにする（例: .../archives/122503 → 122503） */
+function slugFromUrl(url: string): string {
+  const m = url.match(/\/archives\/([^/?#]+)/);
+  return m ? m[1] : url.replace(/[^a-zA-Z0-9]/g, '_').slice(0, 32);
+}
 
 const RANK_LABELS = ['優勝', '準優勝', 'TOP4', 'TOP8'] as const;
 export type Rank = (typeof RANK_LABELS)[number];
@@ -103,41 +117,45 @@ export interface DeckDataOutput {
 
 async function main() {
   const outputStdout = process.env.OUTPUT_STDOUT === '1';
-
-  if (!outputStdout) console.log('Fetching:', SOURCE_URL);
-  const html = await fetchHtml(SOURCE_URL);
-  const defaultDate = new Date().toISOString().slice(0, 10);
-
-  const entries = extractDeckEntries(html, defaultDate);
-  if (!outputStdout) console.log(`Extracted ${entries.length} deck entries.`);
-
-  const output: DeckDataOutput = {
-    sourceUrl: SOURCE_URL,
-    fetchedAt: new Date().toISOString(),
-    decks: entries,
-  };
-
-  if (outputStdout) {
-    process.stdout.write(JSON.stringify(output));
-    return;
-  }
-
-  const byRank = entries.reduce(
-    (acc, e) => {
-      if (!acc[e.rank]) acc[e.rank] = 0;
-      acc[e.rank]++;
-      return acc;
-    },
-    {} as Record<Rank, number>
-  );
-  console.log('By rank:', byRank);
-
   const fs = await import('fs');
   const path = await import('path');
-  const outPath = path.join(process.cwd(), 'public', 'deck-data.json');
-  fs.mkdirSync(path.dirname(outPath), { recursive: true });
-  fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
-  console.log('Written:', outPath);
+  const publicDir = path.join(process.cwd(), 'public');
+  fs.mkdirSync(publicDir, { recursive: true });
+
+  const defaultDate = new Date().toISOString().slice(0, 10);
+
+  for (const sourceUrl of SOURCE_URLS) {
+    if (!outputStdout) console.log('Fetching:', sourceUrl);
+    const html = await fetchHtml(sourceUrl);
+    const entries = extractDeckEntries(html, defaultDate);
+    if (!outputStdout) console.log(`  Extracted ${entries.length} deck entries.`);
+
+    const output: DeckDataOutput = {
+      sourceUrl,
+      fetchedAt: new Date().toISOString(),
+      decks: entries,
+    };
+
+    if (outputStdout) {
+      process.stdout.write(JSON.stringify(output) + '\n');
+      continue;
+    }
+
+    const byRank = entries.reduce(
+      (acc, e) => {
+        if (!acc[e.rank]) acc[e.rank] = 0;
+        acc[e.rank]++;
+        return acc;
+      },
+      {} as Record<Rank, number>
+    );
+    console.log('  By rank:', byRank);
+
+    const slug = slugFromUrl(sourceUrl);
+    const outPath = path.join(publicDir, `deck-data-${slug}.json`);
+    fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
+    console.log('  Written:', outPath);
+  }
 }
 
 main().catch((err) => {

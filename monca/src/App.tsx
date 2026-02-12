@@ -2,24 +2,19 @@ import { useCallback, useEffect, useState } from 'react'
 import type { DeckData, DeckEntry } from './types'
 import './App.css'
 
-const DATA_URL = '/deck-data.json'
-const STORAGE_KEY_DATA = 'pokeca-deck-data-by-url'
-const STORAGE_KEY_CURRENT = 'pokeca-deck-current-url'
-const POKECABOOK_ARCHIVES_REGEX = /^https:\/\/pokecabook\.com\/archives\/\d+\/?$/
-const SOURCE_URLS = [
-  ['ドラパルトex', 'https://pokecabook.com/archives/122503'],
-  ['宝石ドラパルトex', 'https://pokecabook.com/archives/290646'],
-  ['マリィのオーロンゲex', 'https://pokecabook.com/archives/197309'],
-  ['メガディアンシーex', 'https://pokecabook.com/archives/287934'],
-  ['R団ドンカラス', 'https://pokecabook.com/archives/216334'],
-  ['メガスターミーex', 'https://pokecabook.com/archives/285277'],
-  ['R団ミュウツーex', 'https://pokecabook.com/archives/214576'],
-  ['メガルカリオex', 'https://pokecabook.com/archives/234601'],
-]
+/** 選択中のデータソースIDのみ localStorage に保存（データ本体は deck-data-xxx.json から取得） */
+const STORAGE_KEY_CURRENT_ID = 'monca-current-id'
 
-function normalizeUrl(url: string): string {
-  return url.trim().replace(/\/$/, '')
-}
+const SOURCE_URLS = [
+  ['ドラパルトex', '122503'],
+  ['宝石ドラパルトex', '290646'],
+  ['マリィのオーロンゲex', '197309'],
+  ['メガディアンシーex', '287934'],
+  ['R団ドンカラス', '216334'],
+  ['メガスターミーex', '285277'],
+  ['R団ミュウツーex', '214576'],
+  ['メガルカリオex', '234601'],
+]
 
 /** ISO日時 "2026-02-12T14:32:05.091Z" を "2026/2/12 14:32" 形式に */
 function formatFetchedAt(iso: string): string {
@@ -75,121 +70,68 @@ function applyCutoff(raw: DeckData): DeckData {
 
 export default function App() {
   const [deckDataByUrl, setDeckDataByUrl] = useState<Record<string, DeckData>>({})
-  const [currentUrl, setCurrentUrl] = useState<string | null>(null)
+  const [currentId, setCurrentId] = useState<string | null>(null)
   const [data, setData] = useState<DeckData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [pair, setPair] = useState<{ left: DeckEntry; right: DeckEntry } | null>(null)
   const [result, setResult] = useState<'correct' | 'wrong' | null>(null)
   const [enlargedImageUrl, setEnlargedImageUrl] = useState<string | null>(null)
-  const [updateLoading, setUpdateLoading] = useState(false)
-  const [updateError, setUpdateError] = useState<string | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(false)
 
-  const persist = useCallback((byUrl: Record<string, DeckData>, current: string | null) => {
+  const setCurrentSource = useCallback((id: string, byId: Record<string, DeckData>) => {
+    const raw = byId[id]
+    if (!raw) return
+    const filtered = applyCutoff(raw)
+    if (!filtered.decks.length) return
+    setData(filtered)
+    setPair(pickPair(filtered))
+    setResult(null)
+    setCurrentId(id)
     try {
-      localStorage.setItem(STORAGE_KEY_DATA, JSON.stringify(byUrl))
-      localStorage.setItem(STORAGE_KEY_CURRENT, current ?? '')
+      localStorage.setItem(STORAGE_KEY_CURRENT_ID, id)
     } catch {
       /* ignore */
     }
   }, [])
 
-  const setCurrentSource = useCallback(
-    (url: string, byUrl: Record<string, DeckData>) => {
-      console.log(url)
-      const key = url in byUrl ? url : Object.keys(byUrl).find((k) => normalizeUrl(k) === normalizeUrl(url)) ?? url
-      const raw = byUrl[key]
-      if (!raw) return
-      const filtered = applyCutoff(raw)
-      if (!filtered.decks.length) return
-      setData(filtered)
-      setPair(pickPair(filtered))
-      setResult(null)
-      setCurrentUrl(key)
-    },
-    []
-  )
-
   const initLoad = useCallback(async () => {
     setLoading(true)
     setError(null)
     try {
-      const stored = localStorage.getItem(STORAGE_KEY_DATA)
-      const storedCurrent = localStorage.getItem(STORAGE_KEY_CURRENT)
-      if (stored) {
-        const parsed: Record<string, DeckData> = JSON.parse(stored)
-        const byUrl: Record<string, DeckData> = {}
-        for (const k of Object.keys(parsed)) {
-          byUrl[normalizeUrl(k)] = parsed[k]
-        }
-        const currentKey = storedCurrent ? normalizeUrl(storedCurrent) : null
-
-        if (currentKey && !(currentKey in byUrl) && POKECABOOK_ARCHIVES_REGEX.test(currentKey)) {
-          try {
-            const res = await fetch('/api/update-deck-data', {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ url: currentKey }),
-            })
-            const result = await res.json().catch(() => ({}))
-            if (res.ok && result.data) {
-              const newData = result.data as DeckData
-              const url = normalizeUrl(newData.sourceUrl ?? currentKey)
-              byUrl[url] = newData
-              const filtered = applyCutoff(newData)
-              if (filtered.decks.length) {
-                setDeckDataByUrl(byUrl)
-                setCurrentUrl(url)
-                setData(filtered)
-                setPair(pickPair(filtered))
-                persist(byUrl, url)
-                return
-              }
-            }
-          } catch {
-            /* fall through to default fetch */
-          }
-        }
-
-        const url = (currentKey && byUrl[currentKey] ? currentKey : null) ?? Object.keys(byUrl)[0]
-        if (url && byUrl[url]) {
-          const filtered = applyCutoff(byUrl[url])
-          if (filtered.decks.length) {
-            setDeckDataByUrl(byUrl)
-            setCurrentUrl(url)
-            setData(filtered)
-            setPair(pickPair(filtered))
-            return
-          }
-        }
+      const savedId = (typeof localStorage !== 'undefined' && localStorage.getItem(STORAGE_KEY_CURRENT_ID)) ?? null
+      const byId: Record<string, DeckData> = {}
+      const ids = SOURCE_URLS.map(([, id]) => id)
+      const results = await Promise.all(
+        ids.map(async (id) => {
+          const res = await fetch(`/deck-data-${id}.json`)
+          if (!res.ok) return { id, data: null as DeckData | null }
+          const data: DeckData = await res.json()
+          return { id, data }
+        })
+      )
+      for (const { id, data } of results) {
+        if (data?.decks?.length) byId[id] = data
       }
-      const res = await fetch(DATA_URL)
-      if (!res.ok) throw new Error(`データの取得に失敗しました: ${res.status}`)
-      const json: DeckData = await res.json()
-      const url = normalizeUrl(json.sourceUrl ?? '')
-      const nextByUrl = { [url]: json }
-      setDeckDataByUrl(nextByUrl)
-      setCurrentUrl(url)
-      const filtered = applyCutoff(json)
+      if (Object.keys(byId).length === 0) throw new Error('デッキデータを読み込めませんでした')
+      setDeckDataByUrl(byId)
+      const initialId = (savedId && byId[savedId] ? savedId : null) ?? ids[0]
+      if (!byId[initialId]) throw new Error('デッキデータが空です（2026/1/23以降のデータのみ使用）')
+      const filtered = applyCutoff(byId[initialId])
       if (!filtered.decks.length) throw new Error('デッキデータが空です（2026/1/23以降のデータのみ使用）')
       setData(filtered)
       setPair(pickPair(filtered))
-      persist(nextByUrl, url)
+      setCurrentId(initialId)
     } catch (e) {
       setError(e instanceof Error ? e.message : '不明なエラー')
     } finally {
       setLoading(false)
     }
-  }, [persist])
+  }, [])
 
   useEffect(() => {
     initLoad()
   }, [initLoad])
-
-  useEffect(() => {
-    if (Object.keys(deckDataByUrl).length > 0) persist(deckDataByUrl, currentUrl)
-  }, [deckDataByUrl, currentUrl, persist])
 
   useEffect(() => {
     if (!sidebarOpen) return
@@ -213,35 +155,10 @@ export default function App() {
     setResult(null)
   }
 
-  const switchSource = async (url: string) => {
-    const key = url in deckDataByUrl ? url : Object.keys(deckDataByUrl).find((k) => normalizeUrl(k) === normalizeUrl(url)) ?? url
-    if (deckDataByUrl[key]) {
-      setCurrentSource(url, deckDataByUrl)
+  const switchSource = (id: string) => {
+    if (deckDataByUrl[id]) {
+      setCurrentSource(id, deckDataByUrl)
       setSidebarOpen(false)
-      return
-    }
-    if (!POKECABOOK_ARCHIVES_REGEX.test(normalizeUrl(url))) return
-    setUpdateLoading(true)
-    setUpdateError(null)
-    try {
-      const res = await fetch('/api/update-deck-data', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ url: normalizeUrl(url) }),
-      })
-      const result = await res.json().catch(() => ({}))
-      if (!res.ok) throw new Error(result.error ?? `取得に失敗しました (${res.status})`)
-      const newData = result.data as DeckData
-      if (!newData?.sourceUrl) throw new Error('データを取得できませんでした')
-      const normalized = normalizeUrl(newData.sourceUrl)
-      const next = { ...deckDataByUrl, [normalized]: newData }
-      setDeckDataByUrl(next)
-      setCurrentSource(normalized, next)
-      setSidebarOpen(false)
-    } catch (e) {
-      setUpdateError(e instanceof Error ? e.message : '取得に失敗しました')
-    } finally {
-      setUpdateLoading(false)
     }
   }
 
@@ -406,17 +323,15 @@ export default function App() {
               <p className="sidebar-label">データソース</p>
                 <ul className="sidebar-url-list">
                   {SOURCE_URLS.map((d) => {
-                    const [name, url] = d
-                    const id = url.replace(/[^a-z0-9]/gi, '-')
-                    const isCurrent = url === currentUrl
+                    const [name, id] = d
+                    const isCurrent = id === currentId
                     return (
-                      <li key={url}>
+                      <li key={id}>
                         <button
                           type="button"
                           className={`sidebar-url-btn ${isCurrent ? 'sidebar-url-btn-current' : ''}`}
-                          onClick={() => switchSource(url)}
-                          value={url}
-                          disabled={updateLoading}
+                          onClick={() => switchSource(id)}
+                          value={id}
                         >
                           <span className="sidebar-url-id" id={id}>
                             {name}
@@ -427,9 +342,8 @@ export default function App() {
                     )
                   })}
                 </ul>
-              {currentUrl && (
+              {currentId && (
                 <>
-                  {updateError && <p className="sidebar-update-error">{updateError}</p>}
                   {data.fetchedAt && (
                     <p className="sidebar-fetched-at">最終更新: {formatFetchedAt(data.fetchedAt)}</p>
                   )}
