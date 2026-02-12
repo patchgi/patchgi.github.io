@@ -40,13 +40,18 @@ jobs:
       - name: Build
         working-directory: monca
         env:
-          BASE_PATH: /
+          BASE_PATH: /monca/
         run: npm run build
+
+      - name: Prepare artifact (under monca/)
+        run: |
+          mkdir -p deploy/monca
+          cp -r monca/dist/* deploy/monca/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@3
         with:
-          path: monca/dist
+          path: deploy
 
   deploy:
     environment:
