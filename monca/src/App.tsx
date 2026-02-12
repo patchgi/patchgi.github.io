@@ -33,7 +33,7 @@ function formatFetchedAt(iso: string): string {
 }
 
 function deckCaption(entry: DeckEntry): string {
-  return entry.venue
+  return `${entry.date} ${entry.venue} `
 }
 
 function shuffle<T>(arr: T[]): T[] {
