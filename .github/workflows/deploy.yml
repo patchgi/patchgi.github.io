@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - master
 
 permissions:
   contents: read
@@ -26,22 +27,26 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
+          cache-dependency-path: monca/package-lock.json
 
       - name: Install dependencies
         run: npm ci
+        working-directory: monca
 
       - name: Scrape deck data
         run: npm run scrape
+        working-directory: monca
 
       - name: Build
+        working-directory: monca
         env:
-          BASE_PATH: /${{ github.event.repository.name }}/
+          BASE_PATH: /
         run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@3
         with:
-          path: ./dist
+          path: monca/dist
 
   deploy:
     environment:
