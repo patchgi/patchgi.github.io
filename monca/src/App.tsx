@@ -13,6 +13,8 @@ const SOURCE_URLS = [
   ['メガスターミーex', '285277'],
   ['R団ミュウツーex', '214576'],
   ['メガルカリオex', '234601'],
+  ['フーディン', '53696'],
+  ['メガフシギバナex', '234606'],
 ]
 
 function formatFetchedAt(iso: string): string {

@@ -18,6 +18,8 @@ const SOURCE_URLS = [
   'https://pokecabook.com/archives/285277',
   'https://pokecabook.com/archives/214576',
   'https://pokecabook.com/archives/234601',
+  'https://pokecabook.com/archives/53696',
+  'https://pokecabook.com/archives/234606'
 ];
 
 /** URL からアーカイブIDを取得し、ファイル名用のサフィックスにする（例: .../archives/122503 → 122503） */
