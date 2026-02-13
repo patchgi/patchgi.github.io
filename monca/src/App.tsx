@@ -224,7 +224,7 @@ export default function App() {
               src={pair.left.imageUrl}
               alt="デッキ画像（A）"
               className="deck-image"
-              fetchPriority="high"
+              {...({ fetchpriority: 'high' } as React.ImgHTMLAttributes<HTMLImageElement>)}
             />
           </button>
           {deckCaption(pair.left) && (
@@ -251,7 +251,7 @@ export default function App() {
               src={pair.right.imageUrl}
               alt="デッキ画像（B）"
               className="deck-image"
-              fetchPriority="high"
+              {...({ fetchpriority: 'high' } as React.ImgHTMLAttributes<HTMLImageElement>)}
             />
           </button>
           {deckCaption(pair.right) && (
