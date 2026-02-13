@@ -1,7 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import { VitePWA } from 'vite-plugin-pwa'
 import { spawn } from 'node:child_process'
 import path from 'node:path'
+
+const base = process.env.BASE_PATH ?? '/'
 
 const POKECABOOK_ARCHIVES_REGEX = /^https:\/\/pokecabook\.com\/archives\/\d+\/?$/
 
@@ -21,9 +24,31 @@ function readJsonBody(req: import('node:http').IncomingMessage): Promise<{ url?:
 }
 
 export default defineConfig({
-  base: process.env.BASE_PATH ?? '/',
+  base,
   plugins: [
     react(),
+    VitePWA({
+      strategies: 'injectManifest',
+      srcDir: 'src',
+      filename: 'sw.ts',
+      registerType: 'autoUpdate',
+      includeAssets: ['monca.png'],
+      manifest: {
+        name: 'モンカクイズ',
+        short_name: 'モンカ',
+        description: 'monca',
+        theme_color: '#1a1a2e',
+        background_color: '#16213e',
+        display: 'standalone',
+        start_url: base,
+        icons: [
+          { src: `${base}monca.png`, sizes: 'any', type: 'image/png', purpose: 'any maskable' },
+        ],
+      },
+      injectManifest: {
+        minify: false,
+      },
+    }),
     {
       name: 'deck-data-update-api',
       configureServer(server) {
