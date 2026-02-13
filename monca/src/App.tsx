@@ -2,7 +2,6 @@ import { useCallback, useEffect, useState } from 'react'
 import type { DeckData, DeckEntry } from './types'
 import './App.css'
 
-/** 選択中のデータソースIDのみ localStorage に保存（データ本体は deck-data-xxx.json から取得） */
 const STORAGE_KEY_CURRENT_ID = 'monca-current-id'
 
 const SOURCE_URLS = [
@@ -14,9 +13,10 @@ const SOURCE_URLS = [
   ['メガスターミーex', '285277'],
   ['R団ミュウツーex', '214576'],
   ['メガルカリオex', '234601'],
+  ['フーディン', '53696'],
+  ['メガフシギバナex', '234606'],
 ]
 
-/** ISO日時 "2026-02-12T14:32:05.091Z" を "2026/2/12 14:32" 形式に */
 function formatFetchedAt(iso: string): string {
   try {
     const d = new Date(iso)
@@ -80,7 +80,6 @@ export default function App() {
   const [enlargedImageUrl, setEnlargedImageUrl] = useState<string | null>(null)
   const [sidebarOpen, setSidebarOpen] = useState(false)
 
-  /** 次の問題の画像を先読みして切り替えを速くする */
   useEffect(() => {
     if (!nextPair) return
     const leftImg = new Image()

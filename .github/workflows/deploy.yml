@@ -48,10 +48,6 @@ jobs:
           mkdir -p deploy/monca
           cp -r monca/dist/* deploy/monca/
 
-      - name: Remove CNAME (custom domain を無効化)
-        run: |
-          rm -f deploy/CNAME deploy/monca/CNAME
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
