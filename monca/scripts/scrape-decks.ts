@@ -125,6 +125,7 @@ async function main() {
   fs.mkdirSync(publicDir, { recursive: true });
 
   const defaultDate = new Date().toISOString().slice(0, 10);
+  let runVersion: string | null = null;
 
   for (const sourceUrl of SOURCE_URLS) {
     if (!outputStdout) console.log('Fetching:', sourceUrl);
@@ -132,9 +133,11 @@ async function main() {
     const entries = extractDeckEntries(html, defaultDate);
     if (!outputStdout) console.log(`  Extracted ${entries.length} deck entries.`);
 
+    const fetchedAt = new Date().toISOString();
+    if (runVersion === null) runVersion = fetchedAt;
     const output: DeckDataOutput = {
       sourceUrl,
-      fetchedAt: new Date().toISOString(),
+      fetchedAt,
       decks: entries,
     };
 
@@ -157,6 +160,16 @@ async function main() {
     const outPath = path.join(publicDir, `deck-data-${slug}.json`);
     fs.writeFileSync(outPath, JSON.stringify(output, null, 2), 'utf-8');
     console.log('  Written:', outPath);
+  }
+
+  if (!outputStdout && runVersion !== null) {
+    const versionPath = path.join(publicDir, 'deck-data-version.json');
+    fs.writeFileSync(
+      versionPath,
+      JSON.stringify({ version: runVersion }, null, 0),
+      'utf-8'
+    );
+    console.log('  Written:', versionPath);
   }
 }
 
