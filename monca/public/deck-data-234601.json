@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-02-13T07:46:49.684Z",
+  "fetchedAt": "2026-02-14T00:09:32.719Z",
   "decks": [
+    {
+      "deckId": "8Jc8DG-kBQpVK-cDacx4",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Jc8DG-kBQpVK-cDacx4.png",
+      "date": "2026-02-13",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
     {
       "deckId": "nQNngg-Kx2kym-Hng9Ln",
       "rank": "TOP8",
