@@ -109,13 +109,18 @@ export default function App() {
     setLoading(true)
     setError(null)
     try {
+      const base = (import.meta.env.BASE_URL ?? '/').replace(/\/$/, '') || ''
       const savedId = (typeof localStorage !== 'undefined' && localStorage.getItem(STORAGE_KEY_CURRENT_ID)) ?? null
       const byId: Record<string, DeckData> = {}
       const ids = SOURCE_URLS.map(([, id]) => id)
+
+      const versionRes = await fetch(`${base}/deck-data-version.json`, { cache: 'no-store' })
+      const version = versionRes.ok ? ((await versionRes.json()) as { version?: string }).version ?? '' : ''
+
       const results = await Promise.all(
         ids.map(async (id) => {
-          const base = (import.meta.env.BASE_URL ?? '/').replace(/\/$/, '') || ''
-          const res = await fetch(`${base}/deck-data-${id}.json`)
+          const url = version ? `${base}/deck-data-${id}.json?t=${encodeURIComponent(version)}` : `${base}/deck-data-${id}.json`
+          const res = await fetch(url)
           if (!res.ok) return { id, data: null as DeckData | null }
           const data: DeckData = await res.json()
           return { id, data }
