@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-02-14T00:09:31.666Z",
+  "fetchedAt": "2026-02-15T00:08:01.264Z",
   "decks": [
+    {
+      "deckId": "gL66nn-vQVeOf-N9HL9H",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gL66nn-vQVeOf-N9HL9H.png",
+      "date": "2026-02-14",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
+    {
+      "deckId": "QnnHP9-vvxZMz-LLLngn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QnnHP9-vvxZMz-LLLngn.png",
+      "date": "2026-02-14",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
     {
       "deckId": "yUyUpp-q1SSBm-yyRRMX",
       "rank": "TOP8",

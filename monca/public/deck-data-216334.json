@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-02-14T00:09:32.196Z",
+  "fetchedAt": "2026-02-15T00:08:01.832Z",
   "decks": [
+    {
+      "deckId": "LnQ9nn-KdROek-NLHggi",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LnQ9nn-KdROek-NLHggi.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
+    {
+      "deckId": "RpyXMM-MlxNeU-ypyXMy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RpyXMM-MlxNeU-ypyXMy.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
     {
       "deckId": "wd5FbV-lTkVjp-FkfkkF",
       "rank": "準優勝",

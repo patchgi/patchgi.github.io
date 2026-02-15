@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-02-14T00:09:32.369Z",
+  "fetchedAt": "2026-02-15T00:08:02.017Z",
   "decks": [
+    {
+      "deckId": "yRRyyp-v5k0No-yy2MR2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRRyyp-v5k0No-yy2MR2.png",
+      "date": "2026-02-14",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
+    {
+      "deckId": "acxcGD-pU76Cx-x8c4c8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/acxcGD-pU76Cx-x8c4c8.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
     {
       "deckId": "yy3SMy-up7LXA-pyR23p",
       "rank": "TOP8",

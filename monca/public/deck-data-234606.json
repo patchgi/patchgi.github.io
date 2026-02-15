@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-02-14T00:09:33.069Z",
+  "fetchedAt": "2026-02-15T00:08:02.761Z",
   "decks": [
+    {
+      "deckId": "RMppyp-0GSYYe-2ypM2E",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMppyp-0GSYYe-2ypM2E.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
+    {
+      "deckId": "bVkFFV-H6Gcdz-1kkVfk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bVkFFV-H6Gcdz-1kkVfk.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF1号四日市日永店（三重）"
+    },
+    {
+      "deckId": "VwbvfF-97fr6m-k5Fkff",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VwbvfF-97fr6m-k5Fkff.png",
+      "date": "2026-02-14",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "84ca8x-HtdYKS-GDa8Yc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/84ca8x-HtdYKS-GDa8Yc.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF イオン本牧店（神奈川）"
+    },
+    {
+      "deckId": "NLHnHg-iq2Gju-gP9ggn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NLHnHg-iq2Gju-gP9ggn.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
+    {
+      "deckId": "yMMMyX-ElpAe0-yypRXy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMMMyX-ElpAe0-yypRXy.png",
+      "date": "2026-02-14",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "nLLn9H-V185zz-QNggnH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nLLn9H-V185zz-QNggnH.png",
+      "date": "2026-02-14",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "9LgLnP-x7jVFp-nLLHPn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LgLnP-x7jVFp-nLLHPn.png",
+      "date": "2026-02-14",
+      "venue": "カードショップ 海賊船-starch-（岐阜）"
+    },
     {
       "deckId": "kkfbbV-2OczeK-k5fkFV",
       "rank": "TOP8",

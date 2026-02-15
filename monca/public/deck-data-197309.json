@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-02-14T00:09:31.851Z",
+  "fetchedAt": "2026-02-15T00:08:01.460Z",
   "decks": [
+    {
+      "deckId": "gH9gnL-Yw3ZQg-nnPgin",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gH9gnL-Yw3ZQg-nnPgin.png",
+      "date": "2026-02-14",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "kkkF5V-K72C18-VFkvbF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkkF5V-K72C18-VFkvbF.png",
+      "date": "2026-02-14",
+      "venue": "おもちゃのバンビ 本郷店（富山）"
+    },
+    {
+      "deckId": "Ryyyp2-w79v79-yMyyMX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ryyyp2-w79v79-yMyyMX.png",
+      "date": "2026-02-14",
+      "venue": "トイニティ長岡E・PLAZA店（新潟）"
+    },
+    {
+      "deckId": "MXSMMp-7RzJkH-XRypyM",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MXSMMp-7RzJkH-XRypyM.png",
+      "date": "2026-02-14",
+      "venue": "ブックオフイオン山形北店（山形）"
+    },
+    {
+      "deckId": "yXM2Ry-hGXxg8-SMXpSS",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXM2Ry-hGXxg8-SMXpSS.png",
+      "date": "2026-02-14",
+      "venue": "ブックオフイオン山形北店（山形）"
+    },
+    {
+      "deckId": "RXyyXp-fecCdK-ppyyMX",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RXyyXp-fecCdK-ppyyMX.png",
+      "date": "2026-02-14",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
+    {
+      "deckId": "UyyR2p-6J2C7E-MMyyMX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UyyR2p-6J2C7E-MMyyMX.png",
+      "date": "2026-02-14",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
+    {
+      "deckId": "yRypXy-xOjYgU-MXRpyy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRypXy-xOjYgU-MXRpyy.png",
+      "date": "2026-02-14",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "Vfkkfk-9Cj01P-fFdkbk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vfkkfk-9Cj01P-fFdkbk.png",
+      "date": "2026-02-14",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "51dVFF-Xp5A8L-5bfkfk",
       "rank": "TOP8",
