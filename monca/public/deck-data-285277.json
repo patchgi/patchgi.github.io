@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-02-13T07:46:49.582Z",
+  "fetchedAt": "2026-02-16T02:50:10.378Z",
   "decks": [
+    {
+      "deckId": "kfVFb1-At3cU9-VF5kFv",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kfVFb1-At3cU9-VF5kFv.png",
+      "date": "2026-02-15",
+      "venue": "オレタン 岡山本店（岡山）"
+    },
+    {
+      "deckId": "Fbk5kV-o6A8Dx-51kbVf",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fbk5kV-o6A8Dx-51kbVf.png",
+      "date": "2026-02-15",
+      "venue": "バトロコミニ前橋文京店（群馬）"
+    },
+    {
+      "deckId": "yRRyyp-v5k0No-yy2MR2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRRyyp-v5k0No-yy2MR2.png",
+      "date": "2026-02-14",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
+    {
+      "deckId": "acxcGD-pU76Cx-x8c4c8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/acxcGD-pU76Cx-x8c4c8.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
     {
       "deckId": "yy3SMy-up7LXA-pyR23p",
       "rank": "TOP8",

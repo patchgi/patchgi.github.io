@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-02-13T07:46:49.457Z",
+  "fetchedAt": "2026-02-16T02:50:10.338Z",
   "decks": [
+    {
+      "deckId": "RyypyE-DHOogV-My2ySM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RyypyE-DHOogV-My2ySM.png",
+      "date": "2026-02-15",
+      "venue": "オレタン 岡山本店（岡山）"
+    },
+    {
+      "deckId": "pRyMyy-6XKNrQ-2y2Mpy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRyMyy-6XKNrQ-2y2Mpy.png",
+      "date": "2026-02-15",
+      "venue": "フルコンプ札幌駅前店（北海道）"
+    },
+    {
+      "deckId": "4GYc8D-rSjO0W-8x88Y8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4GYc8D-rSjO0W-8x88Y8.png",
+      "date": "2026-02-15",
+      "venue": "BOOKOFF アミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "LnQ9nn-KdROek-NLHggi",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LnQ9nn-KdROek-NLHggi.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
+    {
+      "deckId": "RpyXMM-MlxNeU-ypyXMy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RpyXMM-MlxNeU-ypyXMy.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
     {
       "deckId": "wd5FbV-lTkVjp-FkfkkF",
       "rank": "準優勝",

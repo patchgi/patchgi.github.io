@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-02-13T07:46:49.628Z",
+  "fetchedAt": "2026-02-16T02:50:10.421Z",
   "decks": [
+    {
+      "deckId": "YYcx8D-aNtnEm-ccG88D",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YYcx8D-aNtnEm-ccG88D.png",
+      "date": "2026-02-15",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "Vkbvfk-HWwBQO-bF5Vkk",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vkbvfk-HWwBQO-bF5Vkk.png",
+      "date": "2026-02-14",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "GxcxYc-rcbvdg-xc48x8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GxcxYc-rcbvdg-xc48x8.png",
+      "date": "2026-02-14",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
+    {
+      "deckId": "8caG8x-mcQLI3-cYY84c",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8caG8x-mcQLI3-cYY84c.png",
+      "date": "2026-02-14",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "c48488-bxmNut-xxcGcc",
       "rank": "TOP8",
