@@ -1,49 +1,7 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-02-26T00:11:19.955Z",
+  "fetchedAt": "2026-02-16T02:50:10.338Z",
   "decks": [
-    {
-      "deckId": "nn9gnn-KTeQQt-gHHNnH",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nn9gnn-KTeQQt-gHHNnH.png",
-      "date": "2026-02-25",
-      "venue": "GIRAFULL京都店（京都）"
-    },
-    {
-      "deckId": "8Y4cGx-l7L3BL-c8c8xG",
-      "rank": "優勝",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Y4cGx-l7L3BL-c8c8xG.png",
-      "date": "2026-02-24",
-      "venue": "バトロコ 藤沢駅北口（神奈川）"
-    },
-    {
-      "deckId": "ngHnnn-hfbTH4-Ngg9HN",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngHnnn-hfbTH4-Ngg9HN.png",
-      "date": "2026-02-23",
-      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
-    },
-    {
-      "deckId": "y3pRyy-ZCaxao-pyyXR2",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y3pRyy-ZCaxao-pyyXR2.png",
-      "date": "2026-02-23",
-      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
-    },
-    {
-      "deckId": "kkkkfb-gjRFMX-VvFVkk",
-      "rank": "TOP4",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkkkfb-gjRFMX-VvFVkk.png",
-      "date": "2026-02-23",
-      "venue": "Super KaBoS 敦賀店（福井）"
-    },
-    {
-      "deckId": "DDD8cx-tgfAbG-8G8Yc4",
-      "rank": "優勝",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDD8cx-tgfAbG-8G8Yc4.png",
-      "date": "2026-02-16",
-      "venue": "TSUTAYA西友町田店（東京）"
-    },
     {
       "deckId": "RyypyE-DHOogV-My2ySM",
       "rank": "TOP8",

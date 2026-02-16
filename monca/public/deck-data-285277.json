@@ -1,21 +1,7 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-02-26T00:11:20.149Z",
+  "fetchedAt": "2026-02-16T02:50:10.378Z",
   "decks": [
-    {
-      "deckId": "xD8YcJ-HW5G76-8Gc8cD",
-      "rank": "優勝",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xD8YcJ-HW5G76-8Gc8cD.png",
-      "date": "2026-02-23",
-      "venue": "フルコンプ福岡天神店（福岡）"
-    },
-    {
-      "deckId": "VfbVkb-rWr51K-VfdFkk",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VfbVkb-rWr51K-VfdFkk.png",
-      "date": "2026-02-18",
-      "venue": "ドラゴンスター日本橋2号店（大阪）"
-    },
     {
       "deckId": "kfVFb1-At3cU9-VF5kFv",
       "rank": "TOP8",
