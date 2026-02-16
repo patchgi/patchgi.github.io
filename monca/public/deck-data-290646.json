@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-02-15T00:08:01.264Z",
+  "fetchedAt": "2026-02-16T00:08:32.319Z",
   "decks": [
+    {
+      "deckId": "LnngnL-PemIcL-g9HLHP",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LnngnL-PemIcL-g9HLHP.png",
+      "date": "2026-02-15",
+      "venue": "カードショップ彩々（鹿児島）"
+    },
+    {
+      "deckId": "ccGDc8-AHQCBg-88Yxc4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccGDc8-AHQCBg-88Yxc4.png",
+      "date": "2026-02-15",
+      "venue": "トレカステーション佐鳴台店（静岡）"
+    },
+    {
+      "deckId": "Nngn9g-rxqS2z-LnngNn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Nngn9g-rxqS2z-LnngNn.png",
+      "date": "2026-02-14",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
     {
       "deckId": "gL66nn-vQVeOf-N9HL9H",
       "rank": "TOP4",
