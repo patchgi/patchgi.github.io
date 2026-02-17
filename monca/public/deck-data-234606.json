@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-02-16T00:08:33.703Z",
+  "fetchedAt": "2026-02-17T00:09:02.285Z",
   "decks": [
+    {
+      "deckId": "dFwkfV-QlSq3l-bFbkV5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dFwkfV-QlSq3l-bFbkV5.png",
+      "date": "2026-02-16",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
     {
       "deckId": "QnnL9g-0WlrmG-gLgnNg",
       "rank": "TOP4",

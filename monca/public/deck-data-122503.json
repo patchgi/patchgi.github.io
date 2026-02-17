@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-02-16T00:08:32.151Z",
+  "fetchedAt": "2026-02-17T00:09:00.699Z",
   "decks": [
+    {
+      "deckId": "MUpRyX-EFncGh-RyXypp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MUpRyX-EFncGh-RyXypp.png",
+      "date": "2026-02-16",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
+    {
+      "deckId": "iQg9Ln-lfrIwr-nggNLn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/iQg9Ln-lfrIwr-nggNLn.png",
+      "date": "2026-02-16",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
+    {
+      "deckId": "Nngg9P-8jat5e-N9n9LN",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Nngg9P-8jat5e-N9n9LN.png",
+      "date": "2026-02-16",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
     {
       "deckId": "NHgHnQ-Q5TI1f-niLn9n",
       "rank": "TOP8",
