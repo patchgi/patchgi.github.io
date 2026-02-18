@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-02-17T00:09:02.105Z",
+  "fetchedAt": "2026-02-18T00:09:34.824Z",
   "decks": [
+    {
+      "deckId": "bVk5kk-qdgWSX-kkkFbk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bVk5kk-qdgWSX-kkkFbk.png",
+      "date": "2026-02-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "9nLQPg-GHGKZg-HQg9Nn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nLQPg-GHGKZg-HQg9Nn.png",
+      "date": "2026-02-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "xc84x8-XCwLYa-8xYKJG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xc84x8-XCwLYa-8xYKJG.png",
+      "date": "2026-02-15",
+      "venue": "京都ファミリー（京都）"
+    },
     {
       "deckId": "xY4cxY-kT5bPq-x8GK88",
       "rank": "TOP8",

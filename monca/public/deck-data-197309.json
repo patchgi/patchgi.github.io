@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-02-17T00:09:01.057Z",
+  "fetchedAt": "2026-02-18T00:09:33.605Z",
   "decks": [
+    {
+      "deckId": "RyMppy-VxuoEY-pyy2Ey",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RyMppy-VxuoEY-pyy2Ey.png",
+      "date": "2026-02-17",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "cc4Dx8-WFduDb-aGGc8c",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cc4Dx8-WFduDb-aGGc8c.png",
+      "date": "2026-02-17",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "Hgnn9Q-S2E5R1-NLgLnL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Hgnn9Q-S2E5R1-NLgLnL.png",
+      "date": "2026-02-15",
+      "venue": "京都ファミリー（京都）"
+    },
     {
       "deckId": "VFkkkv-mRE1Du-5VbV5b",
       "rank": "TOP8",
