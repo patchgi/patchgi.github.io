@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-02-18T00:09:33.819Z",
+  "fetchedAt": "2026-02-19T00:09:37.711Z",
   "decks": [
+    {
+      "deckId": "cGac84-ok3MVZ-Jx8cDc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cGac84-ok3MVZ-Jx8cDc.png",
+      "date": "2026-02-18",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
     {
       "deckId": "L9nng6-m7Zxpm-QHngnP",
       "rank": "TOP8",

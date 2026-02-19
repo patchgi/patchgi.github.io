@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-02-18T00:09:33.605Z",
+  "fetchedAt": "2026-02-19T00:09:37.525Z",
   "decks": [
+    {
+      "deckId": "bFVkdk-KLlxbE-vkdkVF",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bFVkdk-KLlxbE-vkdkVF.png",
+      "date": "2026-02-17",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "RyMppy-VxuoEY-pyy2Ey",
       "rank": "優勝",
