@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-02-19T00:09:37.160Z",
+  "fetchedAt": "2026-02-20T00:08:06.729Z",
   "decks": [
+    {
+      "deckId": "pMpS2y-pYGblE-XyRS3M",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMpS2y-pYGblE-XyRS3M.png",
+      "date": "2026-02-19",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "pyMpRR-rhqEdT-p3pMMy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyMpRR-rhqEdT-p3pMMy.png",
+      "date": "2026-02-19",
+      "venue": "秋葉原チェルモ（東京）"
+    },
     {
       "deckId": "88DcGx-J9wbe1-x8ccac",
       "rank": "TOP8",
