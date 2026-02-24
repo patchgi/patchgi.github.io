@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-02-23T00:08:04.417Z",
+  "fetchedAt": "2026-02-24T00:08:58.169Z",
   "decks": [
+    {
+      "deckId": "x8GY8c-j1AtfF-Y8G888",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8GY8c-j1AtfF-Y8G888.png",
+      "date": "2026-02-23",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
     {
       "deckId": "cGac84-ok3MVZ-Jx8cDc",
       "rank": "準優勝",

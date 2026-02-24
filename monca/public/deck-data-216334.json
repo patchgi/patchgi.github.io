@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-02-23T00:08:04.652Z",
+  "fetchedAt": "2026-02-24T00:08:58.350Z",
   "decks": [
+    {
+      "deckId": "ngHnnn-hfbTH4-Ngg9HN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngHnnn-hfbTH4-Ngg9HN.png",
+      "date": "2026-02-23",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "y3pRyy-ZCaxao-pyyXR2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y3pRyy-ZCaxao-pyyXR2.png",
+      "date": "2026-02-23",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "kkkkfb-gjRFMX-VvFVkk",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkkkfb-gjRFMX-VvFVkk.png",
+      "date": "2026-02-23",
+      "venue": "Super KaBoS 敦賀店（福井）"
+    },
     {
       "deckId": "DDD8cx-tgfAbG-8G8Yc4",
       "rank": "優勝",

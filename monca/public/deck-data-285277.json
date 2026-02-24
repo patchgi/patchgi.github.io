@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-02-23T00:08:04.897Z",
+  "fetchedAt": "2026-02-24T00:08:58.537Z",
   "decks": [
+    {
+      "deckId": "xD8YcJ-HW5G76-8Gc8cD",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xD8YcJ-HW5G76-8Gc8cD.png",
+      "date": "2026-02-23",
+      "venue": "フルコンプ福岡天神店（福岡）"
+    },
     {
       "deckId": "VfbVkb-rWr51K-VfdFkk",
       "rank": "TOP8",
