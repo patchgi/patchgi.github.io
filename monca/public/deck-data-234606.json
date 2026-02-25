@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-02-24T00:08:59.289Z",
+  "fetchedAt": "2026-02-25T00:09:58.610Z",
   "decks": [
+    {
+      "deckId": "8G84ca-12DTdO-D8c84x",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8G84ca-12DTdO-D8c84x.png",
+      "date": "2026-02-24",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "g9ng6g-BILOrE-nLnLnn",
       "rank": "TOP8",

@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-02-24T00:08:57.595Z",
+  "fetchedAt": "2026-02-25T00:09:56.698Z",
   "decks": [
+    {
+      "deckId": "R2ypXX-WIuYHZ-MRUypy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/R2ypXX-WIuYHZ-MRUypy.png",
+      "date": "2026-02-24",
+      "venue": "バトロコ 藤沢駅北口（神奈川）"
+    },
+    {
+      "deckId": "yUpMRp-QmdVHU-2R3yyy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yUpMRp-QmdVHU-2R3yyy.png",
+      "date": "2026-02-24",
+      "venue": "バトロコ 藤沢駅北口（神奈川）"
+    },
+    {
+      "deckId": "pyyyyp-EdiaiL-yMp2RU",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyyyyp-EdiaiL-yMp2RU.png",
+      "date": "2026-02-24",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "NQnngH-l9g3pv-L9Hngn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NQnngH-l9g3pv-L9Hngn.png",
+      "date": "2026-02-24",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "yypyXR-bUBwIB-yUpURp",
       "rank": "TOP4",
