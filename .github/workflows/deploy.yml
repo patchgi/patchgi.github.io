@@ -39,10 +39,19 @@ jobs:
           BASE_PATH: /monca/
         run: npm run build
 
-      - name: Prepare artifact (under monca/)
+      - name: Prepare artifact
         run: |
           mkdir -p deploy/monca
           cp -r monca/dist/* deploy/monca/
+          if [ -d lol-coaching ]; then
+            cp -r lol-coaching deploy/lol-coaching
+          fi
+          if [ -f index.html ]; then
+            cp index.html deploy/
+          fi
+          if [ -f CNAME ]; then
+            cp CNAME deploy/
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
