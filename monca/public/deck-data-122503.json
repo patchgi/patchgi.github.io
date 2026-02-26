@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-02-25T00:09:56.698Z",
+  "fetchedAt": "2026-02-26T00:11:19.141Z",
   "decks": [
+    {
+      "deckId": "888YcG-awBKfU-8x88cG",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/888YcG-awBKfU-8x88cG.png",
+      "date": "2026-02-25",
+      "venue": "GIRAFULL京都店（京都）"
+    },
+    {
+      "deckId": "2yyR2p-xP4gXk-pyRSXM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2yyR2p-xP4gXk-pyRSXM.png",
+      "date": "2026-02-25",
+      "venue": "GIRAFULL京都店（京都）"
+    },
     {
       "deckId": "R2ypXX-WIuYHZ-MRUypy",
       "rank": "TOP8",

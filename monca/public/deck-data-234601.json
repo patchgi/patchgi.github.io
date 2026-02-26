@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-02-25T00:09:58.183Z",
+  "fetchedAt": "2026-02-26T00:11:20.550Z",
   "decks": [
+    {
+      "deckId": "HnQNPg-Z3IHHL-ngH9nQ",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HnQNPg-Z3IHHL-ngH9nQ.png",
+      "date": "2026-02-25",
+      "venue": "GIRAFULL京都店（京都）"
+    },
     {
       "deckId": "fkkbkF-ZXBJjz-kkbVkk",
       "rank": "TOP8",
