@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-02-27T00:09:29.236Z",
+  "fetchedAt": "2026-02-28T00:06:46.003Z",
   "decks": [
+    {
+      "deckId": "RRyppX-KVTj0Z-yy2Xyy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RRyppX-KVTj0Z-yy2Xyy.png",
+      "date": "2026-02-27",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
     {
       "deckId": "8G84ca-12DTdO-D8c84x",
       "rank": "準優勝",

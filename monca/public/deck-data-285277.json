@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-02-27T00:09:28.534Z",
+  "fetchedAt": "2026-02-28T00:06:45.083Z",
   "decks": [
+    {
+      "deckId": "c8G88c-83aKEI-JD4acY",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c8G88c-83aKEI-JD4acY.png",
+      "date": "2026-02-27",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "xD8YcJ-HW5G76-8Gc8cD",
       "rank": "優勝",

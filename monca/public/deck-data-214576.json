@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-02-27T00:09:28.707Z",
+  "fetchedAt": "2026-02-28T00:06:45.312Z",
   "decks": [
+    {
+      "deckId": "9nNgPn-2XOc8H-n9NnNn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nNgPn-2XOc8H-n9NnNn.png",
+      "date": "2026-02-27",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "ca88xY-chNudz-ca88GJ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ca88xY-chNudz-ca88GJ.png",
+      "date": "2026-02-27",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "nN9ng9-nlRONN-QgQggn",
       "rank": "優勝",
