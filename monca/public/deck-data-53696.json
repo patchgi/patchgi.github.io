@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-02-28T00:06:45.780Z",
+  "fetchedAt": "2026-03-01T00:07:54.839Z",
   "decks": [
+    {
+      "deckId": "5bkwdV-Q1O3D7-FkkkVF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5bkwdV-Q1O3D7-FkkkVF.png",
+      "date": "2026-02-28",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "gLQi9n-dcQZoo-gHgngn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLQi9n-dcQZoo-gHgngn.png",
+      "date": "2026-02-28",
+      "venue": "バトロコミニ十和田店（青森）"
+    },
+    {
+      "deckId": "iPngg9-b1XRtj-HnPLnn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/iPngg9-b1XRtj-HnPLnn.png",
+      "date": "2026-02-28",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "9LigQg-LUWldP-nnnnQQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LigQg-LUWldP-nnnnQQ.png",
+      "date": "2026-02-28",
+      "venue": "ブックオフ イトーヨカドー溝ノ口店（神奈川）"
+    },
+    {
+      "deckId": "nn9ign-DL5oYV-nNn9NL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nn9ign-DL5oYV-nNn9NL.png",
+      "date": "2026-02-28",
+      "venue": "ブックオフ イトーヨカドー溝ノ口店（神奈川）"
+    },
     {
       "deckId": "9ggQng-5hJvag-9nnnnL",
       "rank": "TOP8",

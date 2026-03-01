@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-02-28T00:06:44.853Z",
+  "fetchedAt": "2026-03-01T00:07:54.144Z",
   "decks": [
+    {
+      "deckId": "nnn9nH-ISNyWC-gnLHPn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnn9nH-ISNyWC-gnLHPn.png",
+      "date": "2026-02-28",
+      "venue": "バトロコ 本厚木駅前（神奈川）"
+    },
+    {
+      "deckId": "LNn9gg-4zKKFg-nnn9Pi",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LNn9gg-4zKKFg-nnn9Pi.png",
+      "date": "2026-02-28",
+      "venue": "バトロコミニ十和田店（青森）"
+    },
+    {
+      "deckId": "pRyppy-wmtfMU-yypUyM",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRyppy-wmtfMU-yypUyM.png",
+      "date": "2026-02-28",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "ppXypM-g26vDV-RyUSpy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppXypM-g26vDV-RyUSpy.png",
+      "date": "2026-02-28",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "DDD8cx-tgfAbG-8G8Yc4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDD8cx-tgfAbG-8G8Yc4.png",
+      "date": "2026-02-28",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
     {
       "deckId": "nn9gnn-KTeQQt-gHHNnH",
       "rank": "TOP8",

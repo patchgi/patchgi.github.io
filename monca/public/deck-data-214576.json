@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-02-28T00:06:45.312Z",
+  "fetchedAt": "2026-03-01T00:07:54.486Z",
   "decks": [
+    {
+      "deckId": "Ja8cDc-Nji2D8-884Gc8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ja8cDc-Nji2D8-884Gc8.png",
+      "date": "2026-02-28",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
     {
       "deckId": "9nNgPn-2XOc8H-n9NnNn",
       "rank": "準優勝",
