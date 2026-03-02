@@ -1,7 +1,119 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-01T00:07:54.144Z",
+  "fetchedAt": "2026-03-02T00:07:07.603Z",
   "decks": [
+    {
+      "deckId": "G8Gc8D-tKo4gJ-Ycxa48",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G8Gc8D-tKo4gJ-Ycxa48.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "8Y4cGx-l7L3BL-c8c8xG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Y4cGx-l7L3BL-c8c8xG.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "8acx8D-xYhHoY-Gcx8cx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8acx8D-xYhHoY-Gcx8cx.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "yMUyRM-PZJiyi-ppXXpR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMUyRM-PZJiyi-ppXXpR.png",
+      "date": "2026-03-01",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "iggNHi-k6rNJv-HnLL9g",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/iggNHi-k6rNJv-HnLL9g.png",
+      "date": "2026-03-01",
+      "venue": "GIRAFULLなんば店（大阪）-1"
+    },
+    {
+      "deckId": "ccGcc8-bAoEc4-88YDG8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccGcc8-bAoEc4-88YDG8.png",
+      "date": "2026-03-01",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "FkbVkF-CCSc4u-V1kkFV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkbVkF-CCSc4u-V1kkFV.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF イオン橋本（神奈川）"
+    },
+    {
+      "deckId": "8aD888-fZkVPJ-4Gc8c8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8aD888-fZkVPJ-4Gc8c8.png",
+      "date": "2026-03-01",
+      "venue": "鹿角ラボ（秋田）"
+    },
+    {
+      "deckId": "Ln9Nng-TvTFEH-ngN6Ln",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ln9Nng-TvTFEH-ngN6Ln.png",
+      "date": "2026-03-01",
+      "venue": "Super KaBoS 鯖江店（福井）"
+    },
+    {
+      "deckId": "yRM2Xy-RmvinR-EypyyU",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRM2Xy-RmvinR-EypyyU.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "Vkkkkk-RznXbF-1Fk5bk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vkkkkk-RznXbF-1Fk5bk.png",
+      "date": "2026-03-01",
+      "venue": "竜星の嵐 小倉駅前店（福岡）"
+    },
+    {
+      "deckId": "RypMMp-MotdcM-yXRypU",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RypMMp-MotdcM-yXRypU.png",
+      "date": "2026-03-01",
+      "venue": "竜星の嵐 小倉駅前店（福岡）"
+    },
+    {
+      "deckId": "NggL9H-z4KoVc-nLgQQn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NggL9H-z4KoVc-nLgQQn.png",
+      "date": "2026-03-01",
+      "venue": "竜星の嵐 小倉駅前店（福岡）"
+    },
+    {
+      "deckId": "in9LgQ-BUlHUK-HnnnnQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/in9LgQ-BUlHUK-HnnnnQ.png",
+      "date": "2026-03-01",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "n6gnig-VG8oIX-nLLng9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n6gnig-VG8oIX-nLLng9.png",
+      "date": "2026-03-01",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "1kFvkf-2l935H-Vbkkkf",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1kFvkf-2l935H-Vbkkkf.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF 西友大森店（東京）"
+    },
     {
       "deckId": "nnn9nH-ISNyWC-gnLHPn",
       "rank": "優勝",

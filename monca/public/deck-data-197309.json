@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-01T00:07:53.798Z",
+  "fetchedAt": "2026-03-02T00:07:07.161Z",
   "decks": [
+    {
+      "deckId": "c8J8D4-kuMGOu-cGcDx8",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c8J8D4-kuMGOu-cGcDx8.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "nnnngn-PuQxf2-9n9Qgn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnnngn-PuQxf2-9n9Qgn.png",
+      "date": "2026-03-01",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "8cY8DY-zrcUVX-xGcxJc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cY8DY-zrcUVX-xGcxJc.png",
+      "date": "2026-03-01",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "5fbFwV-h0oqkc-kFVFfF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5fbFwV-h0oqkc-kFVFfF.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
+    {
+      "deckId": "fVFfFk-vfZK1C-FfbfFF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fVFfFk-vfZK1C-FfbfFF.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF イオン橋本（神奈川）"
+    },
+    {
+      "deckId": "Fbkbw5-wZhhIi-bkFkFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fbkbw5-wZhhIi-bkFkFk.png",
+      "date": "2026-03-01",
+      "venue": "鹿角ラボ（秋田）"
+    },
+    {
+      "deckId": "8c8c88-cEuaK7-Ya8D8G",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8c8c88-cEuaK7-Ya8D8G.png",
+      "date": "2026-03-01",
+      "venue": "鹿角ラボ（秋田）"
+    },
+    {
+      "deckId": "cDG8G8-wrxk5Y-88Gc8x",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cDG8G8-wrxk5Y-88Gc8x.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF 西友大森店（東京）"
+    },
     {
       "deckId": "ngngQn-udKQSx-n9HnQn",
       "rank": "優勝",

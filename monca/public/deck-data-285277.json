@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-03-01T00:07:54.313Z",
+  "fetchedAt": "2026-03-02T00:07:07.814Z",
   "decks": [
+    {
+      "deckId": "8GY88Y-0KrNvr-xaxc48",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8GY88Y-0KrNvr-xaxc48.png",
+      "date": "2026-03-01",
+      "venue": "青馬堂本店（神奈川）"
+    },
     {
       "deckId": "c8G88c-83aKEI-JD4acY",
       "rank": "TOP4",

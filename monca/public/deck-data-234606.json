@@ -1,7 +1,77 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-01T00:07:55.005Z",
+  "fetchedAt": "2026-03-02T00:07:08.655Z",
   "decks": [
+    {
+      "deckId": "Fkw5fb-BYZaP9-FFkFVV",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fkw5fb-BYZaP9-FFkFVV.png",
+      "date": "2026-03-01",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "F5Fbb1-NdRNc7-FffkVV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/F5Fbb1-NdRNc7-FffkVV.png",
+      "date": "2026-03-01",
+      "venue": "京都ファミリー（京都）"
+    },
+    {
+      "deckId": "8KcaGc-U57Zm8-x8c8Ja",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8KcaGc-U57Zm8-x8c8Ja.png",
+      "date": "2026-03-01",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "kFdbkk-FJHMDK-kkbvwF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFdbkk-FJHMDK-kkbvwF.png",
+      "date": "2026-03-01",
+      "venue": "タッチ松本店（長野）"
+    },
+    {
+      "deckId": "pRyyS2-I0Bd3X-32yXXM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRyyS2-I0Bd3X-32yXXM.png",
+      "date": "2026-03-01",
+      "venue": "Super KaBoS 鯖江店（福井）"
+    },
+    {
+      "deckId": "PgQnNg-OgEQWp-gNNgL9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PgQnNg-OgEQWp-gNNgL9.png",
+      "date": "2026-03-01",
+      "venue": "カードショップ＠ほ～む。（鹿児島）"
+    },
+    {
+      "deckId": "1kFbkf-zKUUlO-kvfkkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1kFbkf-zKUUlO-kvfkkV.png",
+      "date": "2026-03-01",
+      "venue": "ドラゴンスター神戸三宮店（兵庫）"
+    },
+    {
+      "deckId": "PNigH9-Pe7u9m-nLnng9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PNigH9-Pe7u9m-nLnng9.png",
+      "date": "2026-03-01",
+      "venue": "竜星の嵐 小倉駅前店（福岡）"
+    },
+    {
+      "deckId": "cx8c4c-I2zEJ1-D4acGx",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cx8c4c-I2zEJ1-D4acGx.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF アミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "GccDY8-b0NCLX-D8a88x",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GccDY8-b0NCLX-D8a88x.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFF アミューあつぎ店（神奈川）"
+    },
     {
       "deckId": "RRyppX-KVTj0Z-yy2Xyy",
       "rank": "TOP4",

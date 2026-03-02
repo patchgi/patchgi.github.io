@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-01T00:07:53.975Z",
+  "fetchedAt": "2026-03-02T00:07:07.389Z",
   "decks": [
+    {
+      "deckId": "9nngnH-1yYilm-nniNn9",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nngnH-1yYilm-nniNn9.png",
+      "date": "2026-03-01",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
     {
       "deckId": "ngQnHN-GmeGEL-ng9HHL",
       "rank": "TOP8",
