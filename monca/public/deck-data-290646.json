@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-03-02T00:07:06.944Z",
+  "fetchedAt": "2026-03-03T00:08:58.329Z",
   "decks": [
+    {
+      "deckId": "MyXMRp-qbZyy7-pyX2pp",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MyXMRp-qbZyy7-pyX2pp.png",
+      "date": "2026-03-02",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
     {
       "deckId": "fkVbFb-2xUmDk-wFFk5k",
       "rank": "TOP8",
