@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-03T00:09:00.168Z",
+  "fetchedAt": "2026-03-04T00:08:25.353Z",
   "decks": [
+    {
+      "deckId": "FFFFkV-07VNYm-5fb1ff",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFFFkV-07VNYm-5fb1ff.png",
+      "date": "2026-03-03",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "Fkw5fb-BYZaP9-FFkFVV",
       "rank": "TOP4",
@@ -71,6 +78,13 @@
       "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GccDY8-b0NCLX-D8a88x.png",
       "date": "2026-03-01",
       "venue": "BOOKOFF アミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "gg69QP-YOe3kx-LnnnnL",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gg69QP-YOe3kx-LnnnnL.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF町田中央通り店（東京）"
     },
     {
       "deckId": "RRyppX-KVTj0Z-yy2Xyy",

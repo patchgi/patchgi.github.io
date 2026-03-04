@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-03T00:08:58.099Z",
+  "fetchedAt": "2026-03-04T00:08:23.435Z",
   "decks": [
+    {
+      "deckId": "LHQgQn-PZ3RIa-9NgLnn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LHQgQn-PZ3RIa-9NgLnn.png",
+      "date": "2026-03-03",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "FbkkfF-7t18Rm-ffFFb1",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FbkkfF-7t18Rm-ffFFb1.png",
+      "date": "2026-03-03",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "5FkkbF-E77C66-fkkkvd",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5FkkbF-E77C66-fkkkvd.png",
+      "date": "2026-03-03",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "YxDD4c-k2ZH5w-G8c8Dc",
       "rank": "優勝",
@@ -316,6 +337,41 @@
       "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NPQi9n-pCGoLi-nnn9ng.png",
       "date": "2026-03-01",
       "venue": "BOOKOFF 西友大森店（東京）"
+    },
+    {
+      "deckId": "kdk1bk-fbySbT-vkFFVF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kdk1bk-fbySbT-vkFFVF.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
+    {
+      "deckId": "4GK8xJ-b4mV6C-8D8c4x",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4GK8xJ-b4mV6C-8D8c4x.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF立川駅北口店（東京）"
+    },
+    {
+      "deckId": "FkkkVb-bW3vvC-kFVF51",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkkkVb-bW3vvC-kFVF51.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF町田中央通り店（東京）"
+    },
+    {
+      "deckId": "ypySRy-BT6toV-SXUpyM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypySRy-BT6toV-SXUpyM.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF町田中央通り店（東京）"
+    },
+    {
+      "deckId": "bkkFfF-27VFYC-F1kb1b",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bkkFfF-27VFYC-F1kb1b.png",
+      "date": "2026-02-28",
+      "venue": "BOOKOFF町田中央通り店（東京）"
     },
     {
       "deckId": "bk5FF1-Sv7Tl4-kVFkFk",

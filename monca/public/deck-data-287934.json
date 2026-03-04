@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-03T00:08:58.804Z",
+  "fetchedAt": "2026-03-04T00:08:24.089Z",
   "decks": [
+    {
+      "deckId": "2ppX2y-UJgwAT-ppR2Xp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2ppX2y-UJgwAT-ppR2Xp.png",
+      "date": "2026-03-03",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "9nngnH-1yYilm-nniNn9",
       "rank": "準優勝",
