@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-03-04T00:08:24.721Z",
+  "fetchedAt": "2026-03-05T00:08:37.678Z",
   "decks": [
+    {
+      "deckId": "gngngH-PVcDUd-HN9giQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gngngH-PVcDUd-HN9giQ.png",
+      "date": "2026-03-04",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "ppMEp2-T5uGMd-pyXpyR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppMEp2-T5uGMd-pyXpyR.png",
+      "date": "2026-03-04",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "dbVVFF-OMoIJd-f5FFkF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dbVVFF-OMoIJd-f5FFkF.png",
+      "date": "2026-03-04",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "5kfFFb-AR6rzp-Ffk55v",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5kfFFb-AR6rzp-Ffk55v.png",
+      "date": "2026-03-04",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
     {
       "deckId": "nQNQgg-m9Q33d-gggLL9",
       "rank": "TOP8",

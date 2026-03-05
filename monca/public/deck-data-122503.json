@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-04T00:08:23.435Z",
+  "fetchedAt": "2026-03-05T00:08:36.374Z",
   "decks": [
+    {
+      "deckId": "SUpp2p-J3QmRg-yR2pXy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SUpp2p-J3QmRg-yR2pXy.png",
+      "date": "2026-03-04",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "FFkfFV-F4heQ8-bV5Ff5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFkfFV-F4heQ8-bV5Ff5.png",
+      "date": "2026-03-04",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "kV5FFV-DC0aVz-bffbkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kV5FFV-DC0aVz-bffbkF.png",
+      "date": "2026-03-04",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "4c8cGc-JSA6P2-DGK88c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4c8cGc-JSA6P2-DGK88c.png",
+      "date": "2026-03-04",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "NggN9n-XBoU1u-QggnH9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NggN9n-XBoU1u-QggnH9.png",
+      "date": "2026-03-04",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
+    {
+      "deckId": "ypXRpX-tC8KBc-XRyMy2",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypXRpX-tC8KBc-XRyMy2.png",
+      "date": "2026-03-04",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "8G8K8G-x0IaGr-x88cxY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8G8K8G-x0IaGr-x88cxY.png",
+      "date": "2026-03-03",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "8DcYG8-oSRZ21-cxc8JG",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8DcYG8-oSRZ21-cxc8JG.png",
+      "date": "2026-03-03",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "LHQgQn-PZ3RIa-9NgLnn",
       "rank": "TOP8",
