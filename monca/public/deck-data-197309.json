@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-05T00:08:36.806Z",
+  "fetchedAt": "2026-03-06T00:13:41.584Z",
   "decks": [
+    {
+      "deckId": "GxcDY8-9YQcuk-ccG8xc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GxcDY8-9YQcuk-ccG8xc.png",
+      "date": "2026-03-05",
+      "venue": "トレカショップVOW（滋賀）"
+    },
     {
       "deckId": "8G8D48-RCzgjE-DccDxc",
       "rank": "優勝",
