@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-06T00:13:42.009Z",
+  "fetchedAt": "2026-03-07T00:07:43.588Z",
   "decks": [
+    {
+      "deckId": "VFFvbF-OQnmgi-kbbfFf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFFvbF-OQnmgi-kbbfFf.png",
+      "date": "2026-03-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "NnnL9g-1JwCDP-PgPN6H",
       "rank": "TOP4",

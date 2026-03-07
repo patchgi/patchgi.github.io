@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-06T00:13:43.046Z",
+  "fetchedAt": "2026-03-07T00:07:44.659Z",
   "decks": [
+    {
+      "deckId": "LQgHHQ-HWdX5E-9nN9gg",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LQgHHQ-HWdX5E-9nN9gg.png",
+      "date": "2026-03-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "yXXRpy-dtqcOw-pMUSMp",
       "rank": "TOP8",

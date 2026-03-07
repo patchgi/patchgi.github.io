@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-06T00:13:42.841Z",
+  "fetchedAt": "2026-03-07T00:07:44.450Z",
   "decks": [
+    {
+      "deckId": "ppESRp-IHGfyh-RpXyyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppESRp-IHGfyh-RpXyyp.png",
+      "date": "2026-03-05",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
     {
       "deckId": "8Dc8Yc-lSYCkq-cDD8G8",
       "rank": "優勝",

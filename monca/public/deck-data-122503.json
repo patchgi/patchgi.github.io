@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-06T00:13:41.064Z",
+  "fetchedAt": "2026-03-07T00:07:42.704Z",
   "decks": [
+    {
+      "deckId": "FFbFF5-wqwUAK-fkFbFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFbFF5-wqwUAK-fkFbFk.png",
+      "date": "2026-03-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "f5Fwfk-nK1Ulk-kkkVbF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/f5Fwfk-nK1Ulk-kkkVbF.png",
+      "date": "2026-03-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "igNgnn-Keob1f-9ggNN9",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/igNgnn-Keob1f-9ggNN9.png",
+      "date": "2026-03-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "S2yppp-JrjkPZ-yyRpXX",
       "rank": "TOP8",
