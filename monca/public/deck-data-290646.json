@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-03-07T00:07:42.914Z",
+  "fetchedAt": "2026-03-08T00:07:12.952Z",
   "decks": [
+    {
+      "deckId": "x8YxYc-AU4V8B-4GxK8G",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8YxYc-AU4V8B-4GxK8G.png",
+      "date": "2026-03-07",
+      "venue": "王の洞窟 岐南本店（岐阜）"
+    },
     {
       "deckId": "MyXMRp-qbZyy7-pyX2pp",
       "rank": "準優勝",

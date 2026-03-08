@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-03-07T00:07:43.802Z",
+  "fetchedAt": "2026-03-08T00:07:13.695Z",
   "decks": [
+    {
+      "deckId": "8cYxcJ-CoUtLU-G8xDGY",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cYxcJ-CoUtLU-G8xDGY.png",
+      "date": "2026-03-07",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
+    {
+      "deckId": "nPg9Nn-kPK7K4-PQgggg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPg9Nn-kPK7K4-PQgggg.png",
+      "date": "2026-03-07",
+      "venue": "ブックオフ田富昭和通り店（山梨）"
+    },
     {
       "deckId": "VFfkFF-BWFrlu-dFbfkF",
       "rank": "優勝",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-07T00:07:43.588Z",
+  "fetchedAt": "2026-03-08T00:07:13.509Z",
   "decks": [
+    {
+      "deckId": "pR2pXR-uhdZlV-y2XEyp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pR2pXR-uhdZlV-y2XEyp.png",
+      "date": "2026-03-07",
+      "venue": "WonderGOO つくば店（茨城）"
+    },
     {
       "deckId": "VFFvbF-OQnmgi-kbbfFf",
       "rank": "TOP8",

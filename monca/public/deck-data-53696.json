@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-07T00:07:44.450Z",
+  "fetchedAt": "2026-03-08T00:07:14.226Z",
   "decks": [
+    {
+      "deckId": "8GcDcG-t6hKUA-GDc8YD",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8GcDcG-t6hKUA-GDc8YD.png",
+      "date": "2026-03-07",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
+    {
+      "deckId": "gnNgnH-NaD0DP-9g69NL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gnNgnH-NaD0DP-9g69NL.png",
+      "date": "2026-03-07",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
+    {
+      "deckId": "QnLggL-dSXOkO-99HPNg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QnLggL-dSXOkO-99HPNg.png",
+      "date": "2026-03-07",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
+    {
+      "deckId": "2XRXyy-QnjWmV-yp2pSy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2XRXyy-QnjWmV-yp2pSy.png",
+      "date": "2026-03-07",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "nN9gQg-24mceM-N9gQn6",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nN9gQg-24mceM-N9gQn6.png",
+      "date": "2026-03-07",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
+    {
+      "deckId": "ccJcG8-YLaJvp-DKcc8c",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccJcG8-YLaJvp-DKcc8c.png",
+      "date": "2026-03-07",
+      "venue": "王の洞窟 岐南本店（岐阜）"
+    },
+    {
+      "deckId": "Ng9gLg-cgVhCP-PgNPnP",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ng9gLg-cgVhCP-PgNPnP.png",
+      "date": "2026-03-07",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
+    {
+      "deckId": "Kx8DGx-DjLokH-caGJxc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Kx8DGx-DjLokH-caGJxc.png",
+      "date": "2026-03-07",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
+    {
+      "deckId": "g9PNg9-hYgKXU-iNNngn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9PNg9-hYgKXU-iNNngn.png",
+      "date": "2026-03-07",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
     {
       "deckId": "ppESRp-IHGfyh-RpXyyp",
       "rank": "TOP8",
