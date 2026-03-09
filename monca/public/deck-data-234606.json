@@ -1,7 +1,77 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-08T00:07:14.404Z",
+  "fetchedAt": "2026-03-09T00:07:35.016Z",
   "decks": [
+    {
+      "deckId": "MXMyXp-KNJeB9-MRyp2E",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MXMyXp-KNJeB9-MRyp2E.png",
+      "date": "2026-03-08",
+      "venue": "宝島 酒田店（山形）"
+    },
+    {
+      "deckId": "5fkkbd-6TCZLv-VFFbkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5fkkbd-6TCZLv-VFFbkF.png",
+      "date": "2026-03-08",
+      "venue": "宝島 酒田店（山形）"
+    },
+    {
+      "deckId": "fbFdk1-2uOKJH-VdFFkf",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fbFdk1-2uOKJH-VdFFkf.png",
+      "date": "2026-03-08",
+      "venue": "宝島 酒田店（山形）"
+    },
+    {
+      "deckId": "gPHnLH-q4cYNU-ginNn9",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gPHnLH-q4cYNU-ginNn9.png",
+      "date": "2026-03-08",
+      "venue": "宝島 酒田店（山形）"
+    },
+    {
+      "deckId": "yXXRpy-dtqcOw-pMUSMp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXXRpy-dtqcOw-pMUSMp.png",
+      "date": "2026-03-08",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "88DxG8-ABcaak-4cKKcJ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/88DxG8-ABcaak-4cKKcJ.png",
+      "date": "2026-03-08",
+      "venue": "バトロコ 盛岡大通（岩手）"
+    },
+    {
+      "deckId": "ngg99g-HmxuHk-NN9iNH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngg99g-HmxuHk-NN9iNH.png",
+      "date": "2026-03-08",
+      "venue": "ドラゴンスター泉佐野店（大阪）"
+    },
+    {
+      "deckId": "nQnngi-0YtTLZ-gNg99g",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nQnngi-0YtTLZ-gNg99g.png",
+      "date": "2026-03-08",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "bFfkFV-fcUF8W-bFvF1b",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bFfkFV-fcUF8W-bFvF1b.png",
+      "date": "2026-03-08",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "k1FbdF-Ep1vKO-FFkfF5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/k1FbdF-Ep1vKO-FFkfF5.png",
+      "date": "2026-03-08",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "Gc8Dc4-ZL7mVQ-a88cGc",
       "rank": "TOP8",

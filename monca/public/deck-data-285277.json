@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-03-08T00:07:13.695Z",
+  "fetchedAt": "2026-03-09T00:07:34.130Z",
   "decks": [
+    {
+      "deckId": "pMpRpy-oJPw8L-XM3Upp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMpRpy-oJPw8L-XM3Upp.png",
+      "date": "2026-03-08",
+      "venue": "ゲームアーク 丸亀店（香川）"
+    },
     {
       "deckId": "8cYxcJ-CoUtLU-G8xDGY",
       "rank": "優勝",
