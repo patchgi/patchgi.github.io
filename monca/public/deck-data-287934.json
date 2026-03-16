@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-14T00:09:30.610Z",
+  "fetchedAt": "2026-03-16T00:10:02.622Z",
   "decks": [
+    {
+      "deckId": "2pXpEy-fwF5n0-RMXpyy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2pXpEy-fwF5n0-RMXpyy.png",
+      "date": "2026-03-14",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
     {
       "deckId": "kkFffF-tT6Tn8-5bFfkd",
       "rank": "TOP8",

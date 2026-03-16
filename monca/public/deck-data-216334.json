@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-14T00:09:30.808Z",
+  "fetchedAt": "2026-03-16T00:10:02.806Z",
   "decks": [
+    {
+      "deckId": "SXppyp-nG2uVS-RpMSXp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SXppyp-nG2uVS-RpMSXp.png",
+      "date": "2026-03-15",
+      "venue": "BOOKOFF イオン橋本（神奈川）"
+    },
+    {
+      "deckId": "yMpp32-OSD1qz-ppXyXR",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMpp32-OSD1qz-ppXyXR.png",
+      "date": "2026-03-15",
+      "venue": "BOOKOFF 松戸駅東口店（千葉）"
+    },
+    {
+      "deckId": "bbVVkV-mdjYEf-kFVf15",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bbVVkV-mdjYEf-kFVf15.png",
+      "date": "2026-03-15",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "n69nNg-8u5P5m-QQLHLn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n69nNg-8u5P5m-QQLHLn.png",
+      "date": "2026-03-15",
+      "venue": "王の洞窟jr. 一宮２２号バイパス店（愛知）"
+    },
     {
       "deckId": "X2Xyyp-dwn52v-E2pXR3",
       "rank": "準優勝",

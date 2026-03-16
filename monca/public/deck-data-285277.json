@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-03-14T00:09:31.003Z",
+  "fetchedAt": "2026-03-16T00:10:02.990Z",
   "decks": [
+    {
+      "deckId": "DcxJ8x-MddcJo-G8Gxx4",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DcxJ8x-MddcJo-G8Gxx4.png",
+      "date": "2026-03-15",
+      "venue": "【CARDBOX】津店（三重）"
+    },
+    {
+      "deckId": "MXMXMp-yu2XPF-MRy23p",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MXMXMp-yu2XPF-MRy23p.png",
+      "date": "2026-03-15",
+      "venue": "BOOKOFF 松戸駅東口店（千葉）"
+    },
+    {
+      "deckId": "9LLNQn-fSEY6Y-nNHggn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LLNQn-fSEY6Y-nNHggn.png",
+      "date": "2026-03-15",
+      "venue": "Booksあんとく 三潴店（福岡）"
+    },
+    {
+      "deckId": "8xGKxc-FoBQ1b-48DG8x",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8xGKxc-FoBQ1b-48DG8x.png",
+      "date": "2026-03-15",
+      "venue": "王の洞窟jr. 一宮２２号バイパス店（愛知）"
+    },
+    {
+      "deckId": "bkfwkF-A9eNd4-vVvfkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bkfwkF-A9eNd4-vVvfkF.png",
+      "date": "2026-03-15",
+      "venue": "ビデオ100（徳島）"
+    },
+    {
+      "deckId": "FF5Vkb-KB3qi5-kfkVv5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FF5Vkb-KB3qi5-kfkVv5.png",
+      "date": "2026-03-14",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
+    {
+      "deckId": "DDc8xc-BxKgLv-GG8Yax",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDc8xc-BxKgLv-GG8Yax.png",
+      "date": "2026-03-14",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
+    {
+      "deckId": "c8GDD8-abjDBB-48Gx8D",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c8GDD8-abjDBB-48Gx8D.png",
+      "date": "2026-03-14",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
     {
       "deckId": "pMpRpy-oJPw8L-XM3Upp",
       "rank": "TOP4",

@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-14T00:09:31.583Z",
+  "fetchedAt": "2026-03-16T00:10:03.546Z",
   "decks": [
+    {
+      "deckId": "NnngNn-1jtmTW-LNN9gH",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NnngNn-1jtmTW-LNN9gH.png",
+      "date": "2026-03-15",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "VbFvFf-leNjAO-kVV11V",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VbFvFf-leNjAO-kVV11V.png",
+      "date": "2026-03-15",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "DG8acx-WzWNGj-4x8c4c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DG8acx-WzWNGj-4x8c4c.png",
+      "date": "2026-03-15",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
+    {
+      "deckId": "kwFVfV-Ay3UQE-bbfffV",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kwFVfV-Ay3UQE-bbfffV.png",
+      "date": "2026-03-14",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
+    {
+      "deckId": "pyXyyX-eM3IyY-yMMXpR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyXyyX-eM3IyY-yMMXpR.png",
+      "date": "2026-03-14",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
+    {
+      "deckId": "kffVbf-c1Xcle-1kVFff",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kffVbf-c1Xcle-1kVFff.png",
+      "date": "2026-03-14",
+      "venue": "ブックオフイオン山形北店（山形）"
+    },
+    {
+      "deckId": "yX2pMp-F1GI1o-XSMRMR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yX2pMp-F1GI1o-XSMRMR.png",
+      "date": "2026-03-14",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "4DaaxG-BNWby8-xccD8D",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4DaaxG-BNWby8-xccD8D.png",
+      "date": "2026-03-14",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "yMMpRX-IVSK4M-pXMXRy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMMpRX-IVSK4M-pXMXRy.png",
+      "date": "2026-03-14",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
     {
       "deckId": "a8GD8c-nNTKn0-DcD8cc",
       "rank": "TOP8",
