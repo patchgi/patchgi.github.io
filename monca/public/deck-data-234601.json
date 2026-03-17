@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-03-16T00:10:03.366Z",
+  "fetchedAt": "2026-03-17T00:08:56.626Z",
   "decks": [
+    {
+      "deckId": "ppypRS-DVvdvA-pMyX3R",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppypRS-DVvdvA-pMyX3R.png",
+      "date": "2026-03-16",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
     {
       "deckId": "YD48DG-HukezU-8cD8x4",
       "rank": "TOP4",

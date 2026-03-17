@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-16T00:10:02.416Z",
+  "fetchedAt": "2026-03-17T00:08:55.471Z",
   "decks": [
+    {
+      "deckId": "NNgiNn-QwEOif-LgLH99",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NNgiNn-QwEOif-LgLH99.png",
+      "date": "2026-03-16",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
     {
       "deckId": "LgNHgQ-mk1xMo-LN9nnn",
       "rank": "準優勝",

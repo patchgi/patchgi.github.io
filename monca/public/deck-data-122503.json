@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-16T00:10:02.039Z",
+  "fetchedAt": "2026-03-17T00:08:55.011Z",
   "decks": [
+    {
+      "deckId": "p3Myy2-5x7jgT-XRSpSM",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p3Myy2-5x7jgT-XRSpSM.png",
+      "date": "2026-03-16",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "XpRRMX-LGVzv4-2pppyM",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XpRRMX-LGVzv4-2pppyM.png",
+      "date": "2026-03-16",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "LQHLLn-Rx5fW0-Ng99NN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LQHLLn-Rx5fW0-Ng99NN.png",
+      "date": "2026-03-15",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
     {
       "deckId": "LgLHNQ-bpfo3g-n9HnQg",
       "rank": "TOP8",
