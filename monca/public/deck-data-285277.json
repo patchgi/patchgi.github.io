@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-03-17T00:08:56.166Z",
+  "fetchedAt": "2026-03-18T00:10:01.589Z",
   "decks": [
+    {
+      "deckId": "y2XXpR-efETEN-ppMXME",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2XXpR-efETEN-ppMXME.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "DcxJ8x-MddcJo-G8Gxx4",
       "rank": "優勝",

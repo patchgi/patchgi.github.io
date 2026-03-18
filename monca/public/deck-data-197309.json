@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-17T00:08:55.471Z",
+  "fetchedAt": "2026-03-18T00:10:01.005Z",
   "decks": [
+    {
+      "deckId": "MM22Sy-VMvI5R-REppRX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MM22Sy-VMvI5R-REppRX.png",
+      "date": "2026-03-17",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "8J8DcG-zeRVcb-YcD8xJ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8J8DcG-zeRVcb-YcD8xJ.png",
+      "date": "2026-03-17",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "8cxDcc-NQ9cSa-xcJGcD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cxDcc-NQ9cSa-xcJGcD.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "NNgiNn-QwEOif-LgLH99",
       "rank": "TOP8",

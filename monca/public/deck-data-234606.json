@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-17T00:08:57.074Z",
+  "fetchedAt": "2026-03-18T00:10:04.081Z",
   "decks": [
+    {
+      "deckId": "RpyM3E-D6o9V5-pSpXyU",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RpyM3E-D6o9V5-pSpXyU.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "LgN9NQ-0hfHhU-nnniQQ",
       "rank": "TOP4",

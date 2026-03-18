@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-17T00:08:55.011Z",
+  "fetchedAt": "2026-03-18T00:10:00.652Z",
   "decks": [
+    {
+      "deckId": "n9QLQL-YKbiVk-P9NL6g",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n9QLQL-YKbiVk-P9NL6g.png",
+      "date": "2026-03-17",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "9gLnLN-9ChUU4-NgPng9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9gLnLN-9ChUU4-NgPng9.png",
+      "date": "2026-03-17",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "bfFVkk-Vbxiyu-vV551b",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bfFVkk-Vbxiyu-vV551b.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "LLi9Ng-LkoTzY-NgQn9L",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LLi9Ng-LkoTzY-NgQn9L.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "QPPLNg-gn0ZSj-L9iggn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QPPLNg-gn0ZSj-L9iggn.png",
+      "date": "2026-03-17",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "p3Myy2-5x7jgT-XRSpSM",
       "rank": "準優勝",

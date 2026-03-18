@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-17T00:08:56.850Z",
+  "fetchedAt": "2026-03-18T00:10:02.132Z",
   "decks": [
+    {
+      "deckId": "f5VkfF-uqZvB4-bkkbkF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/f5VkfF-uqZvB4-bkkbkF.png",
+      "date": "2026-03-17",
+      "venue": "スキップ玉出店（大阪）"
+    },
     {
       "deckId": "yMSXXS-F78pHk-2RXppS",
       "rank": "TOP8",
