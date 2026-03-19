@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-18T00:10:01.005Z",
+  "fetchedAt": "2026-03-19T00:09:03.485Z",
   "decks": [
+    {
+      "deckId": "PLL6n9-ndBqHn-LNgQNi",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PLL6n9-ndBqHn-LNgQNi.png",
+      "date": "2026-03-18",
+      "venue": "GIRAFULL京都店（京都）"
+    },
+    {
+      "deckId": "kkbfVF-jtY68a-5vdFvf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkbfVF-jtY68a-5vdFvf.png",
+      "date": "2026-03-18",
+      "venue": "Card Secret（東京）"
+    },
     {
       "deckId": "MM22Sy-VMvI5R-REppRX",
       "rank": "TOP8",

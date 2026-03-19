@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-18T00:10:04.081Z",
+  "fetchedAt": "2026-03-19T00:09:04.810Z",
   "decks": [
+    {
+      "deckId": "kbVk1F-ZYYakW-FFfvk1",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbVk1F-ZYYakW-FFfvk1.png",
+      "date": "2026-03-18",
+      "venue": "Card Secret（東京）"
+    },
     {
       "deckId": "RpyM3E-D6o9V5-pSpXyU",
       "rank": "TOP8",

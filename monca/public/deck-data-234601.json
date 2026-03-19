@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-03-18T00:10:01.959Z",
+  "fetchedAt": "2026-03-19T00:09:04.432Z",
   "decks": [
+    {
+      "deckId": "kfFdFb-TebgXP-db5fkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kfFdFb-TebgXP-db5fkV.png",
+      "date": "2026-03-18",
+      "venue": "GIRAFULL京都店（京都）"
+    },
     {
       "deckId": "FkFFVb-qoADU2-dvk5f5",
       "rank": "TOP4",
