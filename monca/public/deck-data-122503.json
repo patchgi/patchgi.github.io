@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-19T00:09:03.119Z",
+  "fetchedAt": "2026-03-20T00:09:05.348Z",
   "decks": [
+    {
+      "deckId": "py3pRE-W3ytZg-XpyXMp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/py3pRE-W3ytZg-XpyXMp.png",
+      "date": "2026-03-19",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "nNNgLn-iGqxSv-gN9ggi",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nNNgLn-iGqxSv-gN9ggi.png",
+      "date": "2026-03-19",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "ninNNL-Ra7Yny-gPN9Ln",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ninNNL-Ra7Yny-gPN9Ln.png",
+      "date": "2026-03-19",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "pMEMyX-RjkWtR-MyXSR2",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMEMyX-RjkWtR-MyXSR2.png",
+      "date": "2026-03-19",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
     {
       "deckId": "FkVVfk-YTZHyj-wfkbF1",
       "rank": "優勝",

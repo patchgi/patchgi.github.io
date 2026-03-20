@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-19T00:09:04.622Z",
+  "fetchedAt": "2026-03-20T00:09:07.109Z",
   "decks": [
+    {
+      "deckId": "NLgLig-UGaFC3-9ngn9n",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NLgLig-UGaFC3-9ngn9n.png",
+      "date": "2026-03-19",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
     {
       "deckId": "f5VkfF-uqZvB4-bkkbkF",
       "rank": "優勝",

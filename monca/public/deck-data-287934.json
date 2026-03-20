@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-19T00:09:03.686Z",
+  "fetchedAt": "2026-03-20T00:09:06.013Z",
   "decks": [
+    {
+      "deckId": "DDKJ8c-egmDzB-xxx8Gc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDKJ8c-egmDzB-xxx8Gc.png",
+      "date": "2026-03-19",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "2pXpEy-fwF5n0-RMXpyy",
       "rank": "TOP8",
