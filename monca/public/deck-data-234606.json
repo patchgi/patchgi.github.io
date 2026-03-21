@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-20T00:09:07.326Z",
+  "fetchedAt": "2026-03-21T00:08:05.605Z",
   "decks": [
+    {
+      "deckId": "nLnL9Q-27R9Ix-HLgNn6",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nLnL9Q-27R9Ix-HLgNn6.png",
+      "date": "2026-03-20",
+      "venue": "竜星の嵐 名古屋店（愛知）"
+    },
+    {
+      "deckId": "FfFb5w-1ghIR5-kkkbkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FfFb5w-1ghIR5-kkkbkV.png",
+      "date": "2026-03-20",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "1FFF1F-BXvuH4-kfbFkF",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1FFF1F-BXvuH4-kfbFkF.png",
+      "date": "2026-03-20",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "Uyppyy-Z3jTnA-SXpRyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Uyppyy-Z3jTnA-SXpRyp.png",
+      "date": "2026-03-20",
+      "venue": "竜星の嵐 高松店（香川）"
+    },
+    {
+      "deckId": "FkFfVV-dXWPz6-kFbk1F",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkFfVV-dXWPz6-kFbk1F.png",
+      "date": "2026-03-20",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
+    {
+      "deckId": "8x8c88-m9ADbY-KDxaYG",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8x8c88-m9ADbY-KDxaYG.png",
+      "date": "2026-03-20",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
+    {
+      "deckId": "X2M3RM-QIRWDf-REpy23",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/X2M3RM-QIRWDf-REpy23.png",
+      "date": "2026-03-20",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
     {
       "deckId": "wFkFkV-3R6zbP-51FbFf",
       "rank": "TOP4",

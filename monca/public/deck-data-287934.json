@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-20T00:09:06.013Z",
+  "fetchedAt": "2026-03-21T00:08:04.213Z",
   "decks": [
+    {
+      "deckId": "8cD8cc-SvLDTA-GGGxxc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cD8cc-SvLDTA-GGGxxc.png",
+      "date": "2026-03-20",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
     {
       "deckId": "DDKJ8c-egmDzB-xxx8Gc",
       "rank": "TOP8",

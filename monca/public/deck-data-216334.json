@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-20T00:09:06.226Z",
+  "fetchedAt": "2026-03-21T00:08:04.440Z",
   "decks": [
+    {
+      "deckId": "fkFfF5-QqyBAl-F1Fbkk",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fkFfF5-QqyBAl-F1Fbkk.png",
+      "date": "2026-03-20",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
     {
       "deckId": "SXppyp-nG2uVS-RpMSXp",
       "rank": "TOP4",

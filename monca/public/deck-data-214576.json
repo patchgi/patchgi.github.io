@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-03-20T00:09:06.669Z",
+  "fetchedAt": "2026-03-21T00:08:04.908Z",
   "decks": [
+    {
+      "deckId": "vkFkFf-Jww7O3-5bFvVF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkFkFf-Jww7O3-5bFvVF.png",
+      "date": "2026-03-20",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "3yyp2X-mXoHVE-RSypyM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/3yyp2X-mXoHVE-RSypyM.png",
+      "date": "2026-03-20",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "15kbfk-gph6jC-FFFvkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/15kbfk-gph6jC-FFFvkF.png",
+      "date": "2026-03-20",
+      "venue": "TSUTAYA土佐道路店（高知）"
+    },
+    {
+      "deckId": "cx4GKx-jTTMVK-JGD8xc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cx4GKx-jTTMVK-JGD8xc.png",
+      "date": "2026-03-20",
+      "venue": "TSUTAYA西友町田店（東京）"
+    },
     {
       "deckId": "ng99Hi-ZjpS9X-g9QLgN",
       "rank": "TOP4",
