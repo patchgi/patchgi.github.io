@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-03-21T00:08:04.213Z",
+  "fetchedAt": "2026-03-22T00:08:02.307Z",
   "decks": [
+    {
+      "deckId": "EMyRpX-1DO5ux-pMyXyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EMyRpX-1DO5ux-pMyXyp.png",
+      "date": "2026-03-21",
+      "venue": "フルコンプ千葉店（千葉）"
+    },
     {
       "deckId": "8cD8cc-SvLDTA-GGGxxc",
       "rank": "TOP8",

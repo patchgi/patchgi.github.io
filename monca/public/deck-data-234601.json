@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-03-21T00:08:05.145Z",
+  "fetchedAt": "2026-03-22T00:08:03.069Z",
   "decks": [
+    {
+      "deckId": "8DG8cG-nVC4cY-c8Dcx8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8DG8cG-nVC4cY-c8Dcx8.png",
+      "date": "2026-03-21",
+      "venue": "おもちゃのバンビ 本郷店（富山）"
+    },
+    {
+      "deckId": "vfkbFw-y4vbvM-VwkFFF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vfkbFw-y4vbvM-VwkFFF.png",
+      "date": "2026-03-21",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "ngLLi9-0Ibkio-HnN6iN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngLLi9-0Ibkio-HnN6iN.png",
+      "date": "2026-03-21",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "UyXypp-aESdwP-pyppRy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UyXypp-aESdwP-pyppRy.png",
+      "date": "2026-03-21",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
+    {
+      "deckId": "bkFfbF-NG8u7V-F5kkVk",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bkFfbF-NG8u7V-F5kkVk.png",
+      "date": "2026-03-21",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "ffkvFb-uxf5Ba-VfkFkf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ffkvFb-uxf5Ba-VfkFkf.png",
+      "date": "2026-03-21",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "yXypMX-FELaTT-pXpEMR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXypMX-FELaTT-pXpEMR.png",
+      "date": "2026-03-21",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
+    {
+      "deckId": "xDxcKD-L3GcIp-8cGK88",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xDxcKD-L3GcIp-8cGK88.png",
+      "date": "2026-03-20",
+      "venue": "ブックオフプラス浜北店（静岡）"
+    },
     {
       "deckId": "1vVkdb-pFVt4t-fFkvVV",
       "rank": "TOP8",

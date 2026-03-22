@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-03-21T00:08:05.373Z",
+  "fetchedAt": "2026-03-22T00:08:03.248Z",
   "decks": [
+    {
+      "deckId": "ppMpyR-qAHDZO-pyy2MX",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppMpyR-qAHDZO-pyy2MX.png",
+      "date": "2026-03-21",
+      "venue": "バトロコ 川崎駅前（神奈川）"
+    },
+    {
+      "deckId": "QngH9n-zyLRSr-NnNg9n",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QngH9n-zyLRSr-NnNg9n.png",
+      "date": "2026-03-21",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "yMXpy2-vYQiCq-XypXRp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMXpy2-vYQiCq-XypXRp.png",
+      "date": "2026-03-21",
+      "venue": "おもちゃのバンビ 本郷店（富山）"
+    },
+    {
+      "deckId": "gnLNnn-UhHa46-QQg69L",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gnLNnn-UhHa46-QQg69L.png",
+      "date": "2026-03-21",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "bk1Ffk-e30A3T-kkFVbk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bk1Ffk-e30A3T-kkFVbk.png",
+      "date": "2026-03-21",
+      "venue": "宝島 高蔵寺店（愛知）-2"
+    },
+    {
+      "deckId": "pyp3yR-3jh1R2-pXXyMp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyp3yR-3jh1R2-pXXyMp.png",
+      "date": "2026-03-21",
+      "venue": "宝島 高蔵寺店（愛知）-1"
+    },
     {
       "deckId": "fFFFkb-I5nyHh-kkVFkF",
       "rank": "TOP8",

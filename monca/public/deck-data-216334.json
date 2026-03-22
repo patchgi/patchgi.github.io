@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-03-21T00:08:04.440Z",
+  "fetchedAt": "2026-03-22T00:08:02.487Z",
   "decks": [
+    {
+      "deckId": "ggn9gN-NSHy7y-nHNnLL",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ggn9gN-NSHy7y-nHNnLL.png",
+      "date": "2026-03-21",
+      "venue": "Wonder GOO 入間店（埼玉）"
+    },
     {
       "deckId": "fkFfF5-QqyBAl-F1Fbkk",
       "rank": "準優勝",

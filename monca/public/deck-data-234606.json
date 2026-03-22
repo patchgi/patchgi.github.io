@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-21T00:08:05.605Z",
+  "fetchedAt": "2026-03-22T00:08:03.430Z",
   "decks": [
+    {
+      "deckId": "Qnnn6n-EkfaJT-QgnPn9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qnnn6n-EkfaJT-QgnPn9.png",
+      "date": "2026-03-21",
+      "venue": "バトロコ 川崎駅前（神奈川）"
+    },
+    {
+      "deckId": "848Dxa-mVapkQ-GcKYxc",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/848Dxa-mVapkQ-GcKYxc.png",
+      "date": "2026-03-21",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "gQLQ6L-GTaXbv-Nggg9n",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gQLQ6L-GTaXbv-Nggg9n.png",
+      "date": "2026-03-21",
+      "venue": "Wonder GOOいわき鹿島店（福島）"
+    },
+    {
+      "deckId": "FkVkfV-WVORgR-k5Fb1d",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkVkfV-WVORgR-k5Fb1d.png",
+      "date": "2026-03-21",
+      "venue": "宝島 高蔵寺店（愛知）-2"
+    },
+    {
+      "deckId": "pMyXMp-FDNgqF-RRMXpy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMyXMp-FDNgqF-RRMXpy.png",
+      "date": "2026-03-21",
+      "venue": "カードショップ 海賊船-starch-（岐阜）"
+    },
+    {
+      "deckId": "6n99NH-SWLVl7-NLLgnL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/6n99NH-SWLVl7-NLLgnL.png",
+      "date": "2026-03-21",
+      "venue": "カードショップ 海賊船-starch-（岐阜）"
+    },
     {
       "deckId": "nLnL9Q-27R9Ix-HLgNn6",
       "rank": "TOP4",
