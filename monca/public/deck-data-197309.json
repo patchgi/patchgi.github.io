@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-03-22T00:08:02.127Z",
+  "fetchedAt": "2026-03-23T00:09:34.301Z",
   "decks": [
+    {
+      "deckId": "y2yREX-TWzrRQ-ypMyMp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2yREX-TWzrRQ-ypMyMp.png",
+      "date": "2026-03-22",
+      "venue": "Wonder GOO 足利店（栃木）"
+    },
+    {
+      "deckId": "88GcxD-MRifJL-a4cDcG",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/88GcxD-MRifJL-a4cDcG.png",
+      "date": "2026-03-22",
+      "venue": "トレカショップVOW（滋賀）"
+    },
     {
       "deckId": "Lnn9ng-Rj51vi-gNnLnN",
       "rank": "TOP4",
