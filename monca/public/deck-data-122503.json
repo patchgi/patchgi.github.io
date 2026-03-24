@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-23T00:09:33.937Z",
+  "fetchedAt": "2026-03-24T00:08:23.069Z",
   "decks": [
+    {
+      "deckId": "2MXypp-NffJIA-XyyXMR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2MXypp-NffJIA-XyyXMR.png",
+      "date": "2026-03-23",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "kkbVFV-vR605D-w51Fkf",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkbVFV-vR605D-w51Fkf.png",
+      "date": "2026-03-22",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "NLn69n-2mfZtU-LnngNH",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NLn69n-2mfZtU-LnngNH.png",
+      "date": "2026-03-22",
+      "venue": "チェルモサード（神奈川）"
+    },
     {
       "deckId": "VkFkVf-TQvKVB-bkbf1k",
       "rank": "優勝",
