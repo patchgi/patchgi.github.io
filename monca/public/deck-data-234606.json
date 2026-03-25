@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-03-24T00:08:24.805Z",
+  "fetchedAt": "2026-03-25T00:09:35.849Z",
   "decks": [
+    {
+      "deckId": "fkfk1F-7DOFgD-kbk5fk",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fkfk1F-7DOFgD-kbk5fk.png",
+      "date": "2026-03-24",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "DccK8Y-2ot0tC-8D88Gc",
       "rank": "TOP8",
