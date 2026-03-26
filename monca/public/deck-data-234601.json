@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-03-25T00:09:35.411Z",
+  "fetchedAt": "2026-03-26T00:11:23.261Z",
   "decks": [
+    {
+      "deckId": "nHLnNn-TEiUVe-gnLH9N",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nHLnNn-TEiUVe-gnLH9N.png",
+      "date": "2026-03-25",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "v5kFfF-Rtfu2O-kFdFkb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/v5kFfF-Rtfu2O-kFdFkb.png",
+      "date": "2026-03-25",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
+    {
+      "deckId": "xcY8D8-HxFvuO-a8aGcc",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xcY8D8-HxFvuO-a8aGcc.png",
+      "date": "2026-03-25",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "8cDcaD-SU7Lph-G48DDx",
       "rank": "TOP4",
