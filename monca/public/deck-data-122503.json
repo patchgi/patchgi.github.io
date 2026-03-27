@@ -1,7 +1,126 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-26T00:11:21.768Z",
+  "fetchedAt": "2026-03-27T00:10:26.261Z",
   "decks": [
+    {
+      "deckId": "VkFwFk-Li2zJV-Vb5Vfk",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkFwFk-Li2zJV-Vb5Vfk.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "Lg9NHg-bQmiEj-ng99Pn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Lg9NHg-bQmiEj-ng99Pn.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "XU2XUM-xwgjtV-yySyRp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XU2XUM-xwgjtV-yySyRp.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "XppRSy-KYGPfI-yRSXEp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XppRSy-KYGPfI-yRSXEp.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "XppRSy-KYGPfI-yRSXEp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XppRSy-KYGPfI-yRSXEp.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "kbffVF-vDRZfL-Fkvkfb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbffVF-vDRZfL-Fkvkfb.png",
+      "date": "2026-03-26",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "fbvkk1-QbkJVo-1VFbbF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fbvkk1-QbkJVo-1VFbbF.png",
+      "date": "2026-03-26",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "8Jc84D-KywfFO-cG88cG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Jc84D-KywfFO-cG88cG.png",
+      "date": "2026-03-26",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "ypRRRp-Cbd2bl-XyyMpy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypRRRp-Cbd2bl-XyyMpy.png",
+      "date": "2026-03-26",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "in99n6-2IayR4-6LgNng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/in99n6-2IayR4-6LgNng.png",
+      "date": "2026-03-26",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "QngQnn-oBGcTN-9NNNng",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QngQnn-oBGcTN-9NNNng.png",
+      "date": "2026-03-26",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "NiNg9N-N2V1SB-NnnLnn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NiNg9N-N2V1SB-NnnLnn.png",
+      "date": "2026-03-26",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "yMSRpy-41nr9d-pX2XXy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMSRpy-41nr9d-pX2XXy.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "Dc8Y8c-FXBMAK-cDGcGD",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Dc8Y8c-FXBMAK-cDGcGD.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "gQHn9g-qPcpiJ-LnNgg9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gQHn9g-qPcpiJ-LnNgg9.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "HNQnnn-BZT2W0-Qg9nNg",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HNQnnn-BZT2W0-Qg9nNg.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "ccDG48-1ZW6CX-Gc8GcK",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccDG48-1ZW6CX-Gc8GcK.png",
+      "date": "2026-03-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "DKc8c8-pVw2ef-8Y8DGc",
       "rank": "TOP4",
