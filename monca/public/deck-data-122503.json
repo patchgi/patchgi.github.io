@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-03-30T00:11:06.846Z",
+  "fetchedAt": "2026-03-31T00:11:36.450Z",
   "decks": [
+    {
+      "deckId": "gHnNHg-CziGQW-ninLn9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gHnNHg-CziGQW-ninLn9.png",
+      "date": "2026-03-30",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
     {
       "deckId": "VkFwFk-Li2zJV-Vb5Vfk",
       "rank": "優勝",
