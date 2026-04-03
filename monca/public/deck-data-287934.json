@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-04-02T00:10:21.987Z",
+  "fetchedAt": "2026-04-03T00:10:59.846Z",
   "decks": [
+    {
+      "deckId": "ppypMy-fdYrfR-yRRU2U",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppypMy-fdYrfR-yRRU2U.png",
+      "date": "2026-04-02",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "y2pMyy-Z0fP9e-MyRXMU",
       "rank": "TOP4",

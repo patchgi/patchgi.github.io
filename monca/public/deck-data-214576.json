@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-02T00:10:22.647Z",
+  "fetchedAt": "2026-04-03T00:11:00.640Z",
   "decks": [
+    {
+      "deckId": "5VFVFb-kAwzSY-5kkkwV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5VFVFb-kAwzSY-5kkkwV.png",
+      "date": "2026-04-02",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
     {
       "deckId": "ppR2Xp-xFyMyh-pMX2yM",
       "rank": "TOP4",
