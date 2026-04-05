@@ -1,7 +1,119 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-03T00:11:00.862Z",
+  "fetchedAt": "2026-04-05T00:10:37.719Z",
   "decks": [
+    {
+      "deckId": "ggHng9-q3cn7q-gNHnHg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ggHng9-q3cn7q-gNHnHg.png",
+      "date": "2026-04-04",
+      "venue": "CARDSHOPラリアット！（宮崎）"
+    },
+    {
+      "deckId": "GY8c88-oLC1F7-YGcaDD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GY8c88-oLC1F7-YGcaDD.png",
+      "date": "2026-04-04",
+      "venue": "カードショップリドル京急蒲田店（東京）"
+    },
+    {
+      "deckId": "xGcD4a-hxPJvc-Dc48x8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xGcD4a-hxPJvc-Dc48x8.png",
+      "date": "2026-04-04",
+      "venue": "竜星のPAO千葉中央店（千葉）"
+    },
+    {
+      "deckId": "44Yc8c-C8ZjEb-ccaGc4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/44Yc8c-C8ZjEb-ccaGc4.png",
+      "date": "2026-04-04",
+      "venue": "カードショップ 海賊船-starch-（岐阜）"
+    },
+    {
+      "deckId": "NnL6nQ-qQM6jL-nH9gQN",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NnL6nQ-qQM6jL-nH9gQN.png",
+      "date": "2026-04-04",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "D48DGx-vIwEaE-84c8c8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D48DGx-vIwEaE-84c8c8.png",
+      "date": "2026-04-04",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "2pRMpp-55mv1Q-2EX2py",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2pRMpp-55mv1Q-2EX2py.png",
+      "date": "2026-04-04",
+      "venue": "シーガル 仙台駅前店（宮城）-1"
+    },
+    {
+      "deckId": "JKcc44-3jB3vn-x8GGc8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JKcc44-3jB3vn-x8GGc8.png",
+      "date": "2026-04-04",
+      "venue": "シーガル 仙台駅前店（宮城）-1"
+    },
+    {
+      "deckId": "cY8DJc-4XL8Md-4cYG4J",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cY8DJc-4XL8Md-4cYG4J.png",
+      "date": "2026-04-04",
+      "venue": "ドラゴンスター泉佐野店（大阪）"
+    },
+    {
+      "deckId": "YDc4cD-3ihcni-4c4cG8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YDc4cD-3ihcni-4c4cG8.png",
+      "date": "2026-04-04",
+      "venue": "BOOKOFF東千葉祐光店（千葉）"
+    },
+    {
+      "deckId": "ngHQgL-o4oSKg-nnLn9N",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngHQgL-o4oSKg-nnLn9N.png",
+      "date": "2026-04-04",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "5b5FF5-EcHVDr-5kdkbF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5b5FF5-EcHVDr-5kdkbF.png",
+      "date": "2026-04-04",
+      "venue": "WonderGOO つくば店（茨城）"
+    },
+    {
+      "deckId": "4accD8-hWR07H-DxGDYY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4accD8-hWR07H-DxGDYY.png",
+      "date": "2026-04-04",
+      "venue": "鹿角ラボ（秋田）"
+    },
+    {
+      "deckId": "fbFF5F-K4mhlD-5kkVFF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fbFF5F-K4mhlD-5kkVFF.png",
+      "date": "2026-04-04",
+      "venue": "鹿角ラボ（秋田）"
+    },
+    {
+      "deckId": "c88cGD-XXWFGD-cxD4c8",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c88cGD-XXWFGD-cxD4c8.png",
+      "date": "2026-04-03",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "cxKa84-DrEwhW-cG88c8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cxKa84-DrEwhW-cG88c8.png",
+      "date": "2026-04-03",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
     {
       "deckId": "SpMMRp-BMWN5Y-pR2yM2",
       "rank": "TOP8",

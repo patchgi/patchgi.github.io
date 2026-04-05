@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-03T00:11:01.292Z",
+  "fetchedAt": "2026-04-05T00:10:38.254Z",
   "decks": [
+    {
+      "deckId": "NH9nig-6328L4-H6gHgn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NH9nig-6328L4-H6gHgn.png",
+      "date": "2026-04-04",
+      "venue": "アリオン皆生店（鳥取）"
+    },
+    {
+      "deckId": "PLngnL-SDML8O-QP9NLN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PLngnL-SDML8O-QP9NLN.png",
+      "date": "2026-04-04",
+      "venue": "BOOKOFF東千葉祐光店（千葉）"
+    },
+    {
+      "deckId": "G8c8xY-cwU6Si-Dx88YJ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G8c8xY-cwU6Si-Dx88YJ.png",
+      "date": "2026-04-04",
+      "venue": "ドラゴンスター泉佐野店（大阪）"
+    },
+    {
+      "deckId": "2yMypM-21GK89-SXpRSy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2yMypM-21GK89-SXpRSy.png",
+      "date": "2026-04-03",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "nnng6H-JUT76d-gQQN9n",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnng6H-JUT76d-gQQN9n.png",
+      "date": "2026-04-03",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
     {
       "deckId": "fkfk1F-7DOFgD-kbk5fk",
       "rank": "TOP4",

@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-03T00:10:59.623Z",
+  "fetchedAt": "2026-04-05T00:10:36.535Z",
   "decks": [
+    {
+      "deckId": "Hnninn-SdeTOz-iggHg9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Hnninn-SdeTOz-iggHg9.png",
+      "date": "2026-04-04",
+      "venue": "バトロコ 本厚木駅前（神奈川）"
+    },
+    {
+      "deckId": "x8848G-x86vd6-DcKcxD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8848G-x86vd6-DcKcxD.png",
+      "date": "2026-04-04",
+      "venue": "カードショップリドル京急蒲田店（東京）"
+    },
+    {
+      "deckId": "iggiLn-U2tXuV-LNi9Hg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/iggiLn-U2tXuV-LNi9Hg.png",
+      "date": "2026-04-04",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "5FVF1b-qTvW0t-fvFf5k",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5FVF1b-qTvW0t-fvFf5k.png",
+      "date": "2026-04-04",
+      "venue": "カードボックスアリオン皆生店（鳥取）"
+    },
+    {
+      "deckId": "9ggLLN-TC9rWC-nLgnNH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9ggLLN-TC9rWC-nLgnNH.png",
+      "date": "2026-04-04",
+      "venue": "バトロコ 旭川駅前（北海道）"
+    },
     {
       "deckId": "fF1kbb-I4z1cI-kFfbwk",
       "rank": "TOP8",
