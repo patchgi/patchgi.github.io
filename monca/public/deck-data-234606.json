@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-05T00:10:38.254Z",
+  "fetchedAt": "2026-04-07T00:12:19.468Z",
   "decks": [
+    {
+      "deckId": "9n9gNH-rSjHSj-gHngnQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9n9gNH-rSjHSj-gHngnQ.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ秋田駅前店（秋田）"
+    },
+    {
+      "deckId": "RpEyp2-X4bYlv-2XMSyS",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RpEyp2-X4bYlv-2XMSyS.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 川越駅前（埼玉）"
+    },
+    {
+      "deckId": "6ngng9-v5LVV1-HHLHng",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/6ngng9-v5LVV1-HHLHng.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "9n6n6Q-gxvXph-QLgngN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9n6n6Q-gxvXph-QLgngN.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
     {
       "deckId": "NH9nig-6328L4-H6gHgn",
       "rank": "TOP8",

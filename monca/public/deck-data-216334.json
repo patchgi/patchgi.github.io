@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-05T00:10:37.007Z",
+  "fetchedAt": "2026-04-07T00:12:18.301Z",
   "decks": [
+    {
+      "deckId": "4x8Da8-fidK35-D8cJG4",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4x8Da8-fidK35-D8cJG4.png",
+      "date": "2026-04-06",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "48Yacx-0L5SoP-xcc8DG",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/48Yacx-0L5SoP-xcc8DG.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFF 1号四日市日永店（三重）"
+    },
+    {
+      "deckId": "XXyUpM-FOvo0i-XSyRyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XXyUpM-FOvo0i-XSyRyp.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "Xp3yyS-XKdWxm-pEpyRM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Xp3yyS-XKdWxm-pEpyRM.png",
+      "date": "2026-04-05",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-2"
+    },
     {
       "deckId": "cY4G4c-dlkhxl-c488Yc",
       "rank": "TOP4",

@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-04-05T00:10:37.237Z",
+  "fetchedAt": "2026-04-07T00:12:18.535Z",
   "decks": [
+    {
+      "deckId": "dfbffF-zaiA8q-k5fk5F",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dfbffF-zaiA8q-k5fk5F.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "9HgnHQ-Wr37fD-H9Nggn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9HgnHQ-Wr37fD-H9Nggn.png",
+      "date": "2026-04-05",
+      "venue": "タッチ松本店（長野）"
+    },
+    {
+      "deckId": "MpSRU2-ZPMZGd-XpypUE",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MpSRU2-ZPMZGd-XpypUE.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "QgngN9-gpjT8m-QLPgnH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QgngN9-gpjT8m-QLPgnH.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 札幌狸小路（北海道）"
+    },
     {
       "deckId": "4KG8Kc-yznYzB-D8ccYG",
       "rank": "TOP4",

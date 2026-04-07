@@ -1,7 +1,119 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-05T00:10:37.470Z",
+  "fetchedAt": "2026-04-07T00:12:18.785Z",
   "decks": [
+    {
+      "deckId": "G4cc88-xmiKWE-Y4c44G",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G4cc88-xmiKWE-Y4c44G.png",
+      "date": "2026-04-06",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "QNP9nH-WZG6zv-gNgPHg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QNP9nH-WZG6zv-gNgPHg.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 川崎駅前（神奈川）"
+    },
+    {
+      "deckId": "51Fkbf-nm9qNB-kFvffF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/51Fkbf-nm9qNB-kFvffF.png",
+      "date": "2026-04-05",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "gHg9gn-n55eYW-gnLHQN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gHg9gn-n55eYW-gnLHQN.png",
+      "date": "2026-04-05",
+      "venue": "GIRAFULLなんば店（大阪）-1"
+    },
+    {
+      "deckId": "vFfb5v-kQWTFb-Fkk5vF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vFfb5v-kQWTFb-Fkk5vF.png",
+      "date": "2026-04-05",
+      "venue": "カードショップ彩々（鹿児島）"
+    },
+    {
+      "deckId": "ppyEpR-ElAWIh-pXppSM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppyEpR-ElAWIh-pXppSM.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFF ショップス市川店（千葉）"
+    },
+    {
+      "deckId": "8YYcKc-yigV47-JcG4cc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8YYcKc-yigV47-JcG4cc.png",
+      "date": "2026-04-05",
+      "venue": "トレカプラザ５５大須アメ横店（愛知）"
+    },
+    {
+      "deckId": "X2Ey2p-BoIkDu-pypRp2",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/X2Ey2p-BoIkDu-pypRp2.png",
+      "date": "2026-04-05",
+      "venue": "シーガル 嶋北店（山形）"
+    },
+    {
+      "deckId": "p2y2Rp-FO6O6A-yE23MR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p2y2Rp-FO6O6A-yE23MR.png",
+      "date": "2026-04-05",
+      "venue": "ゲームプラザ元気302（滋賀）"
+    },
+    {
+      "deckId": "EMX2yR-gEFtij-Xp2Xpy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EMX2yR-gEFtij-Xp2Xpy.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "b5FVFF-u9nBru-vkV5Fv",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/b5FVFF-u9nBru-vkV5Fv.png",
+      "date": "2026-04-05",
+      "venue": "BOOKOFF 西友大森店（東京）"
+    },
+    {
+      "deckId": "FvFbkb-22h10K-kfV5FV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FvFbkb-22h10K-kfV5FV.png",
+      "date": "2026-04-05",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "2y2y22-foM37J-SpyRMp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2y2y22-foM37J-SpyRMp.png",
+      "date": "2026-04-05",
+      "venue": "カードショップ楓（高知）"
+    },
+    {
+      "deckId": "bFvFvF-c67hIo-Ffk5FV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bFvFvF-c67hIo-Ffk5FV.png",
+      "date": "2026-04-05",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-1"
+    },
+    {
+      "deckId": "8aD4c4-8ePipH-J8c8Gc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8aD4c4-8ePipH-J8c8Gc.png",
+      "date": "2026-04-05",
+      "venue": "バトロコ 札幌狸小路（北海道）"
+    },
+    {
+      "deckId": "pyRy3y-w6ov2y-yM2MXp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyRy3y-w6ov2y-yM2MXp.png",
+      "date": "2026-04-04",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
     {
       "deckId": "9gnLQH-n5Uk9i-gnNgPH",
       "rank": "TOP8",
