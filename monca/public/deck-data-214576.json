@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-07T00:12:18.785Z",
+  "fetchedAt": "2026-04-08T00:13:15.497Z",
   "decks": [
+    {
+      "deckId": "8x4c44-TloDIw-cGccJa",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8x4c44-TloDIw-cGccJa.png",
+      "date": "2026-04-07",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "G4cc88-xmiKWE-Y4c44G",
       "rank": "TOP8",

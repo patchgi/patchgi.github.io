@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-07T00:12:19.221Z",
+  "fetchedAt": "2026-04-08T00:13:15.896Z",
   "decks": [
+    {
+      "deckId": "RMXpX2-yDQqi4-Ryyyyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMXpX2-yDQqi4-Ryyyyp.png",
+      "date": "2026-04-07",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "kFFFkF-GOUgbM-Fb5FFb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFFFkF-GOUgbM-Fb5FFb.png",
+      "date": "2026-04-07",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "H6Q9Pg-ygRDzo-g6nggg",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/H6Q9Pg-ygRDzo-g6nggg.png",
+      "date": "2026-04-07",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "9LgHgg-GMH0dU-PH9ggn",
       "rank": "TOP8",
