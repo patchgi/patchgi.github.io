@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-08T00:13:14.219Z",
+  "fetchedAt": "2026-04-09T00:09:49.259Z",
   "decks": [
+    {
+      "deckId": "k1F5fd-5JmHX7-5FfbFv",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/k1F5fd-5JmHX7-5FfbFv.png",
+      "date": "2026-04-08",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "nn9Hgg-tIOIX8-gNngig",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nn9Hgg-tIOIX8-gNngig.png",
+      "date": "2026-04-08",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "RU2ppM-PhUGym-SMpEXy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RU2ppM-PhUGym-SMpEXy.png",
+      "date": "2026-04-08",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "PgQnHg-BHXgZm-Ngn9nQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PgQnHg-BHXgZm-Ngn9nQ.png",
+      "date": "2026-04-08",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "E32ypM-m0qtEj-pyppUR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/E32ypM-m0qtEj-pyppUR.png",
+      "date": "2026-04-08",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "RXp2yM-MQxpCt-yp2ESp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RXp2yM-MQxpCt-yp2ESp.png",
+      "date": "2026-04-08",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "FV15k5-15BX4C-fFFFFb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FV15k5-15BX4C-fFFFFb.png",
+      "date": "2026-04-08",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "Up2yEy-ZWxyVw-MRpMpS",
       "rank": "優勝",

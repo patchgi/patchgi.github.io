@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-08T00:13:15.071Z",
+  "fetchedAt": "2026-04-09T00:09:50.227Z",
   "decks": [
+    {
+      "deckId": "gNnnHL-UB6edP-9PHH9g",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gNnnHL-UB6edP-9PHH9g.png",
+      "date": "2026-04-08",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "4x8Da8-fidK35-D8cJG4",
       "rank": "優勝",
