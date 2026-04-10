@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-09T00:09:51.283Z",
+  "fetchedAt": "2026-04-10T00:13:04.700Z",
   "decks": [
+    {
+      "deckId": "pMMXyp-4R4KFz-2pUpMR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMMXyp-4R4KFz-2pUpMR.png",
+      "date": "2026-04-09",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "Rp2ypp-9jvmjD-S3MEyp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Rp2ypp-9jvmjD-S3MEyp.png",
+      "date": "2026-04-09",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "ppRy22-8m0EH0-pSy3RM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppRy22-8m0EH0-pSy3RM.png",
+      "date": "2026-04-09",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "Up2XRX-faQkwO-XpSpyy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Up2XRX-faQkwO-XpSpyy.png",
+      "date": "2026-04-09",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "V5FFFV-gBSIOf-bkF1bv",
       "rank": "TOP8",

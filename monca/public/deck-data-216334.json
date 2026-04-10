@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-09T00:09:50.227Z",
+  "fetchedAt": "2026-04-10T00:13:03.914Z",
   "decks": [
+    {
+      "deckId": "FVFwFF-9uiY5y-1V5wkb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVFwFF-9uiY5y-1V5wkb.png",
+      "date": "2026-04-09",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "gNnnHL-UB6edP-9PHH9g",
       "rank": "優勝",

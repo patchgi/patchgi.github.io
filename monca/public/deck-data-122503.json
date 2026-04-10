@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-09T00:09:49.259Z",
+  "fetchedAt": "2026-04-10T00:13:03.029Z",
   "decks": [
+    {
+      "deckId": "y3XpRp-zv8Y5x-2yppSy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y3XpRp-zv8Y5x-2yppSy.png",
+      "date": "2026-04-09",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "y23pRy-RgTiYx-yMpUpE",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y23pRy-RgTiYx-yMpUpE.png",
+      "date": "2026-04-09",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "Ngin9H-p7nxYe-g9HnnQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ngin9H-p7nxYe-g9HnnQ.png",
+      "date": "2026-04-09",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "pUypyy-fxvSNH-yRR2MX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pUypyy-fxvSNH-yRR2MX.png",
+      "date": "2026-04-09",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
+    {
+      "deckId": "bkVVdk-09zR1R-k5kFkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bkVVdk-09zR1R-k5kFkF.png",
+      "date": "2026-04-09",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "cKcD4G-dhAwig-ccx84c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cKcD4G-dhAwig-ccx84c.png",
+      "date": "2026-04-09",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "cc88Gc-MZ3JDR-x4acDc",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cc88Gc-MZ3JDR-x4acDc.png",
+      "date": "2026-04-09",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "9igggH-hYiJmN-96HnLL",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9igggH-hYiJmN-96HnLL.png",
+      "date": "2026-04-09",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
     {
       "deckId": "k1F5fd-5JmHX7-5FfbFv",
       "rank": "準優勝",

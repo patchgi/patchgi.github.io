@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-09T00:09:49.735Z",
+  "fetchedAt": "2026-04-10T00:13:03.413Z",
   "decks": [
+    {
+      "deckId": "g9gNHL-lIEuZT-innnLg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9gNHL-lIEuZT-innnLg.png",
+      "date": "2026-04-09",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
     {
       "deckId": "yEypRE-bbfBD7-22XpRp",
       "rank": "TOP8",
