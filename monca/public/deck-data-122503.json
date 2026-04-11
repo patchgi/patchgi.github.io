@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-10T00:13:03.029Z",
+  "fetchedAt": "2026-04-11T00:11:26.594Z",
   "decks": [
+    {
+      "deckId": "KcG8x8-ttxnbI-c8ccc4",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/KcG8x8-ttxnbI-c8ccc4.png",
+      "date": "2026-04-10",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "pM2pSy-BRTXNQ-RyUyR3",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pM2pSy-BRTXNQ-RyUyR3.png",
+      "date": "2026-04-10",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "gnnH9i-L0lBrg-g6nnQi",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gnnH9i-L0lBrg-g6nnQi.png",
+      "date": "2026-04-10",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "G8cccG-vFZxDr-x44YcD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G8cccG-vFZxDr-x44YcD.png",
+      "date": "2026-04-10",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "y3XpRp-zv8Y5x-2yppSy",
       "rank": "TOP8",
