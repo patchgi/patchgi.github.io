@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-11T00:11:28.230Z",
+  "fetchedAt": "2026-04-12T00:12:16.958Z",
   "decks": [
+    {
+      "deckId": "VV55fk-45ALvJ-bkFF5F",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VV55fk-45ALvJ-bkFF5F.png",
+      "date": "2026-04-11",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
+    {
+      "deckId": "fk5vVF-Ht6uuB-FFVb5b",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fk5vVF-Ht6uuB-FFVb5b.png",
+      "date": "2026-04-11",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
+    {
+      "deckId": "p2y2Rp-FO6O6A-yE23MR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p2y2Rp-FO6O6A-yE23MR.png",
+      "date": "2026-04-11",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "vFFVv5-hnUqU8-F5kfbk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vFFVv5-hnUqU8-F5kfbk.png",
+      "date": "2026-04-11",
+      "venue": "BOOKOFF町田中央通り店（東京）"
+    },
+    {
+      "deckId": "D88c44-KRUzny-88c8Gx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D88c44-KRUzny-88c8Gx.png",
+      "date": "2026-04-11",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "LngH9N-e5yHMO-LNg9gi",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LngH9N-e5yHMO-LNg9gi.png",
+      "date": "2026-04-11",
+      "venue": "TSUTAYA宇都宮インターパークビレッジ店（栃木）"
+    },
+    {
+      "deckId": "8cxG4D-0mU0C0-cK48cx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cxG4D-0mU0C0-cK48cx.png",
+      "date": "2026-04-11",
+      "venue": "宝島 高蔵寺店（愛知）-1"
+    },
+    {
+      "deckId": "5FbVFf-mlRIZQ-kVVd5v",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5FbVFf-mlRIZQ-kVVd5v.png",
+      "date": "2026-04-11",
+      "venue": "宝島 高蔵寺店（愛知）-1"
+    },
+    {
+      "deckId": "ggP9nH-CYzvFe-LLnggn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ggP9nH-CYzvFe-LLnggn.png",
+      "date": "2026-04-11",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
     {
       "deckId": "x8cG4Y-a9i34H-a44cc4",
       "rank": "TOP4",

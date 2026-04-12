@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-11T00:11:27.080Z",
+  "fetchedAt": "2026-04-12T00:12:15.886Z",
   "decks": [
+    {
+      "deckId": "Qn9nQL-DLx4pC-6LggHn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qn9nQL-DLx4pC-6LggHn.png",
+      "date": "2026-04-11",
+      "venue": "竜星のPAO多摩境店（東京）"
+    },
+    {
+      "deckId": "Qn66Qn-ftRQEx-gg9N9H",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qn66Qn-ftRQEx-gg9N9H.png",
+      "date": "2026-04-11",
+      "venue": "Duel Stade Ganryu本庄店（埼玉）"
+    },
+    {
+      "deckId": "L96gLn-X9O9Kk-gnLnnH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L96gLn-X9O9Kk-gnLnnH.png",
+      "date": "2026-04-11",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
+    {
+      "deckId": "c44cYc-0fz6JU-8xcc8G",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c44cYc-0fz6JU-8xcc8G.png",
+      "date": "2026-04-11",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
+    {
+      "deckId": "yMpRXp-vftxtO-322X2y",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMpRXp-vftxtO-322X2y.png",
+      "date": "2026-04-11",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    },
     {
       "deckId": "g9gNHL-lIEuZT-innnLg",
       "rank": "TOP8",

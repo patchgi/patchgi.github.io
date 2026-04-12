@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-11T00:11:28.682Z",
+  "fetchedAt": "2026-04-12T00:12:17.410Z",
   "decks": [
+    {
+      "deckId": "D848cD-7Aetc7-xGxcc4",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D848cD-7Aetc7-xGxcc4.png",
+      "date": "2026-04-11",
+      "venue": "竜星のPAO多摩境店（東京）"
+    },
+    {
+      "deckId": "dFfVFV-9MEILR-F5bkkV",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dFfVFV-9MEILR-F5bkkV.png",
+      "date": "2026-04-11",
+      "venue": "北国書林 松任店（石川）"
+    },
+    {
+      "deckId": "ngNgQg-5K8GPx-6gHN69",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngNgQg-5K8GPx-6gHN69.png",
+      "date": "2026-04-11",
+      "venue": "Wonder GOO 古河店（茨城）"
+    },
     {
       "deckId": "pMMXyp-4R4KFz-2pUpMR",
       "rank": "TOP4",

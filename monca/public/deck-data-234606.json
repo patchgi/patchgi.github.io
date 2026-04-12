@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-11T00:11:28.924Z",
+  "fetchedAt": "2026-04-12T00:12:17.655Z",
   "decks": [
+    {
+      "deckId": "YD8Kc4-RtBccm-GYx8cx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YD8Kc4-RtBccm-GYx8cx.png",
+      "date": "2026-04-11",
+      "venue": "Duel Stade Ganryu本庄店（埼玉）"
+    },
+    {
+      "deckId": "DDc8Gx-PRbUZ3-ccx8c4",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDc8Gx-PRbUZ3-ccx8c4.png",
+      "date": "2026-04-11",
+      "venue": "北国書林 松任店（石川）"
+    },
+    {
+      "deckId": "g9nn6P-lZdudf-HLLHNg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9nn6P-lZdudf-HLLHNg.png",
+      "date": "2026-04-11",
+      "venue": "バトロコ新潟万代（新潟）"
+    },
+    {
+      "deckId": "HignHP-Ru8lCk-L69Lgg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HignHP-Ru8lCk-L69Lgg.png",
+      "date": "2026-04-11",
+      "venue": "TSUTAYA宇都宮インターパークビレッジ店（栃木）"
+    },
+    {
+      "deckId": "L9gnLQ-R0yCB3-nH9gNL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L9gnLQ-R0yCB3-nH9gNL.png",
+      "date": "2026-04-11",
+      "venue": "駿河屋本店駿河屋ビル（静岡）"
+    },
+    {
+      "deckId": "k5vVFk-yynpik-F5kvbF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/k5vVFk-yynpik-F5kvbF.png",
+      "date": "2026-04-11",
+      "venue": "宝島 高蔵寺店（愛知）-2"
+    },
     {
       "deckId": "9n9gNH-rSjHSj-gHngnQ",
       "rank": "TOP8",
