@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-12T00:12:17.655Z",
+  "fetchedAt": "2026-04-13T00:13:22.543Z",
   "decks": [
+    {
+      "deckId": "84c8GG-51R7AG-8a8DDc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/84c8GG-51R7AG-8a8DDc.png",
+      "date": "2026-04-12",
+      "venue": "竜星の嵐 名古屋店（愛知）"
+    },
+    {
+      "deckId": "L9gLnN-P4fziy-L6LN9H",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L9gLnN-P4fziy-L6LN9H.png",
+      "date": "2026-04-12",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "4Y84GK-5ITqVN-G88ccc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4Y84GK-5ITqVN-G88ccc.png",
+      "date": "2026-04-12",
+      "venue": "バトロコ 川越駅前（埼玉）"
+    },
+    {
+      "deckId": "kFkbVF-GtJYUW-F5FV1V",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFkbVF-GtJYUW-F5FV1V.png",
+      "date": "2026-04-12",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "4xxY8c-fxvD2p-8cxxKG",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4xxY8c-fxvD2p-8cxxKG.png",
+      "date": "2026-04-12",
+      "venue": "フルコンプ札幌駅前店（北海道）"
+    },
+    {
+      "deckId": "bfV5VF-0K6qtn-k5Ffk5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bfV5VF-0K6qtn-k5Ffk5.png",
+      "date": "2026-04-12",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
+    {
+      "deckId": "Vb5vVV-JBPGSW-FfbkFv",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vb5vVV-JBPGSW-FfbkFv.png",
+      "date": "2026-04-11",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
+    {
+      "deckId": "JG8Gc8-uR454B-Gcc4c4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JG8Gc8-uR454B-Gcc4c4.png",
+      "date": "2026-04-11",
+      "venue": "GIRAFULL 広島ドンキ店（広島）"
+    },
+    {
+      "deckId": "g9n9gQ-mnQEcK-HggiLn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9n9gQ-mnQEcK-HggiLn.png",
+      "date": "2026-04-11",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
     {
       "deckId": "YD8Kc4-RtBccm-GYx8cx",
       "rank": "TOP8",

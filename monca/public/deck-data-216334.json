@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-12T00:12:16.345Z",
+  "fetchedAt": "2026-04-13T00:13:21.167Z",
   "decks": [
+    {
+      "deckId": "gNnnHL-UB6edP-9PHH9g",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gNnnHL-UB6edP-9PHH9g.png",
+      "date": "2026-04-12",
+      "venue": "バトロコミニ十和田店（青森）"
+    },
+    {
+      "deckId": "y2Upyp-WCkRUa-MM2RXp",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2Upyp-WCkRUa-MM2RXp.png",
+      "date": "2026-04-12",
+      "venue": "バトロコ 高崎駅前（群馬）"
+    },
+    {
+      "deckId": "8xcG8x-7BTl6t-aJc4cx",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8xcG8x-7BTl6t-aJc4cx.png",
+      "date": "2026-04-12",
+      "venue": "トイコンプ 住道店（大阪）"
+    },
+    {
+      "deckId": "cxxc4D-0DewlH-88xcJG",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cxxc4D-0DewlH-88xcJG.png",
+      "date": "2026-04-12",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "pXUpRE-6LE2mO-pXUypp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pXUpRE-6LE2mO-pXUypp.png",
+      "date": "2026-04-12",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "Nng9nn-EK2RZh-LLHLQH",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Nng9nn-EK2RZh-LLHLQH.png",
+      "date": "2026-04-12",
+      "venue": "ドラグーン周南（山口）"
+    },
+    {
+      "deckId": "RpXpXM-N4g62a-pppE2y",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RpXpXM-N4g62a-pppE2y.png",
+      "date": "2026-04-12",
+      "venue": "ドラグーン周南（山口）"
+    },
+    {
+      "deckId": "Ng9LQH-dY60Iu-9HninL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ng9LQH-dY60Iu-9HninL.png",
+      "date": "2026-04-12",
+      "venue": "ドラグーン周南（山口）"
+    },
+    {
+      "deckId": "gnQgL9-Pk33vH-NnNnHn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gnQgL9-Pk33vH-NnNnHn.png",
+      "date": "2026-04-11",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
     {
       "deckId": "FVFwFF-9uiY5y-1V5wkb",
       "rank": "TOP4",

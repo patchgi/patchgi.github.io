@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-04-12T00:12:16.719Z",
+  "fetchedAt": "2026-04-13T00:13:21.405Z",
   "decks": [
+    {
+      "deckId": "n9gHLL-m2MdpU-gnQHgg",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n9gHLL-m2MdpU-gnQHgg.png",
+      "date": "2026-04-12",
+      "venue": "バトロコ 川越駅前（埼玉）"
+    },
+    {
+      "deckId": "yRp2Rp-RXiA39-yp222M",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRp2Rp-RXiA39-yp222M.png",
+      "date": "2026-04-12",
+      "venue": "BOOKOFFアミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "488JxG-hd2IUI-cY8xc8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/488JxG-hd2IUI-cY8xc8.png",
+      "date": "2026-04-12",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "p3SMSp-arhtD8-y2yRy2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p3SMSp-arhtD8-y2yRy2.png",
+      "date": "2026-04-12",
+      "venue": "Wonder GOO 入間店（埼玉）"
+    },
+    {
+      "deckId": "ngL9ng-0E1o5A-Ln96LN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngL9ng-0E1o5A-Ln96LN.png",
+      "date": "2026-04-12",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "dfbffF-zaiA8q-k5fk5F",
       "rank": "TOP8",

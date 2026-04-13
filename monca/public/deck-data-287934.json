@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-04-12T00:12:16.117Z",
+  "fetchedAt": "2026-04-13T00:13:20.924Z",
   "decks": [
+    {
+      "deckId": "VFFkVV-Cfh0S3-5bbwkF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFFkVV-Cfh0S3-5bbwkF.png",
+      "date": "2026-04-12",
+      "venue": "トイコンプ 住道店（大阪）"
+    },
     {
       "deckId": "2R2REy-oRZS3J-pXyMUM",
       "rank": "TOP8",
