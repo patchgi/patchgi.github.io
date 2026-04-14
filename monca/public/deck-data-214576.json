@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-13T00:13:21.667Z",
+  "fetchedAt": "2026-04-14T00:16:14.320Z",
   "decks": [
+    {
+      "deckId": "V5kkfF-81zff5-w1bFvF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/V5kkfF-81zff5-w1bFvF.png",
+      "date": "2026-04-13",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "c4xDGc-0OHFeP-cxcY8G",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c4xDGc-0OHFeP-cxcY8G.png",
+      "date": "2026-04-13",
+      "venue": "秋葉原チェルモ（東京）"
+    },
     {
       "deckId": "gQ9NLL-0ykwGP-iLgQHn",
       "rank": "TOP8",

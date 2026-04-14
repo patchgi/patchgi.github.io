@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-13T00:13:22.071Z",
+  "fetchedAt": "2026-04-14T00:16:14.579Z",
   "decks": [
+    {
+      "deckId": "8Y8ac8-K4xZeS-x8GK84",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Y8ac8-K4xZeS-x8GK84.png",
+      "date": "2026-04-13",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
+    {
+      "deckId": "2pRy2y-tGwqox-Rp2pSy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2pRy2y-tGwqox-Rp2pSy.png",
+      "date": "2026-04-13",
+      "venue": "秋葉原チェルモ（東京）"
+    },
     {
       "deckId": "R2yMp2-BtPOK7-yRyMXp",
       "rank": "TOP4",
