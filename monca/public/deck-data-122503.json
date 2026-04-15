@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-14T00:16:12.643Z",
+  "fetchedAt": "2026-04-15T00:16:41.342Z",
   "decks": [
+    {
+      "deckId": "yXy2My-HbGDop-22pSRy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXy2My-HbGDop-22pSRy.png",
+      "date": "2026-04-14",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "nnHLgH-cv3OSe-iggN9Q",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnHLgH-cv3OSe-iggN9Q.png",
+      "date": "2026-04-14",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "gLN9HH-reJKAI-gLgnng",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLN9HH-reJKAI-gLgnng.png",
+      "date": "2026-04-14",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "LHNnnN-0HvLbH-Qg9HLL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LHNnnN-0HvLbH-Qg9HLL.png",
+      "date": "2026-04-14",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "g9HgL9-x8WHvp-HLQngH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9HgL9-x8WHvp-HLQngH.png",
+      "date": "2026-04-14",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "MpyMXR-2KmxH2-E2UpM2",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MpyMXR-2KmxH2-E2UpM2.png",
+      "date": "2026-04-14",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "ypypX2-WxwWDm-EpM2RM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypypX2-WxwWDm-EpM2RM.png",
+      "date": "2026-04-14",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "x88GK4-4iSWCV-cxc8xG",
       "rank": "TOP8",

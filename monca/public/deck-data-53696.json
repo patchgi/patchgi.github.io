@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-14T00:16:14.825Z",
+  "fetchedAt": "2026-04-15T00:16:43.443Z",
   "decks": [
+    {
+      "deckId": "x48xJ4-nOVD1m-Gc4xYc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x48xJ4-nOVD1m-Gc4xYc.png",
+      "date": "2026-04-14",
+      "venue": "スキップ玉出店（大阪）"
+    },
     {
       "deckId": "bv5kFk-uPgK2B-kVfVfk",
       "rank": "TOP8",

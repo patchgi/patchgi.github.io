@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-14T00:16:14.579Z",
+  "fetchedAt": "2026-04-15T00:16:43.203Z",
   "decks": [
+    {
+      "deckId": "LHHQ9n-tuoUUY-HPHggg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LHHQ9n-tuoUUY-HPHggg.png",
+      "date": "2026-04-14",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
     {
       "deckId": "8Y8ac8-K4xZeS-x8GK84",
       "rank": "TOP4",
