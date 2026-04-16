@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-15T00:16:43.203Z",
+  "fetchedAt": "2026-04-16T00:16:59.086Z",
   "decks": [
+    {
+      "deckId": "448cx8-bOzPOp-xD8DG4",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/448cx8-bOzPOp-xD8DG4.png",
+      "date": "2026-04-15",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
     {
       "deckId": "LHHQ9n-tuoUUY-HPHggg",
       "rank": "TOP4",

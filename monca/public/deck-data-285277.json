@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-04-15T00:16:42.723Z",
+  "fetchedAt": "2026-04-16T00:16:58.495Z",
   "decks": [
+    {
+      "deckId": "D88GJD-eHMwRF-acxa8c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D88GJD-eHMwRF-acxa8c.png",
+      "date": "2026-04-15",
+      "venue": "ポケ堂 仙台店（宮城）"
+    },
+    {
+      "deckId": "Vkkbvk-evGPv5-VvFFk5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vkkbvk-evGPv5-VvFFk5.png",
+      "date": "2026-04-15",
+      "venue": "BOOKOFF54号広島八木店（広島）"
+    },
     {
       "deckId": "n9gHLL-m2MdpU-gnQHgg",
       "rank": "準優勝",
