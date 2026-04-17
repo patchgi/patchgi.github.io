@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-16T00:16:57.025Z",
+  "fetchedAt": "2026-04-17T00:15:33.574Z",
   "decks": [
+    {
+      "deckId": "kFvVVV-aOCnkj-bkF5fw",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFvVVV-aOCnkj-bkF5fw.png",
+      "date": "2026-04-16",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "x884cG-UU7PKO-G44cDD",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x884cG-UU7PKO-G44cDD.png",
+      "date": "2026-04-16",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "k5vVV1-SxPLTG-VwFvvb",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/k5vVV1-SxPLTG-VwFvvb.png",
+      "date": "2026-04-16",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "4xGK8x-xHGX7E-Gcc848",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4xGK8x-xHGX7E-Gcc848.png",
+      "date": "2026-04-16",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "c48YYY-zwBJYm-xGGx4a",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c48YYY-zwBJYm-xGGx4a.png",
+      "date": "2026-04-16",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "yR2yMS-4vGGFA-XMMXSp",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yR2yMS-4vGGFA-XMMXSp.png",
+      "date": "2026-04-16",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "SyypUp-nLXRFI-RMyXyS",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SyypUp-nLXRFI-RMyXyS.png",
+      "date": "2026-04-16",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "HN6g9n-2tfRNX-QNLL9g",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HN6g9n-2tfRNX-QNLL9g.png",
+      "date": "2026-04-16",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "8Dc4YD-QcLNrC-cGx488",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Dc4YD-QcLNrC-cGx488.png",
+      "date": "2026-04-16",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "vkFvFb-7qaetQ-F15VVv",
       "rank": "TOP4",

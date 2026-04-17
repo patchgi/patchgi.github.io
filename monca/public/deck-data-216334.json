@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-16T00:16:58.063Z",
+  "fetchedAt": "2026-04-17T00:15:34.908Z",
   "decks": [
+    {
+      "deckId": "c84GxY-PxWEgL-x848xY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c84GxY-PxWEgL-x848xY.png",
+      "date": "2026-04-16",
+      "venue": "トレカショップVOW（滋賀）"
+    },
     {
       "deckId": "gNnnHL-UB6edP-9PHH9g",
       "rank": "TOP8",
