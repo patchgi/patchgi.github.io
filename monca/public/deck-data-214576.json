@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-17T00:15:35.403Z",
+  "fetchedAt": "2026-04-18T00:13:34.525Z",
   "decks": [
+    {
+      "deckId": "c48cxx-YLAhzP-J8G8Dx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c48cxx-YLAhzP-J8G8Dx.png",
+      "date": "2026-04-17",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
     {
       "deckId": "4cGYGx-COhPV4-J8DGcc",
       "rank": "TOP8",

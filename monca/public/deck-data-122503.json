@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-17T00:15:33.574Z",
+  "fetchedAt": "2026-04-18T00:13:33.134Z",
   "decks": [
+    {
+      "deckId": "x848cJ-MdbhAr-JDG8Jc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x848cJ-MdbhAr-JDG8Jc.png",
+      "date": "2026-04-17",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
+    {
+      "deckId": "48K8Y8-QKEHGv-8YGxGc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/48K8Y8-QKEHGv-8YGxGc.png",
+      "date": "2026-04-17",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
+    {
+      "deckId": "kF5b5b-AMkMfP-VVkdfk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kF5b5b-AMkMfP-VVkdfk.png",
+      "date": "2026-04-17",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
+    {
+      "deckId": "LQgn9L-plkEZO-9LH9nn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LQgn9L-plkEZO-9LH9nn.png",
+      "date": "2026-04-17",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
+    {
+      "deckId": "V5bvbv-MuD6Qm-kFFw5V",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/V5bvbv-MuD6Qm-kFFw5V.png",
+      "date": "2026-04-17",
+      "venue": "竜星のPAO 立川店（東京）"
+    },
     {
       "deckId": "kFvVVV-aOCnkj-bkF5fw",
       "rank": "TOP8",
