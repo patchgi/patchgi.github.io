@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-18T00:13:35.089Z",
+  "fetchedAt": "2026-04-19T00:13:20.850Z",
   "decks": [
+    {
+      "deckId": "b5dkwk-6Jjpdc-VF5V5k",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/b5dkwk-6Jjpdc-VF5V5k.png",
+      "date": "2026-04-18",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "D84x8a-PO54k7-aDccGc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D84x8a-PO54k7-aDccGc.png",
+      "date": "2026-04-18",
+      "venue": "ブックオフ イトーヨカドー溝ノ口店（神奈川）"
+    },
+    {
+      "deckId": "Gx4xx8-6gwNIR-ccG8a4",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Gx4xx8-6gwNIR-ccG8a4.png",
+      "date": "2026-04-18",
+      "venue": "ブックオフ イトーヨカドー溝ノ口店（神奈川）"
+    },
+    {
+      "deckId": "gn6nHi-KHdUHN-igQLg9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gn6nHi-KHdUHN-igQLg9.png",
+      "date": "2026-04-18",
+      "venue": "遊ING 熊本上通り店（熊本）"
+    },
+    {
+      "deckId": "FVv5kk-bdKEUL-wbFVfd",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVv5kk-bdKEUL-wbFVfd.png",
+      "date": "2026-04-18",
+      "venue": "BOOKOFF イオン本牧店（神奈川）"
+    },
+    {
+      "deckId": "y2UM2M-x97GDU-yRpp2R",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2UM2M-x97GDU-yRpp2R.png",
+      "date": "2026-04-18",
+      "venue": "北国書林 松任店（石川）"
+    },
+    {
+      "deckId": "LPQg9Q-2Q52U1-nnHnH6",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LPQg9Q-2Q52U1-nnHnH6.png",
+      "date": "2026-04-18",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "84c8GG-51R7AG-8a8DDc",
       "rank": "TOP8",

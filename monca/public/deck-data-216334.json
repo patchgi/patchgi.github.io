@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-18T00:13:34.129Z",
+  "fetchedAt": "2026-04-19T00:13:19.776Z",
   "decks": [
+    {
+      "deckId": "nQn9NQ-PngzRy-HL9NHg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nQn9NQ-PngzRy-HL9NHg.png",
+      "date": "2026-04-18",
+      "venue": "バトロコ 本厚木駅前（神奈川）"
+    },
+    {
+      "deckId": "pM3yyp-jRtp0G-y2RU3M",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pM3yyp-jRtp0G-y2RU3M.png",
+      "date": "2026-04-18",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    },
+    {
+      "deckId": "cx8a4c-31fm7f-GcYc48",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cx8a4c-31fm7f-GcYc48.png",
+      "date": "2026-04-18",
+      "venue": "TSUTAYA AVクラブ御領店（熊本）"
+    },
+    {
+      "deckId": "RMM2py-3NSfVY-yppE22",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMM2py-3NSfVY-yppE22.png",
+      "date": "2026-04-18",
+      "venue": "トイニティ長岡E・PLAZA店（新潟）"
+    },
+    {
+      "deckId": "ppyMUM-3YboRl-22MyRS",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppyMUM-3YboRl-22MyRS.png",
+      "date": "2026-04-18",
+      "venue": "トイニティ長岡E・PLAZA店（新潟）"
+    },
+    {
+      "deckId": "48GK88-yGyZo9-4cx8GJ",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/48GK88-yGyZo9-4cx8GJ.png",
+      "date": "2026-04-17",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "c84GxY-PxWEgL-x848xY",
       "rank": "TOP8",
