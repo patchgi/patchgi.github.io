@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-19T00:13:19.210Z",
+  "fetchedAt": "2026-04-20T00:14:00.114Z",
   "decks": [
+    {
+      "deckId": "9QnLLH-zqcYGU-gi6ggg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9QnLLH-zqcYGU-gi6ggg.png",
+      "date": "2026-04-19",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "ypy3pM-RqoQum-RM322M",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypy3pM-RqoQum-RM322M.png",
+      "date": "2026-04-19",
+      "venue": "トレカステーション領家店（静岡）"
+    },
+    {
+      "deckId": "kbwffV-hdNdpc-F5VkFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbwffV-hdNdpc-F5VkFk.png",
+      "date": "2026-04-19",
+      "venue": "ブックオフ ららぽーとTOKYO-BAY North Gate店（千葉）"
+    },
+    {
+      "deckId": "y2EyXM-DYdYCC-EpUpRS",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2EyXM-DYdYCC-EpUpRS.png",
+      "date": "2026-04-19",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "ypRUSy-HiMWZB-MMSypX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypRUSy-HiMWZB-MMSypX.png",
+      "date": "2026-04-19",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "VFFVkF-r8FWQ4-55dbdw",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFFVkF-r8FWQ4-55dbdw.png",
+      "date": "2026-04-19",
+      "venue": "BOOKOFFノースポート・モール店（神奈川）"
+    },
+    {
+      "deckId": "FVf5kb-iIbBpk-Fwdbvk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVf5kb-iIbBpk-Fwdbvk.png",
+      "date": "2026-04-19",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
+    {
+      "deckId": "bF5bkV-7p9jKB-kfV51f",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bF5bkV-7p9jKB-kfV51f.png",
+      "date": "2026-04-19",
+      "venue": "ブックオフ武蔵小金井（東京）"
+    },
+    {
+      "deckId": "bVkk1F-Lke9FT-fV5wFF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bVkk1F-Lke9FT-fV5wFF.png",
+      "date": "2026-04-19",
+      "venue": "トイニティ長岡E・PLAZA店（新潟）"
+    },
     {
       "deckId": "1k1FbF-oz3EjL-5wfVF5",
       "rank": "TOP8",

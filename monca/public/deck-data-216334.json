@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-19T00:13:19.776Z",
+  "fetchedAt": "2026-04-20T00:14:00.590Z",
   "decks": [
+    {
+      "deckId": "pp2MpR-qyt2US-2RSyXp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pp2MpR-qyt2US-2RSyXp.png",
+      "date": "2026-04-19",
+      "venue": "バトロコミニ前橋文京店（群馬）"
+    },
+    {
+      "deckId": "66ng6H-88Bn1N-9HngLL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/66ng6H-88Bn1N-9HngLL.png",
+      "date": "2026-04-19",
+      "venue": "カードショップ裁龍（茨城）"
+    },
+    {
+      "deckId": "kVdfVv-UEt3cp-bk5Fdv",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVdfVv-UEt3cp-bk5Fdv.png",
+      "date": "2026-04-19",
+      "venue": "バトロコ 盛岡大通（岩手）"
+    },
     {
       "deckId": "nQn9NQ-PngzRy-HL9NHg",
       "rank": "TOP8",

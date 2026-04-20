@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-19T00:13:20.850Z",
+  "fetchedAt": "2026-04-20T00:14:01.942Z",
   "decks": [
+    {
+      "deckId": "UR32pM-pmWUl1-pyUUy2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UR32pM-pmWUl1-pyUUy2.png",
+      "date": "2026-04-19",
+      "venue": "フルコンプ 八王子本店（東京）"
+    },
+    {
+      "deckId": "gHgLL6-XZitNL-gnQ99L",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gHgLL6-XZitNL-gnQ99L.png",
+      "date": "2026-04-19",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "8GJcG8-p7OlfA-Kx84xc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8GJcG8-p7OlfA-Kx84xc.png",
+      "date": "2026-04-19",
+      "venue": "BOOKOFF甲府貢川店（山梨）"
+    },
+    {
+      "deckId": "yXMpy2-qcvk3J-XEpRp3",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXMpy2-qcvk3J-XEpRp3.png",
+      "date": "2026-04-19",
+      "venue": "バトロコミニ前橋文京店（群馬）"
+    },
+    {
+      "deckId": "aK8Y8G-OIDgBX-aDcxx4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/aK8Y8G-OIDgBX-aDcxx4.png",
+      "date": "2026-04-19",
+      "venue": "Duel Stade Ganryu ひたち野うしく店（茨城）"
+    },
+    {
+      "deckId": "3ypX2R-LuPgQj-M2pMpy",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/3ypX2R-LuPgQj-M2pMpy.png",
+      "date": "2026-04-19",
+      "venue": "オレタン 岡山本店（岡山）"
+    },
+    {
+      "deckId": "D8cxDc-Jp2PC9-8YGGGY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D8cxDc-Jp2PC9-8YGGGY.png",
+      "date": "2026-04-19",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
     {
       "deckId": "b5dkwk-6Jjpdc-VF5V5k",
       "rank": "TOP4",

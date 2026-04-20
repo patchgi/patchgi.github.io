@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-04-19T00:13:18.871Z",
+  "fetchedAt": "2026-04-20T00:13:59.874Z",
   "decks": [
+    {
+      "deckId": "ig9LHn-L9MIoN-LQnH6H",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ig9LHn-L9MIoN-LQnH6H.png",
+      "date": "2026-04-19",
+      "venue": "カードショップ彩々 国分店（鹿児島）"
+    },
     {
       "deckId": "gLPNQN-fnY6aL-n9L99n",
       "rank": "TOP4",
