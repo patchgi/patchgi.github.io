@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-20T00:14:01.701Z",
+  "fetchedAt": "2026-04-21T00:16:08.183Z",
   "decks": [
+    {
+      "deckId": "FVVk5k-ZeNmXr-FwFbkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVVk5k-ZeNmXr-FwFbkV.png",
+      "date": "2026-04-19",
+      "venue": "アリオン塩冶店（島根）"
+    },
     {
       "deckId": "F15kVf-BPcWGq-1fk5fb",
       "rank": "優勝",

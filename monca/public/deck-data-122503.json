@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-20T00:13:59.632Z",
+  "fetchedAt": "2026-04-21T00:16:06.434Z",
   "decks": [
+    {
+      "deckId": "vkFVkk-WGGjXI-bk5Vk1",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkFVkk-WGGjXI-bk5Vk1.png",
+      "date": "2026-04-19",
+      "venue": "アリオン塩冶店（島根）"
+    },
+    {
+      "deckId": "G4cGxY-OJ0H3R-axK88G",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G4cGxY-OJ0H3R-axK88G.png",
+      "date": "2026-04-19",
+      "venue": "アリオン塩冶店（島根）"
+    },
+    {
+      "deckId": "G4cGxY-OJ0H3R-axK88G",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G4cGxY-OJ0H3R-axK88G.png",
+      "date": "2026-04-19",
+      "venue": "アリオン塩冶店（島根）"
+    },
     {
       "deckId": "aKG8xc-P6K0LJ-xx4DDc",
       "rank": "優勝",

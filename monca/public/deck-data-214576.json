@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-20T00:14:01.226Z",
+  "fetchedAt": "2026-04-21T00:16:07.804Z",
   "decks": [
     {
       "deckId": "i9NnNn-6M9vn5-gg6HLL",
@@ -911,62 +911,6 @@
       "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ng9PnQ-6zKI4W-9PQgLL.png",
       "date": "2026-03-08",
       "venue": "バトロコ 新津田沼駅前（千葉）"
-    },
-    {
-      "deckId": "pMpUpS-M3E9Ht-R2ySpX",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMpUpS-M3E9Ht-R2ySpX.png",
-      "date": "2026-03-08",
-      "venue": "オレタン松山店（愛媛）"
-    },
-    {
-      "deckId": "FFFbkF-bQhqet-Fvd1kf",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFFbkF-bQhqet-Fvd1kf.png",
-      "date": "2026-03-08",
-      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
-    },
-    {
-      "deckId": "c4ac4c-hZtJZQ-DGxD8c",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c4ac4c-hZtJZQ-DGxD8c.png",
-      "date": "2026-03-08",
-      "venue": "ブックオフ 相模大野店（神奈川）"
-    },
-    {
-      "deckId": "SEpXyR-wkgj43-pyp32X",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SEpXyR-wkgj43-pyp32X.png",
-      "date": "2026-03-08",
-      "venue": "バトロコ 水戸駅前（茨城）"
-    },
-    {
-      "deckId": "JcGDc4-xli2WL-8xc4x8",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JcGDc4-xli2WL-8xc4x8.png",
-      "date": "2026-03-08",
-      "venue": "トレカショップVOW（滋賀）"
-    },
-    {
-      "deckId": "RMUpUX-iIHcxt-E2p2py",
-      "rank": "TOP4",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMUpUX-iIHcxt-E2p2py.png",
-      "date": "2026-03-08",
-      "venue": "BOOKOFF アミューあつぎ店（神奈川）"
-    },
-    {
-      "deckId": "Q9gPgQ-hqTPkT-NHnNgL",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Q9gPgQ-hqTPkT-NHnNgL.png",
-      "date": "2026-03-08",
-      "venue": "Torecacamp大須店（愛知）"
-    },
-    {
-      "deckId": "FdbVFF-uQkCVj-kfFFFw",
-      "rank": "TOP8",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FdbVFF-uQkCVj-kfFFFw.png",
-      "date": "2026-03-07",
-      "venue": "TSUTAYA 伊奈店（埼玉）"
     }
   ]
 }
