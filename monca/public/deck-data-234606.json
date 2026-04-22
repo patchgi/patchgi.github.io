@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-21T00:16:08.374Z",
+  "fetchedAt": "2026-04-22T00:13:06.417Z",
   "decks": [
+    {
+      "deckId": "nPNgL9-z8DiJa-QLHQLn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPNgL9-z8DiJa-QLHQLn.png",
+      "date": "2026-04-21",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "9nnngn-N6e5ye-6HHggQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nnngn-N6e5ye-6HHggQ.png",
+      "date": "2026-04-21",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "UR32pM-pmWUl1-pyUUy2",
       "rank": "TOP8",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-21T00:16:07.316Z",
+  "fetchedAt": "2026-04-22T00:13:05.212Z",
   "decks": [
+    {
+      "deckId": "SpXRyy-xMgXtr-pE2XXX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SpXRyy-xMgXtr-pE2XXX.png",
+      "date": "2026-04-21",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "pp2MpR-qyt2US-2RSyXp",
       "rank": "優勝",

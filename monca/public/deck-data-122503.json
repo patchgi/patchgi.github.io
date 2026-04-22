@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-21T00:16:06.434Z",
+  "fetchedAt": "2026-04-22T00:13:03.920Z",
   "decks": [
+    {
+      "deckId": "V5FbkV-oWBGx8-kFFkkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/V5FbkV-oWBGx8-kFFkkV.png",
+      "date": "2026-04-21",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "88YG48-yabvOv-Dx8cYc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/88YG48-yabvOv-Dx8cYc.png",
+      "date": "2026-04-21",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "5kdbVf-pQWbKZ-FkwVVk",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5kdbVf-pQWbKZ-FkwVVk.png",
+      "date": "2026-04-21",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "yUyMMp-0mlOXo-2RRSpp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yUyMMp-0mlOXo-2RRSpp.png",
+      "date": "2026-04-21",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "5vFVkf-3IHUNT-VbkvFF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5vFVkf-3IHUNT-VbkvFF.png",
+      "date": "2026-04-21",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "kV5bkF-DHxY3I-k5kFf1",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kV5bkF-DHxY3I-k5kFf1.png",
+      "date": "2026-04-21",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "vkFVkk-WGGjXI-bk5Vk1",
       "rank": "TOP8",
