@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-04-24T00:17:33.109Z",
+  "fetchedAt": "2026-04-25T00:14:28.534Z",
   "decks": [
+    {
+      "deckId": "LQnNNg-KARyZE-H9n6nQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LQnNNg-KARyZE-H9n6nQ.png",
+      "date": "2026-04-24",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "UU2XXM-LKWR8M-yypR2y",
       "rank": "TOP4",
