@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-25T00:14:29.545Z",
+  "fetchedAt": "2026-04-26T00:15:06.502Z",
   "decks": [
+    {
+      "deckId": "JGJcYc-HyGkAl-4Y8YJ8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JGJcYc-HyGkAl-4Y8YJ8.png",
+      "date": "2026-04-25",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
     {
       "deckId": "nPNgL9-z8DiJa-QLHQLn",
       "rank": "TOP4",
