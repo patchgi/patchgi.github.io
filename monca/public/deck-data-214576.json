@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-04-26T00:15:05.594Z",
+  "fetchedAt": "2026-04-27T00:15:56.979Z",
   "decks": [
+    {
+      "deckId": "9LgnHQ-tRMulC-gn9NHn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LgnHQ-tRMulC-gn9NHn.png",
+      "date": "2026-04-26",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "g9Hn6L-GY74jR-nngNQi",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9Hn6L-GY74jR-nngNQi.png",
+      "date": "2026-04-26",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "2SEyRy-P1oq46-2SpXy2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2SEyRy-P1oq46-2SpXy2.png",
+      "date": "2026-04-26",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "pRpy22-PY4Fux-p2SyRM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRpy22-PY4Fux-p2SyRM.png",
+      "date": "2026-04-26",
+      "venue": "フルコンプ札幌駅前店（北海道）"
+    },
+    {
+      "deckId": "Fkfk5k-NNYxOS-FkbbFb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fkfk5k-NNYxOS-FkbbFb.png",
+      "date": "2026-04-26",
+      "venue": "カードボックスアリオン皆生店（鳥取）"
+    },
+    {
+      "deckId": "Spp2XM-rxqe1q-XySyRy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Spp2XM-rxqe1q-XySyRy.png",
+      "date": "2026-04-26",
+      "venue": "宝島 多治見店（岐阜）"
+    },
+    {
+      "deckId": "D8xcYY-ogrYEp-8G884K",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D8xcYY-ogrYEp-8G884K.png",
+      "date": "2026-04-26",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "ca88Gx-ID4NIO-xx48cG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ca88Gx-ID4NIO-xx48cG.png",
+      "date": "2026-04-26",
+      "venue": "タッチ松本店（長野）"
+    },
     {
       "deckId": "PQgH9H-m3ehAT-nnggnH",
       "rank": "TOP4",

@@ -1,7 +1,77 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-04-26T00:15:06.148Z",
+  "fetchedAt": "2026-04-27T00:15:57.432Z",
   "decks": [
+    {
+      "deckId": "gNnnP9-5t3cLq-HLLQQn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gNnnP9-5t3cLq-HLLQQn.png",
+      "date": "2026-04-26",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
+    {
+      "deckId": "acxacD-X36yA7-K8Y84G",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/acxacD-X36yA7-K8Y84G.png",
+      "date": "2026-04-26",
+      "venue": "BOOKOFFアクロスプラザ佐世保店（長崎）"
+    },
+    {
+      "deckId": "Sy2yE3-zIWUIf-XRypRp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Sy2yE3-zIWUIf-XRypRp.png",
+      "date": "2026-04-26",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "88Ga8Y-GLT748-4DcKDY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/88Ga8Y-GLT748-4DcKDY.png",
+      "date": "2026-04-26",
+      "venue": "BOOKOFF甲府貢川店（山梨）"
+    },
+    {
+      "deckId": "YJ8c8G-6HvdBM-8x84xc",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YJ8c8G-6HvdBM-8x84xc.png",
+      "date": "2026-04-26",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "M2pMR3-Ju7BQW-MyyRpS",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/M2pMR3-Ju7BQW-MyyRpS.png",
+      "date": "2026-04-26",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "FfFbFk-Zc2uKT-kfFb5k",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FfFbFk-Zc2uKT-kfFb5k.png",
+      "date": "2026-04-26",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
+    {
+      "deckId": "yySyRp-fvecOr-RME2Sp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yySyRp-fvecOr-RME2Sp.png",
+      "date": "2026-04-26",
+      "venue": "ゲームアーク 丸亀店（香川）"
+    },
+    {
+      "deckId": "gn9QnH-aoFr6R-gNnNLn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gn9QnH-aoFr6R-gNnNLn.png",
+      "date": "2026-04-26",
+      "venue": "カードボックス 福山店（広島）"
+    },
+    {
+      "deckId": "QH9nni-N7Ixd3-nHNgHn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QH9nni-N7Ixd3-nHNgHn.png",
+      "date": "2026-04-26",
+      "venue": "カードボックス 福山店（広島）"
+    },
     {
       "deckId": "kfF5VV-EpPYgW-fVkFkb",
       "rank": "TOP4",

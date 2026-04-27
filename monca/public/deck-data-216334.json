@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-26T00:15:05.140Z",
+  "fetchedAt": "2026-04-27T00:15:56.496Z",
   "decks": [
+    {
+      "deckId": "4D4K8c-lUXS2A-8Y8aYG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4D4K8c-lUXS2A-8Y8aYG.png",
+      "date": "2026-04-26",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "RRy2y2-Lbx6n4-pySXRp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RRy2y2-Lbx6n4-pySXRp.png",
+      "date": "2026-04-26",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "9nnn9g-7ZiVEQ-H9Hnng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nnn9g-7ZiVEQ-H9Hnng.png",
+      "date": "2026-04-26",
+      "venue": "Booksあんとく 三潴店（福岡）"
+    },
+    {
+      "deckId": "FkkkbV-bcAyxC-Fbvv55",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkkkbV-bcAyxC-Fbvv55.png",
+      "date": "2026-04-26",
+      "venue": "フルコンプ札幌駅前店（北海道）"
+    },
+    {
+      "deckId": "F5k5vk-bBR5Fv-VVbff5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/F5k5vk-bBR5Fv-VVbff5.png",
+      "date": "2026-04-26",
+      "venue": "三洋堂書店 星川店（三重）"
+    },
+    {
+      "deckId": "FvVk1b-7uCTXU-bfF5dv",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FvVk1b-7uCTXU-bfF5dv.png",
+      "date": "2026-04-26",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "YK88Y4-dIDWim-4cG8c4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YK88Y4-dIDWim-4cG8c4.png",
+      "date": "2026-04-25",
+      "venue": "Card Secret（東京）"
+    },
     {
       "deckId": "g9iHnH-vQXx8Y-ngHHLP",
       "rank": "TOP8",

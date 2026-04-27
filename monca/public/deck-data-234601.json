@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-26T00:15:05.932Z",
+  "fetchedAt": "2026-04-27T00:15:57.204Z",
   "decks": [
+    {
+      "deckId": "gn9gNH-ArH028-LLgH9n",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gn9gNH-ArH028-LLgH9n.png",
+      "date": "2026-04-26",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "VdkfvF-CJQ1u8-bbvFk5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VdkfvF-CJQ1u8-bbvFk5.png",
+      "date": "2026-04-26",
+      "venue": "バトロコ 横浜伊勢佐木町（神奈川）"
+    },
+    {
+      "deckId": "R2yX3p-C0lJCC-RypSRp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/R2yX3p-C0lJCC-RypSRp.png",
+      "date": "2026-04-26",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "gLg9gg-DL7Lhr-gnHnL9",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLg9gg-DL7Lhr-gnHnL9.png",
+      "date": "2026-04-26",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "5kFbvF-yBmPN5-kbw55F",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5kFbvF-yBmPN5-kbw55F.png",
+      "date": "2026-04-26",
+      "venue": "竜星のPAO 八王子店（東京）"
+    },
+    {
+      "deckId": "yMyR2y-rV5J7E-EpppXR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMyR2y-rV5J7E-EpppXR.png",
+      "date": "2026-04-26",
+      "venue": "Booksあんとく 三潴店（福岡）"
+    },
+    {
+      "deckId": "9HnLnN-PhXfpF-ggHNgi",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9HnLnN-PhXfpF-ggHNgi.png",
+      "date": "2026-04-26",
+      "venue": "宝島 多治見店（岐阜）"
+    },
+    {
+      "deckId": "y22XRR-JTWGFM-pMpSpy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y22XRR-JTWGFM-pMpSpy.png",
+      "date": "2026-04-26",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "yySR2X-I9YZ9x-ySSpyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yySR2X-I9YZ9x-ySSpyp.png",
+      "date": "2026-04-26",
+      "venue": "BOOKOFFPLUS アミューあつぎ店（神奈川）"
+    },
     {
       "deckId": "4cY8G4-JlKhEw-8888xG",
       "rank": "TOP4",

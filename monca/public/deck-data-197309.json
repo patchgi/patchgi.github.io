@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-26T00:15:04.696Z",
+  "fetchedAt": "2026-04-27T00:15:56.045Z",
   "decks": [
+    {
+      "deckId": "8Gxcc4-q8z8rS-8D4GGD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8Gxcc4-q8z8rS-8D4GGD.png",
+      "date": "2026-04-26",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "yM2ypM-q3l6vd-2yMRR2",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yM2ypM-q3l6vd-2yMRR2.png",
+      "date": "2026-04-26",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "FkVfkV-Pj2Gd0-dwFFb5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkVfkV-Pj2Gd0-dwFFb5.png",
+      "date": "2026-04-26",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "gn9nQH-GEhJGE-nLngnH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gn9nQH-GEhJGE-nLngnH.png",
+      "date": "2026-04-26",
+      "venue": "フルコンプ札幌駅前店（北海道）"
+    },
+    {
+      "deckId": "8G4cx8-35j5oe-Gaaccx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8G4cx8-35j5oe-Gaaccx.png",
+      "date": "2026-04-26",
+      "venue": "カードボックス 福山店（広島）"
+    },
     {
       "deckId": "Uyy2Rp-v0UViV-XEy2Sp",
       "rank": "準優勝",
