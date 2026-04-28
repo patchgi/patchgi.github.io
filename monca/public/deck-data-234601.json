@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-27T00:15:57.204Z",
+  "fetchedAt": "2026-04-28T00:19:20.638Z",
   "decks": [
+    {
+      "deckId": "kVbkwf-hf2f0N-5fFkwb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVbkwf-hf2f0N-5fFkwb.png",
+      "date": "2026-04-27",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "4cG4Gx-20U2cf-8ca48D",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4cG4Gx-20U2cf-8ca48D.png",
+      "date": "2026-04-27",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "HnnN9n-l7Xtuq-L9gQ9N",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HnnN9n-l7Xtuq-L9gQ9N.png",
+      "date": "2026-04-27",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "y3RXy2-YeTwwq-XyyppX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y3RXy2-YeTwwq-XyyppX.png",
+      "date": "2026-04-26",
+      "venue": "京都ファミリー（京都）"
+    },
     {
       "deckId": "gn9gNH-ArH028-LLgH9n",
       "rank": "TOP4",
