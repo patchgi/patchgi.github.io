@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-04-28T00:19:18.855Z",
+  "fetchedAt": "2026-04-29T00:20:24.053Z",
   "decks": [
+    {
+      "deckId": "2pRpyy-QoW9BQ-EpX2U2",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2pRpyy-QoW9BQ-EpX2U2.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "ng9HNn-yel6SD-PNNnHL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ng9HNn-yel6SD-PNNnHL.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "L9Qnni-rEMwx7-LgHggi",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L9Qnni-rEMwx7-LgHggi.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "EyR2XU-I1qxLD-yp3M2p",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EyR2XU-I1qxLD-yp3M2p.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "NNnN9g-AwJtm1-nHnnHP",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NNnN9g-AwJtm1-nHnnHP.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "gPQLnH-OyvXq5-nHgn9n",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gPQLnH-OyvXq5-nHgn9n.png",
+      "date": "2026-04-28",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "yyEyUS-g5iUyd-2pyRpy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yyEyUS-g5iUyd-2pyRpy.png",
+      "date": "2026-04-28",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "ngLQQ9-PBqr7y-QgHnn9",
       "rank": "優勝",

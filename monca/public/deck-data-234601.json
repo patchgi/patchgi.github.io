@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-28T00:19:20.638Z",
+  "fetchedAt": "2026-04-29T00:20:25.825Z",
   "decks": [
+    {
+      "deckId": "nHngHn-10zWNI-9ngPiN",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nHngHn-10zWNI-9ngPiN.png",
+      "date": "2026-04-28",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "kVbkwf-hf2f0N-5fFkwb",
       "rank": "TOP8",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-28T00:19:21.105Z",
+  "fetchedAt": "2026-04-29T00:20:26.484Z",
   "decks": [
+    {
+      "deckId": "yRRyUU-wocdao-y2pXpp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRRyUU-wocdao-y2pXpp.png",
+      "date": "2026-04-28",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "8GDccJ-S5E4NR-J84a8c",
       "rank": "TOP8",
