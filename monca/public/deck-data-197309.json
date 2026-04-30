@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-04-29T00:20:24.645Z",
+  "fetchedAt": "2026-04-30T00:19:58.945Z",
   "decks": [
+    {
+      "deckId": "kbFkkk-xbpSyK-k15vkf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbFkkk-xbpSyK-k15vkf.png",
+      "date": "2026-04-29",
+      "venue": "ブックオフ多摩永山（東京）"
+    },
+    {
+      "deckId": "x488x8-KSCzLY-x8GJ8c",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x488x8-KSCzLY-x8GJ8c.png",
+      "date": "2026-04-29",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    },
+    {
+      "deckId": "Gax8cx-1XrjXr-8G84D4",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Gax8cx-1XrjXr-8G84D4.png",
+      "date": "2026-04-29",
+      "venue": "遊ING 熊本上通り店（熊本）"
+    },
+    {
+      "deckId": "LgHHnL-S5zoTf-QHn96g",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LgHHnL-S5zoTf-QHn96g.png",
+      "date": "2026-04-29",
+      "venue": "BOOKOFF イトーヨーカドー流山店（千葉）"
+    },
+    {
+      "deckId": "8K8GcY-wtKqVl-84c8Da",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8K8GcY-wtKqVl-84c8Da.png",
+      "date": "2026-04-29",
+      "venue": "TSUTAYA宇都宮インターパークビレッジ店（栃木）"
+    },
+    {
+      "deckId": "Li9Qnn-hUNOOO-9ngLnH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Li9Qnn-hUNOOO-9ngLnH.png",
+      "date": "2026-04-29",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
+    {
+      "deckId": "kwkFkb-fnFgzc-wVvFf5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kwkFkb-fnFgzc-wVvFf5.png",
+      "date": "2026-04-29",
+      "venue": "BOOKOFF 307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "nnQg9Q-fmh3z1-6gLggH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnQg9Q-fmh3z1-6gLggH.png",
+      "date": "2026-04-29",
+      "venue": "宝島 多治見店（岐阜）"
+    },
     {
       "deckId": "8Gxcc4-q8z8rS-8D4GGD",
       "rank": "TOP8",

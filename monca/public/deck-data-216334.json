@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-04-29T00:20:25.111Z",
+  "fetchedAt": "2026-04-30T00:19:59.420Z",
   "decks": [
+    {
+      "deckId": "VkvkFf-FmHRVh-VdwFb5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkvkFf-FmHRVh-VdwFb5.png",
+      "date": "2026-04-29",
+      "venue": "ブックエース勝田東石川店（茨城）"
+    },
+    {
+      "deckId": "pp23yX-2idvP9-URMU2y",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pp23yX-2idvP9-URMU2y.png",
+      "date": "2026-04-29",
+      "venue": "ブックエース勝田東石川店（茨城）"
+    },
+    {
+      "deckId": "PnLgnQ-6IhqO5-QN9HnQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PnLgnQ-6IhqO5-QN9HnQ.png",
+      "date": "2026-04-29",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "9HNiHn-X8SAi1-HnnggH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9HNiHn-X8SAi1-HnnggH.png",
+      "date": "2026-04-29",
+      "venue": "フルコンプ福岡天神店（福岡）"
+    },
+    {
+      "deckId": "2EUpXp-bNlPr0-MUXyyR",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2EUpXp-bNlPr0-MUXyyR.png",
+      "date": "2026-04-29",
+      "venue": "カードショップ＠ほ～む。（鹿児島）"
+    },
+    {
+      "deckId": "c84aDc-Zk0f4h-G8cx4c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c84aDc-Zk0f4h-G8cx4c.png",
+      "date": "2026-04-28",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "4D4K8c-lUXS2A-8Y8aYG",
       "rank": "TOP8",

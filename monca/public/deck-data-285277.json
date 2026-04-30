@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-04-29T00:20:25.344Z",
+  "fetchedAt": "2026-04-30T00:19:59.671Z",
   "decks": [
+    {
+      "deckId": "cYDJ88-XSQdhc-a4Gcac",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cYDJ88-XSQdhc-a4Gcac.png",
+      "date": "2026-04-28",
+      "venue": "スキップ玉出店（大阪）"
+    },
     {
       "deckId": "pyp2RM-yH6jpv-p2Rpyy",
       "rank": "優勝",

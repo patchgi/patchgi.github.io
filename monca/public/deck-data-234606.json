@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-04-29T00:20:26.484Z",
+  "fetchedAt": "2026-04-30T00:20:00.603Z",
   "decks": [
+    {
+      "deckId": "9HggnN-dQMjxF-gg6Lnn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9HggnN-dQMjxF-gg6Lnn.png",
+      "date": "2026-04-29",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "KK84c4-Zzvj67-8GYccc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/KK84c4-Zzvj67-8GYccc.png",
+      "date": "2026-04-29",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
+    {
+      "deckId": "Vk5kFf-KYPdvK-5VFwFb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vk5kFf-KYPdvK-5VFwFb.png",
+      "date": "2026-04-29",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "yR3Upp-tNaAEJ-X2yRyS",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yR3Upp-tNaAEJ-X2yRyS.png",
+      "date": "2026-04-29",
+      "venue": "Super KaBoS 二の宮本店（福井）"
+    },
+    {
+      "deckId": "Qi69nL-pDnxkD-Ln9NHg",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qi69nL-pDnxkD-Ln9NHg.png",
+      "date": "2026-04-29",
+      "venue": "シーガル 仙台駅前店（宮城）-2"
+    },
+    {
+      "deckId": "niNL9H-ADJmtb-iniHgn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/niNL9H-ADJmtb-iniHgn.png",
+      "date": "2026-04-29",
+      "venue": "シーガル 仙台駅前店（宮城）-1"
+    },
+    {
+      "deckId": "EyRpyU-faHUeR-XRy2Xy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EyRpyU-faHUeR-XRy2Xy.png",
+      "date": "2026-04-29",
+      "venue": "ブックオフ 西尾下町店（愛知）"
+    },
     {
       "deckId": "yRRyUU-wocdao-y2pXpp",
       "rank": "TOP8",
