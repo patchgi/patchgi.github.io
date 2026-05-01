@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-04-30T00:20:00.149Z",
+  "fetchedAt": "2026-05-01T00:20:43.079Z",
   "decks": [
+    {
+      "deckId": "K8DGcx-rjU1Mk-8D8488",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/K8DGcx-rjU1Mk-8D8488.png",
+      "date": "2026-04-30",
+      "venue": "TSUTAYA嵐山店（埼玉）"
+    },
     {
       "deckId": "nnQg96-25v9Kj-iHggHg",
       "rank": "TOP8",
