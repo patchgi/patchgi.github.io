@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-05-01T00:20:43.079Z",
+  "fetchedAt": "2026-05-02T00:19:38.744Z",
   "decks": [
+    {
+      "deckId": "5Vk5Fv-VQ4J94-kFbFFk",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5Vk5Fv-VQ4J94-kFbFFk.png",
+      "date": "2026-05-01",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
+    {
+      "deckId": "bkkF5V-Y5dXiH-wfwVvk",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bkkF5V-Y5dXiH-wfwVvk.png",
+      "date": "2026-04-30",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
     {
       "deckId": "K8DGcx-rjU1Mk-8D8488",
       "rank": "TOP8",

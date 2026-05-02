@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-05-01T00:20:41.448Z",
+  "fetchedAt": "2026-05-02T00:19:36.805Z",
   "decks": [
+    {
+      "deckId": "x4G8x8-XvpXP7-cxcDY8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x4G8x8-XvpXP7-cxcDY8.png",
+      "date": "2026-05-01",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "w5vFVF-9DK4XC-vbFVkb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/w5vFVF-9DK4XC-vbFVkb.png",
+      "date": "2026-05-01",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "FVkFwF-XfiTyX-vFvbFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVkFwF-XfiTyX-vFvbFk.png",
+      "date": "2026-05-01",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "nQNHgn-m2YqHu-LggHn9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nQNHgn-m2YqHu-LggHn9.png",
+      "date": "2026-05-01",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "acD48D-mixPVx-84cGYc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/acD48D-mixPVx-84cGYc.png",
+      "date": "2026-05-01",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
+    {
+      "deckId": "inQgnn-FKddWT-LggPH9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/inQgnn-FKddWT-LggPH9.png",
+      "date": "2026-05-01",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
+    {
+      "deckId": "ngQLQg-fCFkoY-igN9ng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngQLQg-fCFkoY-igN9ng.png",
+      "date": "2026-05-01",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
+    {
+      "deckId": "kkkvkF-FOYcU7-kbwFVF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkkvkF-FOYcU7-kbwFVF.png",
+      "date": "2026-05-01",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
+    {
+      "deckId": "VkkkbF-EneP1w-kV5wfF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkkkbF-EneP1w-kV5wfF.png",
+      "date": "2026-04-30",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
     {
       "deckId": "GK4GcD-ARoETb-4Y8cc8",
       "rank": "TOP8",
