@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-05-02T00:19:37.480Z",
+  "fetchedAt": "2026-05-03T00:18:42.298Z",
   "decks": [
+    {
+      "deckId": "gPi9HQ-TWZP1Q-g9nnng",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gPi9HQ-TWZP1Q-g9nnng.png",
+      "date": "2026-05-02",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
+    {
+      "deckId": "yUSRX2-jRr8ju-pMppMM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yUSRX2-jRr8ju-pMppMM.png",
+      "date": "2026-05-02",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "HgQgNP-TNrdFB-iggH9n",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HgQgNP-TNrdFB-iggH9n.png",
+      "date": "2026-05-02",
+      "venue": "アリオン塩冶店（島根）"
+    },
+    {
+      "deckId": "x8848G-x86vd6-DcKcxD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8848G-x86vd6-DcKcxD.png",
+      "date": "2026-05-02",
+      "venue": "アリオン塩冶店（島根）"
+    },
+    {
+      "deckId": "QQNN99-mWAROa-Qinggn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QQNN99-mWAROa-Qinggn.png",
+      "date": "2026-05-02",
+      "venue": "GIRAFULL京都店（京都）"
+    },
+    {
+      "deckId": "9giQng-23lAke-LPNLNn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9giQng-23lAke-LPNLNn.png",
+      "date": "2026-05-02",
+      "venue": "バトロコ 小山駅前（栃木）"
+    },
+    {
+      "deckId": "EXMyp2-VfU2Y2-ypRpy2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EXMyp2-VfU2Y2-ypRpy2.png",
+      "date": "2026-05-02",
+      "venue": "バトロコ 小山駅前（栃木）"
+    },
+    {
+      "deckId": "nPHgLn-catAaI-NQ9gLQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPHgLn-catAaI-NQ9gLQ.png",
+      "date": "2026-05-02",
+      "venue": "バトロコ 小山駅前（栃木）"
+    },
     {
       "deckId": "kbFkkk-xbpSyK-k15vkf",
       "rank": "TOP8",

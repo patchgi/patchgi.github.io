@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-05-02T00:19:38.493Z",
+  "fetchedAt": "2026-05-03T00:18:43.213Z",
   "decks": [
+    {
+      "deckId": "Fvkfvv-JJw1Tl-FFkbFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fvkfvv-JJw1Tl-FFkbFk.png",
+      "date": "2026-05-02",
+      "venue": "バトロコ 川崎駅前（神奈川）"
+    },
+    {
+      "deckId": "cGxYD8-Nhpt8I-8Gccx4",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cGxYD8-Nhpt8I-8Gccx4.png",
+      "date": "2026-05-02",
+      "venue": "ゲームセンターRX（長崎）"
+    },
+    {
+      "deckId": "FFkFFV-KVD1CZ-v5fbVd",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFkFFV-KVD1CZ-v5fbVd.png",
+      "date": "2026-05-02",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "pMypMX-Ovyx2c-SXRppy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMypMX-Ovyx2c-SXRppy.png",
+      "date": "2026-05-02",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "Da8G48-LBQFoK-xDxcc8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Da8G48-LBQFoK-xDxcc8.png",
+      "date": "2026-05-02",
+      "venue": "駿河屋本店駿河屋ビル（静岡）"
+    },
+    {
+      "deckId": "Fdkvkb-JdGHo2-FVFvdF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fdkvkb-JdGHo2-FVFvdF.png",
+      "date": "2026-05-02",
+      "venue": "WonderGOO つくば店（茨城）"
+    },
     {
       "deckId": "4cx8cD-EJXDJl-GY8aDG",
       "rank": "TOP8",
