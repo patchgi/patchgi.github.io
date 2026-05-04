@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-05-03T00:18:42.972Z",
+  "fetchedAt": "2026-05-04T00:19:14.885Z",
   "decks": [
+    {
+      "deckId": "pyM2yS-jrMQO9-p2yRpy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyM2yS-jrMQO9-p2yRpy.png",
+      "date": "2026-05-03",
+      "venue": "GIRAFULLなんば店（大阪）-1"
+    },
+    {
+      "deckId": "SMpUyy-FVMcLy-UppRU2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SMpUyy-FVMcLy-UppRU2.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-1"
+    },
+    {
+      "deckId": "YYxGxc-3JcZ7p-8c88cc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YYxGxc-3JcZ7p-8c88cc.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-1"
+    },
     {
       "deckId": "cYDJ88-XSQdhc-a4Gcac",
       "rank": "TOP8",

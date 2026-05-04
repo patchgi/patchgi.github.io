@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-05-03T00:18:42.522Z",
+  "fetchedAt": "2026-05-04T00:19:14.363Z",
   "decks": [
+    {
+      "deckId": "LngnQH-hFYQJV-9NgHgg",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LngnQH-hFYQJV-9NgHgg.png",
+      "date": "2026-05-03",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
     {
       "deckId": "VFFkVV-Cfh0S3-5bbwkF",
       "rank": "優勝",

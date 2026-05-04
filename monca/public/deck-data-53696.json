@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-05-03T00:18:43.678Z",
+  "fetchedAt": "2026-05-04T00:19:15.537Z",
   "decks": [
+    {
+      "deckId": "5fkbFv-4aEVFl-FFFfVb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5fkbFv-4aEVFl-FFFfVb.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 名古屋店（愛知）"
+    },
+    {
+      "deckId": "pyRySy-M4kBNk-yRSpyy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyRySy-M4kBNk-yRSpyy.png",
+      "date": "2026-05-03",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "x8Yaac-oE3BAR-888cGx",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8Yaac-oE3BAR-888cGx.png",
+      "date": "2026-05-03",
+      "venue": "フルコンプ千葉店（千葉）"
+    },
+    {
+      "deckId": "Dc8Yac-Rej8ex-c4DccG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Dc8Yac-Rej8ex-c4DccG.png",
+      "date": "2026-05-03",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "YaccYG-jyRqGB-cYDYx8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YaccYG-jyRqGB-cYDYx8.png",
+      "date": "2026-05-03",
+      "venue": "TSUTAYA AVクラブ御領店（熊本）"
+    },
+    {
+      "deckId": "yRMpSy-I5mvDx-ppyyMy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yRMpSy-I5mvDx-ppyyMy.png",
+      "date": "2026-05-03",
+      "venue": "カードショップ裁龍（茨城）"
+    },
+    {
+      "deckId": "gNingg-hUle2U-gQL9nn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gNingg-hUle2U-gQL9nn.png",
+      "date": "2026-05-03",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
+    {
+      "deckId": "innNn9-0S9vvd-QLggQg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/innNn9-0S9vvd-QLggQg.png",
+      "date": "2026-05-03",
+      "venue": "ブックオフ港北綱島西店（神奈川）"
+    },
     {
       "deckId": "kbfvVd-D9a9D3-vkFFvV",
       "rank": "TOP8",

@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-05-03T00:18:43.915Z",
+  "fetchedAt": "2026-05-04T00:19:15.745Z",
   "decks": [
+    {
+      "deckId": "QH9ggN-A6n9fz-gLnPgN",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QH9ggN-A6n9fz-gLnPgN.png",
+      "date": "2026-05-03",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "b11Fff-DPNXKV-kkbkFd",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/b11Fff-DPNXKV-kkbkFd.png",
+      "date": "2026-05-03",
+      "venue": "GIRAFULLなんば店（大阪）-1"
+    },
+    {
+      "deckId": "ypMyU2-SPLNT1-pXySR2",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypMyU2-SPLNT1-pXySR2.png",
+      "date": "2026-05-03",
+      "venue": "BOOKOFF イオン橋本（神奈川）"
+    },
+    {
+      "deckId": "KGY8cc-xInHr1-8Yc84Y",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/KGY8cc-xInHr1-8Yc84Y.png",
+      "date": "2026-05-03",
+      "venue": "竜のしっぽ 姫路店（兵庫）"
+    },
+    {
+      "deckId": "Yc8a48-EKBKY4-888cGc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Yc8a48-EKBKY4-888cGc.png",
+      "date": "2026-05-03",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "8x48Yx-kUl9m2-xccGxY",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8x48Yx-kUl9m2-xccGxY.png",
+      "date": "2026-05-03",
+      "venue": "バトロコ 盛岡大通（岩手）"
+    },
+    {
+      "deckId": "5kbkfv-Shuv5v-bfkFkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5kbkfv-Shuv5v-bfkFkF.png",
+      "date": "2026-05-02",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
     {
       "deckId": "k15Fwb-ovaZ4i-VFFvkv",
       "rank": "TOP8",

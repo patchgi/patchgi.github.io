@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-05-03T00:18:43.444Z",
+  "fetchedAt": "2026-05-04T00:19:15.338Z",
   "decks": [
+    {
+      "deckId": "SyXyER-GWmVKX-Xypp2p",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SyXyER-GWmVKX-Xypp2p.png",
+      "date": "2026-05-03",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "pSSpyy-P5xd4e-RSpySy",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pSSpyy-P5xd4e-RSpySy.png",
+      "date": "2026-05-03",
+      "venue": "フルコンプ千葉店（千葉）"
+    },
+    {
+      "deckId": "cY88G8-jUACDY-YxGcGY",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cY88G8-jUACDY-YxGcGY.png",
+      "date": "2026-05-03",
+      "venue": "Wonder GOO 入間店（埼玉）"
+    },
+    {
+      "deckId": "n9QLgH-oi2lwI-gLngnP",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n9QLgH-oi2lwI-gLngnP.png",
+      "date": "2026-05-03",
+      "venue": "シーガル 泉中央店（宮城）"
+    },
+    {
+      "deckId": "xcxcG8-SkFc1F-DcY8G8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xcxcG8-SkFc1F-DcY8G8.png",
+      "date": "2026-05-03",
+      "venue": "BOOKOFFPLUS アミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "vkFFVk-xDu8TI-Vfkvbb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkFFVk-xDu8TI-Vfkvbb.png",
+      "date": "2026-05-02",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
+    {
+      "deckId": "ggnngQ-MFvSgj-g9LnnN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ggnngQ-MFvSgj-g9LnnN.png",
+      "date": "2026-05-02",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
+    {
+      "deckId": "MpRySS-gA97Wh-MppMSS",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MpRySS-gA97Wh-MppMSS.png",
+      "date": "2026-05-02",
+      "venue": "蔦屋書店 茂原店（千葉）"
+    },
     {
       "deckId": "bFfvfk-XlyD7J-VFVFvV",
       "rank": "TOP4",

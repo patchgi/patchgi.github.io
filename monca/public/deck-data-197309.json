@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-05-03T00:18:42.298Z",
+  "fetchedAt": "2026-05-04T00:19:14.165Z",
   "decks": [
+    {
+      "deckId": "XXyUpM-JnWl4w-SppMyR",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XXyUpM-JnWl4w-SppMyR.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 名古屋店（愛知）"
+    },
+    {
+      "deckId": "pXyMyS-V09LkN-XpXRM2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pXyMyS-V09LkN-XpXRM2.png",
+      "date": "2026-05-03",
+      "venue": "Duel Stade Ganryu ひたち野うしく店（茨城）"
+    },
+    {
+      "deckId": "HngNnn-gUgrvi-gng9gN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HngNnn-gUgrvi-gng9gN.png",
+      "date": "2026-05-03",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "ppRSy2-DVKuJZ-ESSX2p",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppRSy2-DVKuJZ-ESSX2p.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-2"
+    },
+    {
+      "deckId": "yp2pyX-hAocCt-MpyRSM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yp2pyX-hAocCt-MpyRSM.png",
+      "date": "2026-05-03",
+      "venue": "本の王国すまいるキング 安城店（愛知）"
+    },
+    {
+      "deckId": "bFvbFk-YmFDCD-kFvkkk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bFvbFk-YmFDCD-kFvkkk.png",
+      "date": "2026-05-03",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "6g9LgN-FTGqT2-QPggng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/6g9LgN-FTGqT2-QPggng.png",
+      "date": "2026-05-03",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "YYD4x8-Zp1RtS-xGcx8c",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YYD4x8-Zp1RtS-xGcx8c.png",
+      "date": "2026-05-02",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
     {
       "deckId": "gPi9HQ-TWZP1Q-g9nnng",
       "rank": "優勝",

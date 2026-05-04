@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-05-03T00:18:43.213Z",
+  "fetchedAt": "2026-05-04T00:19:15.109Z",
   "decks": [
+    {
+      "deckId": "nNgLLQ-g9fCqS-QNLgP9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nNgLLQ-g9fCqS-QNLgP9.png",
+      "date": "2026-05-03",
+      "venue": "TSUTAYA三島店（静岡）"
+    },
+    {
+      "deckId": "nQ9PnL-cTNrYr-gnQgnQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nQ9PnL-cTNrYr-gnQgnQ.png",
+      "date": "2026-05-03",
+      "venue": "ファンクス（愛媛）"
+    },
+    {
+      "deckId": "ffkdvk-oz6KAY-F5bVfF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ffkdvk-oz6KAY-F5bVfF.png",
+      "date": "2026-05-03",
+      "venue": "竜のしっぽ 姫路店（兵庫）"
+    },
+    {
+      "deckId": "cc4c88-gwA7IN-8GYcDD",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cc4c88-gwA7IN-8GYcDD.png",
+      "date": "2026-05-03",
+      "venue": "竜星の嵐 小倉駅前店（福岡）-1"
+    },
+    {
+      "deckId": "RMMpXy-YAZWqY-MpXMpS",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMMpXy-YAZWqY-MpXMpS.png",
+      "date": "2026-05-03",
+      "venue": "Wonder GOO 入間店（埼玉）"
+    },
+    {
+      "deckId": "5Fwffk-zaJk4o-vbFkFf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5Fwffk-zaJk4o-vbFkFf.png",
+      "date": "2026-05-03",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "ySySRU-VhmIyH-MypypE",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ySySRU-VhmIyH-MypypE.png",
+      "date": "2026-05-03",
+      "venue": "Super KaBoS 敦賀店（福井）"
+    },
     {
       "deckId": "Fvkfvv-JJw1Tl-FFkbFk",
       "rank": "TOP8",
