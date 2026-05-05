@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-05-04T00:19:15.537Z",
+  "fetchedAt": "2026-05-05T00:20:12.092Z",
   "decks": [
+    {
+      "deckId": "9gNggL-Se1YfN-nQnNnN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9gNggL-Se1YfN-nQnNnN.png",
+      "date": "2026-05-04",
+      "venue": "Duel Stade Ganryu 鹿島店（茨城）"
+    },
+    {
+      "deckId": "Ln6LgL-ll4pF2-N9HgHn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ln6LgL-ll4pF2-N9HgHn.png",
+      "date": "2026-05-04",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "dkFfbV-EqBQq1-FVfvb5",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dkFfbV-EqBQq1-FVfvb5.png",
+      "date": "2026-05-04",
+      "venue": "宝島 多治見店（岐阜）"
+    },
+    {
+      "deckId": "H9gPig-mpcLQR-gNgnHQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/H9gPig-mpcLQR-gNgnHQ.png",
+      "date": "2026-05-04",
+      "venue": "BOOKOFF町田中央通り店（東京）"
+    },
+    {
+      "deckId": "ppRySR-eJ2k2F-p3ypXS",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppRySR-eJ2k2F-p3ypXS.png",
+      "date": "2026-05-04",
+      "venue": "カードボックスアリオン皆生店（鳥取）"
+    },
+    {
+      "deckId": "UpyMSp-Q3OWGd-pypXRp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UpyMSp-Q3OWGd-pypXRp.png",
+      "date": "2026-05-03",
+      "venue": "カードショップ＠ほ～む。（宮崎）"
+    },
+    {
+      "deckId": "FFkvFk-mEFeUn-vvkVkb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFkvFk-mEFeUn-vvkVkb.png",
+      "date": "2026-05-03",
+      "venue": "ブックオフ武蔵小金井（東京）"
+    },
     {
       "deckId": "5fkbFv-4aEVFl-FFFfVb",
       "rank": "TOP8",

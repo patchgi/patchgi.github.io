@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-05-04T00:19:15.745Z",
+  "fetchedAt": "2026-05-05T00:20:12.316Z",
   "decks": [
+    {
+      "deckId": "ccYcGc-0lbXz1-4caYG8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccYcGc-0lbXz1-4caYG8.png",
+      "date": "2026-05-04",
+      "venue": "バトロコ 川越駅前（埼玉）"
+    },
     {
       "deckId": "QH9ggN-A6n9fz-gLnPgN",
       "rank": "TOP8",

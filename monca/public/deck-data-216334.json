@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-05-04T00:19:14.573Z",
+  "fetchedAt": "2026-05-05T00:20:11.049Z",
   "decks": [
+    {
+      "deckId": "f1FV5k-t2vxhc-1fbvFk",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/f1FV5k-t2vxhc-1fbvFk.png",
+      "date": "2026-05-04",
+      "venue": "Duel Stade Ganryu 鹿島店（茨城）"
+    },
+    {
+      "deckId": "HHgiNn-57kfVP-n9ggQH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HHgiNn-57kfVP-n9ggQH.png",
+      "date": "2026-05-04",
+      "venue": "【CARDBOX】下関店（山口）"
+    },
+    {
+      "deckId": "SRSppy-CM8koK-UyyS2M",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SRSppy-CM8koK-UyyS2M.png",
+      "date": "2026-05-04",
+      "venue": "アリオン皆生店（鳥取）"
+    },
     {
       "deckId": "yMyypR-HEadmq-pXMpSy",
       "rank": "TOP4",
