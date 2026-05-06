@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-05-05T00:20:12.316Z",
+  "fetchedAt": "2026-05-06T00:19:18.996Z",
   "decks": [
+    {
+      "deckId": "GYc88c-PDh7JG-YcDYcD",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GYc88c-PDh7JG-YcDYcD.png",
+      "date": "2026-05-05",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
     {
       "deckId": "ccYcGc-0lbXz1-4caYG8",
       "rank": "TOP4",

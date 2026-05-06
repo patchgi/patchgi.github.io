@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-05-05T00:20:11.876Z",
+  "fetchedAt": "2026-05-06T00:19:18.445Z",
   "decks": [
+    {
+      "deckId": "iQg9nn-MruefD-g6gLiQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/iQg9nn-MruefD-g6gLiQ.png",
+      "date": "2026-05-05",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "nPQg9g-Y7k5wD-N6HgNg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPQg9g-Y7k5wD-N6HgNg.png",
+      "date": "2026-05-05",
+      "venue": "遊ING 熊本上通り店（熊本）"
+    },
+    {
+      "deckId": "HQNQng-Bf0YNU-nNg9g9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HQNQng-Bf0YNU-nNg9g9.png",
+      "date": "2026-05-05",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "n6HQ9L-lenobX-gNNngg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n6HQ9L-lenobX-gNNngg.png",
+      "date": "2026-05-05",
+      "venue": "宝島 可児店（岐阜）"
+    },
+    {
+      "deckId": "GcYcx4-Xkc0lN-8ca8x8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GcYcx4-Xkc0lN-8ca8x8.png",
+      "date": "2026-05-05",
+      "venue": "宝島 可児店（岐阜）"
+    },
+    {
+      "deckId": "Y8ccc4-mZJj8X-4YGccc",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Y8ccc4-mZJj8X-4YGccc.png",
+      "date": "2026-05-04",
+      "venue": "京都ファミリー（京都）"
+    },
     {
       "deckId": "pSyMpR-1LTW00-yS3yXy",
       "rank": "TOP4",

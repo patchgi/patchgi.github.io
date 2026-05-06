@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-05-05T00:20:10.619Z",
+  "fetchedAt": "2026-05-06T00:19:17.372Z",
   "decks": [
+    {
+      "deckId": "nggQiQ-b9Sq2f-in9HnL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nggQiQ-b9Sq2f-in9HnL.png",
+      "date": "2026-05-05",
+      "venue": "フルコンプ 八王子本店（東京）"
+    },
     {
       "deckId": "cY88Gc-ehwpGk-8DcDc4",
       "rank": "準優勝",

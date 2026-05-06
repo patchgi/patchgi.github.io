@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-05-05T00:20:11.654Z",
+  "fetchedAt": "2026-05-06T00:19:18.246Z",
   "decks": [
+    {
+      "deckId": "yySppX-B2SLj2-2SRpMp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yySppX-B2SLj2-2SRpMp.png",
+      "date": "2026-05-05",
+      "venue": "宝島 酒田店（山形）"
+    },
+    {
+      "deckId": "G8c84c-tjColj-c4YDcc",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G8c84c-tjColj-c4YDcc.png",
+      "date": "2026-05-04",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
     {
       "deckId": "4cccGc-WEgB9G-4DY8cK",
       "rank": "TOP8",

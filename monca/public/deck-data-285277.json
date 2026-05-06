@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-05-05T00:20:11.418Z",
+  "fetchedAt": "2026-05-06T00:19:18.017Z",
   "decks": [
+    {
+      "deckId": "22S2yy-DZe5ga-pXpyR3",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/22S2yy-DZe5ga-pXpyR3.png",
+      "date": "2026-05-05",
+      "venue": "宝島 可児店（岐阜）"
+    },
     {
       "deckId": "pyM2yS-jrMQO9-p2yRpy",
       "rank": "準優勝",
