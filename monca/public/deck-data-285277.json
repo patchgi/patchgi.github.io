@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-05-06T00:19:18.017Z",
+  "fetchedAt": "2026-05-07T00:19:48.813Z",
   "decks": [
+    {
+      "deckId": "MSMySU-kKcv5Q-SpppSR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MSMySU-kKcv5Q-SpppSR.png",
+      "date": "2026-05-06",
+      "venue": "トレカショップVOW（滋賀）"
+    },
     {
       "deckId": "22S2yy-DZe5ga-pXpyR3",
       "rank": "優勝",

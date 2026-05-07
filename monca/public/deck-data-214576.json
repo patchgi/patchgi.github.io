@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-05-06T00:19:18.246Z",
+  "fetchedAt": "2026-05-07T00:19:49.043Z",
   "decks": [
+    {
+      "deckId": "URppyS-wBmpQd-RSRpM2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/URppyS-wBmpQd-RSRpM2.png",
+      "date": "2026-05-06",
+      "venue": "ドラゴンスター泉佐野店（大阪）"
+    },
+    {
+      "deckId": "1FFb1b-Kgu5Bx-Ffkkdv",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1FFb1b-Kgu5Bx-Ffkkdv.png",
+      "date": "2026-05-06",
+      "venue": "ブックオフ武蔵小金井（東京）"
+    },
+    {
+      "deckId": "QH9Lng-LeS16j-gPQ9gg",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QH9Lng-LeS16j-gPQ9gg.png",
+      "date": "2026-05-06",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "9QinnP-zhqTGO-ggg9ig",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9QinnP-zhqTGO-ggg9ig.png",
+      "date": "2026-05-06",
+      "venue": "ゲームアーク 丸亀店（香川）"
+    },
     {
       "deckId": "yySppX-B2SLj2-2SRpMp",
       "rank": "TOP8",

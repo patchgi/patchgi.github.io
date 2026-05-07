@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-05-06T00:19:18.777Z",
+  "fetchedAt": "2026-05-07T00:19:49.398Z",
   "decks": [
+    {
+      "deckId": "GDDYGc-NumwdK-Y88Dcx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/GDDYGc-NumwdK-Y88Dcx.png",
+      "date": "2026-05-06",
+      "venue": "GIRAFULL京都店（京都）"
+    },
+    {
+      "deckId": "pypR2y-PP5qL6-SRXMyp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pypR2y-PP5qL6-SRXMyp.png",
+      "date": "2026-05-06",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
+    {
+      "deckId": "y2ER3p-QfpgeC-pM2RSp",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2ER3p-QfpgeC-pM2RSp.png",
+      "date": "2026-05-06",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "G8x44x-Mi7r9M-c84xYc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/G8x44x-Mi7r9M-c84xYc.png",
+      "date": "2026-05-06",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "SpRpyy-6LGiEq-SXSpyy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SpRpyy-6LGiEq-SXSpyy.png",
+      "date": "2026-05-06",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "5V1vbk-wRTnyM-FFfvVF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5V1vbk-wRTnyM-FFfvVF.png",
+      "date": "2026-05-06",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
+    {
+      "deckId": "YKGGY8-Ikx8g7-ccccDY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YKGGY8-Ikx8g7-ccccDY.png",
+      "date": "2026-05-06",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
+    {
+      "deckId": "9Qggng-Ce5289-ngQQLL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9Qggng-Ce5289-ngQQLL.png",
+      "date": "2026-05-06",
+      "venue": "宝島 岐阜本店（岐阜）"
+    },
+    {
+      "deckId": "b5FbV1-nEpdkH-vFFFvk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/b5FbV1-nEpdkH-vFFFvk.png",
+      "date": "2026-05-06",
+      "venue": "宝島 岐阜本店（岐阜）"
+    },
     {
       "deckId": "MySppR-g6Wy0g-X2Rp2y",
       "rank": "TOP8",
