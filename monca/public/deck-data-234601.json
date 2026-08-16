@@ -1,27 +1,5 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-08-15T00:34:54.168Z",
-  "decks": [
-    {
-      "deckId": "QgNnLi-zlcyPp-9gNQnn",
-      "rank": "優勝",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QgNnLi-zlcyPp-9gNQnn.png",
-      "date": "2026-05-06",
-      "venue": "オレタン 岡山本店（岡山）"
-    },
-    {
-      "deckId": "c8ccYY-aiEJtl-DGccGY",
-      "rank": "TOP4",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c8ccYY-aiEJtl-DGccGY.png",
-      "date": "2026-05-06",
-      "venue": "トレカショップKCC（埼玉）"
-    },
-    {
-      "deckId": "kVFbvF-0pnLxh-bkvkFF",
-      "rank": "TOP4",
-      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVFbvF-0pnLxh-bkvkFF.png",
-      "date": "2026-05-06",
-      "venue": "バトロコ 新津田沼駅前（千葉）"
-    }
-  ]
+  "fetchedAt": "2026-08-16T00:36:23.874Z",
+  "decks": []
 }
