@@ -1,5 +1,62 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-09-26T02:24:05.182Z",
-  "decks": []
+  "fetchedAt": "2026-09-27T02:20:12.989Z",
+  "decks": [
+    {
+      "deckId": "FbFkVf-tNUcvo-vvwfwk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FbFkVf-tNUcvo-vvwfwk.png",
+      "date": "2026-09-26",
+      "venue": "BOOKOFF イトーヨーカドー流山店（千葉）"
+    },
+    {
+      "deckId": "XSR3RE-hy5ywc-yUppyy",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XSR3RE-hy5ywc-yUppyy.png",
+      "date": "2026-09-26",
+      "venue": "カードショップリドル京急蒲田店（東京）"
+    },
+    {
+      "deckId": "x8cGGG-IV72mF-xax8Kc",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8cGGG-IV72mF-xax8Kc.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
+    {
+      "deckId": "pR3y2y-QvnQw0-yXyRyE",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pR3y2y-QvnQw0-yXyRyE.png",
+      "date": "2026-09-26",
+      "venue": "バトロコ 小山駅前（栃木）"
+    },
+    {
+      "deckId": "y2RpMy-l5xur0-SR3p2p",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y2RpMy-l5xur0-SR3p2p.png",
+      "date": "2026-09-26",
+      "venue": "遊ING浜町店（長崎）"
+    },
+    {
+      "deckId": "3yMpyy-243cTr-MypRUM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/3yMpyy-243cTr-MypRUM.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ 相模大野店（神奈川）"
+    },
+    {
+      "deckId": "g9QLnL-ZgHPP9-gnn996",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9QLnL-ZgHPP9-gnn996.png",
+      "date": "2026-09-26",
+      "venue": "北国書林 松任店（石川）"
+    },
+    {
+      "deckId": "bwkkFF-jw1aye-bk5fkw",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bwkkFF-jw1aye-bk5fkw.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    }
+  ]
 }

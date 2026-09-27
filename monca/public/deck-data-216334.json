@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-09-26T02:24:04.658Z",
+  "fetchedAt": "2026-09-27T02:20:12.330Z",
   "decks": [
+    {
+      "deckId": "dkFkfF-Ekkocd-1kfbwb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/dkFkfF-Ekkocd-1kfbwb.png",
+      "date": "2026-09-26",
+      "venue": "【CARDBOX】下関店（山口）"
+    },
     {
       "deckId": "69Qgni-cWK33U-ngNg9i",
       "rank": "TOP8",

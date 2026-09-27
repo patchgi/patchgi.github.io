@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-09-26T02:24:05.506Z",
+  "fetchedAt": "2026-09-27T02:20:13.429Z",
   "decks": [
+    {
+      "deckId": "SppyRp-NnqgNi-pppX3y",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SppyRp-NnqgNi-pppX3y.png",
+      "date": "2026-09-26",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "D8GDxc-4viLVa-Y88KcY",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/D8GDxc-4viLVa-Y88KcY.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ田富昭和通り店（山梨）"
+    },
+    {
+      "deckId": "ngn6Nn-tfimDR-gLgQn9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngn6Nn-tfimDR-gLgQn9.png",
+      "date": "2026-09-26",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "gQHgnQ-IgXNZy-NQgg99",
       "rank": "TOP4",

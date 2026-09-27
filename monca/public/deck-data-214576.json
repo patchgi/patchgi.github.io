@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-09-26T02:24:05.034Z",
+  "fetchedAt": "2026-09-27T02:20:12.791Z",
   "decks": [
+    {
+      "deckId": "Syp2SR-8ePVLo-XMSUy3",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Syp2SR-8ePVLo-XMSUy3.png",
+      "date": "2026-09-26",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "UySEyy-iNbnAS-MyM3Rp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UySEyy-iNbnAS-MyM3Rp.png",
+      "date": "2026-09-26",
+      "venue": "バトロコ 水戸駅前（茨城）"
+    },
+    {
+      "deckId": "g99nQn-aIR3pn-nPgn6P",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g99nQn-aIR3pn-nPgn6P.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ 相模大野店（神奈川）"
+    },
     {
       "deckId": "URppyS-wBmpQd-RSRpM2",
       "rank": "TOP8",

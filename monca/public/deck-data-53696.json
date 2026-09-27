@@ -1,5 +1,62 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-09-26T02:24:05.339Z",
-  "decks": []
+  "fetchedAt": "2026-09-27T02:20:13.209Z",
+  "decks": [
+    {
+      "deckId": "UyppyS-NA8UYe-MRy3SM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/UyppyS-NA8UYe-MRy3SM.png",
+      "date": "2026-09-26",
+      "venue": "BOOKOFF イトーヨーカドー流山店（千葉）"
+    },
+    {
+      "deckId": "Q6nnig-LIp2Eq-nng9Qn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Q6nnig-LIp2Eq-nng9Qn.png",
+      "date": "2026-09-26",
+      "venue": "バトロコ 本厚木駅前（神奈川）"
+    },
+    {
+      "deckId": "bffvkv-wHXdSb-FbwV5k",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bffvkv-wHXdSb-FbwV5k.png",
+      "date": "2026-09-26",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "gH9gL9-4Hqjhf-n6NnLn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gH9gL9-4Hqjhf-n6NnLn.png",
+      "date": "2026-09-26",
+      "venue": "遊ING浜町店（長崎）"
+    },
+    {
+      "deckId": "n6nLnn-DTFc5d-PL9QgN",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n6nLnn-DTFc5d-PL9QgN.png",
+      "date": "2026-09-26",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "8cc8G8-qFfHf2-48KG88",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8cc8G8-qFfHf2-48KG88.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ 相模大野店（神奈川）"
+    },
+    {
+      "deckId": "gL96gL-qHcbEp-gn9nni",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gL96gL-qHcbEp-gn9nni.png",
+      "date": "2026-09-26",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    },
+    {
+      "deckId": "g9HHnL-t3oT0X-nP9QiQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9HHnL-t3oT0X-nP9QiQ.png",
+      "date": "2026-09-26",
+      "venue": "アリオン皆生店（鳥取）"
+    }
+  ]
 }
