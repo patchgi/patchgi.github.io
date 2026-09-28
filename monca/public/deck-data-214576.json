@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-09-27T02:20:12.791Z",
+  "fetchedAt": "2026-09-28T02:24:07.218Z",
   "decks": [
+    {
+      "deckId": "xGK8c8-yIUuFa-xcK8Jc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xGK8c8-yIUuFa-xcK8Jc.png",
+      "date": "2026-09-27",
+      "venue": "GIRAFULLなんば店（大阪）-2"
+    },
+    {
+      "deckId": "5V1dkF-bIZBVU-wkbkvF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/5V1dkF-bIZBVU-wkbkvF.png",
+      "date": "2026-09-27",
+      "venue": "トレカプラザ５５大須アメ横店（愛知）"
+    },
+    {
+      "deckId": "VkFwkV-2NgpI4-V1bfVF",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkFwkV-2NgpI4-V1bfVF.png",
+      "date": "2026-09-27",
+      "venue": "トレカプラザ５５大須アメ横店（愛知）"
+    },
     {
       "deckId": "Syp2SR-8ePVLo-XMSUy3",
       "rank": "TOP8",

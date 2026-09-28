@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-09-27T02:20:13.429Z",
+  "fetchedAt": "2026-09-28T02:24:07.808Z",
   "decks": [
+    {
+      "deckId": "JKG88c-1dodx7-c84cx4",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JKG88c-1dodx7-c84cx4.png",
+      "date": "2026-09-27",
+      "venue": "本の王国すまいるキング安城店（愛知）"
+    },
+    {
+      "deckId": "L6LnNn-P7Xh1W-iNn9g9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L6LnNn-P7Xh1W-iNn9g9.png",
+      "date": "2026-09-27",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "XRy3Xy-HI2dP8-yS3yRp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XRy3Xy-HI2dP8-yS3yRp.png",
+      "date": "2026-09-27",
+      "venue": "竜星の嵐 高松店（香川）"
+    },
+    {
+      "deckId": "DxY8G8-2xILHa-GD88cK",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DxY8G8-2xILHa-GD88cK.png",
+      "date": "2026-09-27",
+      "venue": "TSUTAYA山陽店（岡山）"
+    },
+    {
+      "deckId": "kfbwF5-QcOBYE-5kkFdF",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kfbwF5-QcOBYE-5kkFdF.png",
+      "date": "2026-09-27",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "nL9HP6-nu4EtZ-ggnLLg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nL9HP6-nu4EtZ-ggnLLg.png",
+      "date": "2026-09-27",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "SppyRp-NnqgNi-pppX3y",
       "rank": "TOP4",

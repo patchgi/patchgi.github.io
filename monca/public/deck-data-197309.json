@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-09-27T02:20:11.904Z",
+  "fetchedAt": "2026-09-28T02:24:06.409Z",
   "decks": [
+    {
+      "deckId": "pyEyMR-zCTVjy-R3pySX",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyEyMR-zCTVjy-R3pySX.png",
+      "date": "2026-09-27",
+      "venue": "BOOKOFF 西友大森店（東京）"
+    },
+    {
+      "deckId": "DGKJJ4-MRw2ux-c88ccx",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DGKJJ4-MRw2ux-c88ccx.png",
+      "date": "2026-09-27",
+      "venue": "メディアポリス 御殿場店（静岡）"
+    },
+    {
+      "deckId": "yMyUp3-ill7Ig-3yyRRX",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMyUp3-ill7Ig-3yyRRX.png",
+      "date": "2026-09-27",
+      "venue": "ドラグーン周南（山口）"
+    },
+    {
+      "deckId": "R2ypMM-I7uHBF-R3pyEy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/R2ypMM-I7uHBF-R3pyEy.png",
+      "date": "2026-09-27",
+      "venue": "宝島 多治見店（岐阜）"
+    },
+    {
+      "deckId": "kVbwk1-QDt4cb-kbFFfF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVbwk1-QDt4cb-kbFFfF.png",
+      "date": "2026-09-27",
+      "venue": "宝島 多治見店（岐阜）"
+    },
     {
       "deckId": "6nHL96-WlxNnn-QQNgnn",
       "rank": "TOP8",

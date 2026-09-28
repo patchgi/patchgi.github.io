@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-09-27T02:20:12.559Z",
+  "fetchedAt": "2026-09-28T02:24:07.008Z",
   "decks": [
+    {
+      "deckId": "My3MEX-UMMWHv-SpRUy3",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/My3MEX-UMMWHv-SpRUy3.png",
+      "date": "2026-09-27",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "x8ccJ8-UfK813-88KG8x",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/x8ccJ8-UfK813-88KG8x.png",
+      "date": "2026-09-27",
+      "venue": "カードボックス 福山店（広島）"
+    },
     {
       "deckId": "pSMEyy-6Bk8ZR-SRpMy3",
       "rank": "優勝",
