@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-09-28T02:24:05.996Z",
+  "fetchedAt": "2026-09-29T03:07:37.641Z",
   "decks": [
+    {
+      "deckId": "cY8x8x-0Q5aRC-4GKJYa",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cY8x8x-0Q5aRC-4GKJYa.png",
+      "date": "2026-09-28",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
     {
       "deckId": "dFvkfk-79Ratq-fkVbwb",
       "rank": "TOP4",

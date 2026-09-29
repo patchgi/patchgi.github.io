@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-09-28T02:24:07.218Z",
+  "fetchedAt": "2026-09-29T03:07:38.977Z",
   "decks": [
+    {
+      "deckId": "M3p3Ry-oCSyMz-yRyRES",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/M3p3Ry-oCSyMz-yRyRES.png",
+      "date": "2026-09-28",
+      "venue": "シーガル 仙台駅前店（宮城）"
+    },
     {
       "deckId": "xGK8c8-yIUuFa-xcK8Jc",
       "rank": "TOP8",
