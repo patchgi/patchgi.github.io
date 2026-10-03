@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-02T02:58:25.823Z",
+  "fetchedAt": "2026-10-03T02:44:13.545Z",
   "decks": [
+    {
+      "deckId": "ppyEMy-eQoHG6-yRMMXM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppyEMy-eQoHG6-yRMMXM.png",
+      "date": "2026-10-02",
+      "venue": "トレカショップVOW（滋賀）"
+    },
     {
       "deckId": "kkF1ff-fYDq6u-5k1Fbw",
       "rank": "TOP4",

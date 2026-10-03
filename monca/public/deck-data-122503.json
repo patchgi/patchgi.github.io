@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-02T02:58:24.136Z",
+  "fetchedAt": "2026-10-03T02:44:11.984Z",
   "decks": [
+    {
+      "deckId": "MppXRM-8nf7oi-ypyMSU",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MppXRM-8nf7oi-ypyMSU.png",
+      "date": "2026-10-02",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "nignNg-az9dt1-g9nLn6",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nignNg-az9dt1-g9nLn6.png",
+      "date": "2026-10-02",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "8cxKDc-9ENh2r-xJ8DG8",
       "rank": "TOP8",

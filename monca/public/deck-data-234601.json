@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-10-02T02:58:25.623Z",
+  "fetchedAt": "2026-10-03T02:44:13.376Z",
   "decks": [
+    {
+      "deckId": "V5FVbw-uRA6Q1-FkFkk5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/V5FVbw-uRA6Q1-FkFkk5.png",
+      "date": "2026-10-02",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "vFVwbb-HUPIAC-bkVFvV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vFVwbb-HUPIAC-bkVFvV.png",
+      "date": "2026-10-02",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "XyMMRM-IL0yi5-MpyppX",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XyMMRM-IL0yi5-MpyppX.png",
+      "date": "2026-10-02",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
+    {
+      "deckId": "8YGxK8-BKlWic-xYcDcx",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8YGxK8-BKlWic-xYcDcx.png",
+      "date": "2026-10-02",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
     {
       "deckId": "Vwfbf1-GJ5lzC-51FFfk",
       "rank": "TOP8",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-02T02:58:25.419Z",
+  "fetchedAt": "2026-10-03T02:44:13.194Z",
   "decks": [
+    {
+      "deckId": "nPgngL-6udqAM-NngH9g",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPgngL-6udqAM-NngH9g.png",
+      "date": "2026-10-02",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "M3p3Ry-oCSyMz-yRyRES",
       "rank": "TOP8",
