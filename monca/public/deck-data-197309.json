@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-03T02:44:12.378Z",
+  "fetchedAt": "2026-10-04T03:15:41.807Z",
   "decks": [
+    {
+      "deckId": "MMMpyp-xe5Kfo-REMyER",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MMMpyp-xe5Kfo-REMyER.png",
+      "date": "2026-10-03",
+      "venue": "ブックオフ田富昭和通り店（山梨）"
+    },
+    {
+      "deckId": "nnLQLg-Uoj94J-n9L9gN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnLQLg-Uoj94J-n9L9gN.png",
+      "date": "2026-10-03",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
+    {
+      "deckId": "ngNQg9-9c8DRh-nngLLL",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ngNQg9-9c8DRh-nngLLL.png",
+      "date": "2026-10-03",
+      "venue": "BOOKOFF 248号西友岡崎店（愛知）"
+    },
+    {
+      "deckId": "n9ngnH-6I78rN-NNPNgL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/n9ngnH-6I78rN-NNPNgL.png",
+      "date": "2026-10-03",
+      "venue": "オレタン福岡天神店（福岡）"
+    },
+    {
+      "deckId": "ccDaG8-vdPBmN-Jccccx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccDaG8-vdPBmN-Jccccx.png",
+      "date": "2026-10-03",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
     {
       "deckId": "pyEyMR-zCTVjy-R3pySX",
       "rank": "準優勝",
