@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-04T03:15:41.807Z",
+  "fetchedAt": "2026-10-05T02:51:02.837Z",
   "decks": [
+    {
+      "deckId": "QgnggH-LY093Q-LLg9Ng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/QgnggH-LY093Q-LLg9Ng.png",
+      "date": "2026-10-04",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "FkkVbf-LFzZ9L-kfFkwV",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkkVbf-LFzZ9L-kfFkwV.png",
+      "date": "2026-10-04",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
     {
       "deckId": "MMMpyp-xe5Kfo-REMyER",
       "rank": "優勝",

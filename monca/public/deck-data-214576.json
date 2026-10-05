@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-04T03:15:42.699Z",
+  "fetchedAt": "2026-10-05T02:51:03.683Z",
   "decks": [
+    {
+      "deckId": "9nnLnL-I1E1gj-HiggNL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9nnLnL-I1E1gj-HiggNL.png",
+      "date": "2026-10-04",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
+    {
+      "deckId": "ca8888-1RgW2h-DxxcGD",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ca8888-1RgW2h-DxxcGD.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFF 250号東岡山店（岡山）"
+    },
+    {
+      "deckId": "RMXXyX-UUPzEU-RySpMp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMXXyX-UUPzEU-RySpMp.png",
+      "date": "2026-10-04",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "1bVfkF-8Go2Kl-FFVkkk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1bVfkF-8Go2Kl-FFVkkk.png",
+      "date": "2026-10-04",
+      "venue": "シーガル郡山店（福島）"
+    },
+    {
+      "deckId": "6gNLL9-xDXe1e-Hgnggn",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/6gNLL9-xDXe1e-Hgnggn.png",
+      "date": "2026-10-04",
+      "venue": "ポケ堂北上店（岩手）"
+    },
     {
       "deckId": "DDc88x-CpP30r-ccK8Ga",
       "rank": "TOP8",

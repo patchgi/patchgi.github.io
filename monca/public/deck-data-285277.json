@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-04T03:15:42.462Z",
+  "fetchedAt": "2026-10-05T02:51:03.458Z",
   "decks": [
+    {
+      "deckId": "cJxYDG-I9WyNG-J888c8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cJxYDG-I9WyNG-J888c8.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFF 1号京都伏見店（京都）"
+    },
     {
       "deckId": "pMREMM-mVIiix-RpypRy",
       "rank": "TOP8",

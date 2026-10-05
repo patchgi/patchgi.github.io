@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-10-04T03:15:43.369Z",
+  "fetchedAt": "2026-10-05T02:51:04.309Z",
   "decks": [
+    {
+      "deckId": "acDxcG-7bAgfl-48cc8D",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/acDxcG-7bAgfl-48cc8D.png",
+      "date": "2026-10-04",
+      "venue": "トイコンプ岸和田店（大阪）"
+    },
+    {
+      "deckId": "kFFkbv-yHFIKT-FFVVV5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFFkbv-yHFIKT-FFVVV5.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "pMMEpR-6vWCVQ-yypRUX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMMEpR-6vWCVQ-yypRUX.png",
+      "date": "2026-10-04",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
     {
       "deckId": "FbkFVk-ZfVoev-VfkFFv",
       "rank": "優勝",

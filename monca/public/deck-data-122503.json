@@ -1,7 +1,217 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-04T03:15:41.354Z",
+  "fetchedAt": "2026-10-05T02:51:02.398Z",
   "decks": [
+    {
+      "deckId": "MypXXy-W5T9az-yMpyRR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MypXXy-W5T9az-yMpyRR.png",
+      "date": "2026-10-04",
+      "venue": "ゲームプラザ元気302（滋賀）"
+    },
+    {
+      "deckId": "RXyppy-EDcT6l-MypXUp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RXyppy-EDcT6l-MypXUp.png",
+      "date": "2026-10-04",
+      "venue": "シーガル 泉中央店（宮城）"
+    },
+    {
+      "deckId": "YY8D8c-yyWSkf-KcxDxG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/YY8D8c-yyWSkf-KcxDxG.png",
+      "date": "2026-10-04",
+      "venue": "シーガル 泉中央店（宮城）"
+    },
+    {
+      "deckId": "9LgNLN-XVX2BL-HggLng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LgNLN-XVX2BL-HggLng.png",
+      "date": "2026-10-04",
+      "venue": "CARDSHOPラリアット！（宮崎）"
+    },
+    {
+      "deckId": "xDGa8x-tqKwE5-cx48Kc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xDGa8x-tqKwE5-cx48Kc.png",
+      "date": "2026-10-04",
+      "venue": "CARDSHOPラリアット！（宮崎）"
+    },
+    {
+      "deckId": "yERXpp-wLfzro-2XMMyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yERXpp-wLfzro-2XMMyp.png",
+      "date": "2026-10-04",
+      "venue": "CARDSHOPラリアット！（宮崎）"
+    },
+    {
+      "deckId": "yMpXpR-eUO3NN-M2M2py",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMpXpR-eUO3NN-M2M2py.png",
+      "date": "2026-10-04",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "bF51kV-48bXlT-FFFkVF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bF51kV-48bXlT-FFFkVF.png",
+      "date": "2026-10-04",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "bffkfw-wziu4G-FFVk5F",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bffkfw-wziu4G-FFVk5F.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFF大宮ステラタウン店（埼玉）"
+    },
+    {
+      "deckId": "HHLg9n-TA3PTR-LLQNgH",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HHLg9n-TA3PTR-LLQNgH.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFFショップス市川店（千葉）"
+    },
+    {
+      "deckId": "p2RMpp-FwYHbS-UpXyyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p2RMpp-FwYHbS-UpXyyp.png",
+      "date": "2026-10-04",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "4a8cxG-LMn88Q-8cccc4",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/4a8cxG-LMn88Q-8cccc4.png",
+      "date": "2026-10-04",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "NN9NLN-6hSY7T-ggNLnL",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NN9NLN-6hSY7T-ggNLnL.png",
+      "date": "2026-10-04",
+      "venue": "Super KaBoS 二の宮本店（福井）"
+    },
+    {
+      "deckId": "FFdfVk-btNM9u-FkkfFb",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFdfVk-btNM9u-FkkfFb.png",
+      "date": "2026-10-04",
+      "venue": "Super KaBoS 二の宮本店（福井）"
+    },
+    {
+      "deckId": "cJYx8D-CgUi1b-cDcGDc",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cJYx8D-CgUi1b-cDcGDc.png",
+      "date": "2026-10-04",
+      "venue": "GIRAFULL 広島ドンキ店（広島）"
+    },
+    {
+      "deckId": "ppXppR-towRwI-3RUMyM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppXppR-towRwI-3RUMyM.png",
+      "date": "2026-10-04",
+      "venue": "GIRAFULL 広島ドンキ店（広島）"
+    },
+    {
+      "deckId": "cGc4x4-2zFDEi-8ccDJx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cGc4x4-2zFDEi-8ccDJx.png",
+      "date": "2026-10-04",
+      "venue": "GIRAFULL 広島ドンキ店（広島）"
+    },
+    {
+      "deckId": "9LnLLg-hSJb2F-gLngnn",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LnLLg-hSJb2F-gLngnn.png",
+      "date": "2026-10-04",
+      "venue": "ビデオ100（徳島）"
+    },
+    {
+      "deckId": "pR2M2p-4R7hLy-Spp2yM",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pR2M2p-4R7hLy-Spp2yM.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFFアミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "kkVVFb-bmRPF5-fwFFF1",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkVVFb-bmRPF5-fwFFF1.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFFアミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "55FkFV-uoQSwy-VwFbbf",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/55FkFV-uoQSwy-VwFbbf.png",
+      "date": "2026-10-04",
+      "venue": "バトロコミニ苫小牧バイパス店（北海道）"
+    },
+    {
+      "deckId": "MppRXM-VJIwO3-pMRpyp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MppRXM-VJIwO3-pMRpyp.png",
+      "date": "2026-10-04",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "FVfVFk-yjbnhB-VbkkFf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVfVFk-yjbnhB-VbkkFf.png",
+      "date": "2026-10-04",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "nL9HLg-Yqz7va-NH6Lgg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nL9HLg-Yqz7va-NH6Lgg.png",
+      "date": "2026-10-04",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
+    {
+      "deckId": "kVFbwV-upYxoS-5FdkFf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVFbwV-upYxoS-5FdkFf.png",
+      "date": "2026-10-04",
+      "venue": "バトロコ新浜松駅前（静岡）"
+    },
+    {
+      "deckId": "pMppyp-itoAU3-yXRypR",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMppyp-itoAU3-yXRypR.png",
+      "date": "2026-10-04",
+      "venue": "Wonder GOO 足利店（栃木）"
+    },
+    {
+      "deckId": "yXyppp-1y1GKm-XRRpMX",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yXyppp-1y1GKm-XRRpMX.png",
+      "date": "2026-10-04",
+      "venue": "カードショップ裁龍（茨城）"
+    },
+    {
+      "deckId": "c448xc-OEjkq8-xcGcc8",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c448xc-OEjkq8-xcGcc8.png",
+      "date": "2026-10-04",
+      "venue": "ゲームアーク西条中央店（広島）"
+    },
+    {
+      "deckId": "pRMRUM-bZBoKu-yMp3yM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRMRUM-bZBoKu-yMp3yM.png",
+      "date": "2026-10-04",
+      "venue": "三洋堂書店 乙川店（愛知）"
+    },
+    {
+      "deckId": "gNLgHH-NFLjFI-LiHn9g",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gNLgHH-NFLjFI-LiHn9g.png",
+      "date": "2026-10-04",
+      "venue": "バトロコ 札幌狸小路（北海道）"
+    },
     {
       "deckId": "V5FkFw-BUiOUb-fkkFbw",
       "rank": "TOP8",

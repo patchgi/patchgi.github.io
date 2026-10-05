@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-10-04T03:15:42.225Z",
+  "fetchedAt": "2026-10-05T02:51:03.233Z",
   "decks": [
+    {
+      "deckId": "igNLnL-v46LZ3-gNg9gn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/igNLnL-v46LZ3-gNg9gn.png",
+      "date": "2026-10-04",
+      "venue": "ゲームプラザ元気302（滋賀）"
+    },
+    {
+      "deckId": "FkffVb-HPpNKD-1VVFw5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkffVb-HPpNKD-1VVFw5.png",
+      "date": "2026-10-04",
+      "venue": "バトロコ新浜松駅前（静岡）"
+    },
     {
       "deckId": "N96g9n-bj73u2-nggnNg",
       "rank": "TOP8",
