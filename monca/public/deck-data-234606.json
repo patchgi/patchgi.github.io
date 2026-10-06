@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-10-05T02:51:04.309Z",
+  "fetchedAt": "2026-10-06T03:41:21.281Z",
   "decks": [
+    {
+      "deckId": "b5fFF1-8MD3ii-vFVkVF",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/b5fFF1-8MD3ii-vFVkVF.png",
+      "date": "2026-10-05",
+      "venue": "BOOKOFF307号枚方池之宮店（大阪）"
+    },
     {
       "deckId": "acDxcG-7bAgfl-48cc8D",
       "rank": "TOP8",

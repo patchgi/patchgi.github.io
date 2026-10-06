@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-05T02:51:02.837Z",
+  "fetchedAt": "2026-10-06T03:41:19.809Z",
   "decks": [
+    {
+      "deckId": "LgQNgg-1SISjv-NN6L9n",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LgQNgg-1SISjv-NN6L9n.png",
+      "date": "2026-10-04",
+      "venue": "ブックオフ武蔵小金井（東京）"
+    },
     {
       "deckId": "QgnggH-LY093Q-LLg9Ng",
       "rank": "TOP8",

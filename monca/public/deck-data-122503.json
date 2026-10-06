@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-05T02:51:02.398Z",
+  "fetchedAt": "2026-10-06T03:41:19.366Z",
   "decks": [
+    {
+      "deckId": "9LLQQg-FptpXw-ggNLnL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LLQQg-FptpXw-ggNLnL.png",
+      "date": "2026-10-05",
+      "venue": "BOOKOFF307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "ySyXMp-qQt4mn-pRppyp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ySyXMp-qQt4mn-pRppyp.png",
+      "date": "2026-10-05",
+      "venue": "BOOKOFF307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "gLHng9-cjxplA-gQPggn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLHng9-cjxplA-gQPggn.png",
+      "date": "2026-10-05",
+      "venue": "BOOKOFF307号枚方池之宮店（大阪）"
+    },
     {
       "deckId": "MypXXy-W5T9az-yMpyRR",
       "rank": "TOP4",
