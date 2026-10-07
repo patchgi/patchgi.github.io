@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-06T03:41:21.064Z",
+  "fetchedAt": "2026-10-07T03:09:15.599Z",
   "decks": [
+    {
+      "deckId": "nggg9g-tq1VMx-LLL9HQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nggg9g-tq1VMx-LLL9HQ.png",
+      "date": "2026-10-06",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
     {
       "deckId": "99LNPg-C9rkQk-nNgLLg",
       "rank": "準優勝",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-10-06T03:41:20.865Z",
+  "fetchedAt": "2026-10-07T03:09:15.398Z",
   "decks": [
+    {
+      "deckId": "c88ccD-pABnkx-xDGaYa",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c88ccD-pABnkx-xDGaYa.png",
+      "date": "2026-10-06",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "VFVkFV-oblkhk-kvfFb5",
       "rank": "TOP4",

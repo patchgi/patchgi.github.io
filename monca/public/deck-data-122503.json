@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-06T03:41:19.366Z",
+  "fetchedAt": "2026-10-07T03:09:13.860Z",
   "decks": [
+    {
+      "deckId": "LNngQg-u9jqpO-nigiN9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LNngQg-u9jqpO-nigiN9.png",
+      "date": "2026-10-06",
+      "venue": "スキップ玉出店（大阪）"
+    },
+    {
+      "deckId": "HgLLnN-cRfNqx-g99ngg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HgLLnN-cRfNqx-g99ngg.png",
+      "date": "2026-10-06",
+      "venue": "バトロコ 柏駅前（千葉）"
+    },
+    {
+      "deckId": "kFf5kV-OXrXzb-wVFFbv",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFf5kV-OXrXzb-wVFFbv.png",
+      "date": "2026-10-06",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "xa4GcD-3jeuvp-cc8Yax",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xa4GcD-3jeuvp-cc8Yax.png",
+      "date": "2026-10-06",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
+    {
+      "deckId": "gL9ng9-AL2Q6f-NgiNnn",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gL9ng9-AL2Q6f-NgiNnn.png",
+      "date": "2026-10-06",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "kFFfkF-gFloRP-kVbv1f",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFFfkF-gFloRP-kVbv1f.png",
+      "date": "2026-10-06",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
+    {
+      "deckId": "kkFVbf-OZz2fw-5Fk5bv",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kkFVbf-OZz2fw-5Fk5bv.png",
+      "date": "2026-10-06",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "9LLQQg-FptpXw-ggNLnL",
       "rank": "TOP8",
