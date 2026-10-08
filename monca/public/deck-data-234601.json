@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-10-07T03:09:15.398Z",
+  "fetchedAt": "2026-10-08T03:24:21.697Z",
   "decks": [
+    {
+      "deckId": "DDccJc-cGoWSe-KJG8cx",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DDccJc-cGoWSe-KJG8cx.png",
+      "date": "2026-10-07",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "bFV5kV-H9E4lp-FFFd5w",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/bFV5kV-H9E4lp-FFFd5w.png",
+      "date": "2026-10-07",
+      "venue": "Torecacamp大須店（愛知）"
+    },
+    {
+      "deckId": "EXUypM-u4jylV-yEpppR",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/EXUypM-u4jylV-yEpppR.png",
+      "date": "2026-10-07",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "c88ccD-pABnkx-xDGaYa",
       "rank": "優勝",

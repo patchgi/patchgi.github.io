@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-07T03:09:14.970Z",
+  "fetchedAt": "2026-10-08T03:24:21.350Z",
   "decks": [
+    {
+      "deckId": "xcGD8Y-ipTqbM-Jxcc48",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xcGD8Y-ipTqbM-Jxcc48.png",
+      "date": "2026-10-07",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
     {
       "deckId": "cJxYDG-I9WyNG-J888c8",
       "rank": "TOP4",

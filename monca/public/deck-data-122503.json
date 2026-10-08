@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-07T03:09:13.860Z",
+  "fetchedAt": "2026-10-08T03:24:20.486Z",
   "decks": [
+    {
+      "deckId": "1FF15f-yKUakJ-VbFbkv",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1FF15f-yKUakJ-VbFbkv.png",
+      "date": "2026-10-07",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
+    {
+      "deckId": "kVFVb1-KeC49o-FfbFwF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVFVb1-KeC49o-FfbFwF.png",
+      "date": "2026-10-07",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "LNngQg-u9jqpO-nigiN9",
       "rank": "TOP8",
