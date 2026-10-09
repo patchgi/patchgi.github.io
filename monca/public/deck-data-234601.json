@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-10-08T03:24:21.697Z",
+  "fetchedAt": "2026-10-09T03:30:03.495Z",
   "decks": [
+    {
+      "deckId": "Gc8cDG-ZGKg03-KG8D88",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Gc8cDG-ZGKg03-KG8D88.png",
+      "date": "2026-10-08",
+      "venue": "ドラゴンスター町田店（東京）"
+    },
+    {
+      "deckId": "F5dkVV-zZACYe-F1Fb1F",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/F5dkVV-zZACYe-F1Fb1F.png",
+      "date": "2026-10-08",
+      "venue": "BOOKOFF和歌山国体道路店（和歌山）"
+    },
+    {
+      "deckId": "xc8GcJ-W286wN-cJc48c",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xc8GcJ-W286wN-cJc48c.png",
+      "date": "2026-10-08",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
+    {
+      "deckId": "cJGYxx-nRapCX-Gcc8Jx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cJGYxx-nRapCX-Gcc8Jx.png",
+      "date": "2026-10-08",
+      "venue": "BOOKOFF奈良法華寺店（奈良）"
+    },
     {
       "deckId": "DDccJc-cGoWSe-KJG8cx",
       "rank": "準優勝",
