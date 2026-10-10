@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-09T03:30:03.113Z",
+  "fetchedAt": "2026-10-10T03:09:59.994Z",
   "decks": [
+    {
+      "deckId": "3MpMpp-on19Il-R2MpUy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/3MpMpp-on19Il-R2MpUy.png",
+      "date": "2026-10-09",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "xcGD8Y-ipTqbM-Jxcc48",
       "rank": "準優勝",

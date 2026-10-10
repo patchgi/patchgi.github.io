@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-10-09T03:30:02.142Z",
+  "fetchedAt": "2026-10-10T03:09:59.048Z",
   "decks": [
+    {
+      "deckId": "vkvbkF-Z4xzjY-FwFkV5",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkvbkF-Z4xzjY-FwFkV5.png",
+      "date": "2026-10-09",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "HL9gnL-lzDCZv-Li9NgQ",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/HL9gnL-lzDCZv-Li9NgQ.png",
+      "date": "2026-10-09",
+      "venue": "トレカショップVOW（滋賀）"
+    },
+    {
+      "deckId": "cxYccY-LJCuAE-88cDGa",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cxYccY-LJCuAE-88cDGa.png",
+      "date": "2026-10-09",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "wkFFVb-6TEAvH-kFdkbb",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/wkFFVb-6TEAvH-kFdkbb.png",
+      "date": "2026-10-09",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
+    {
+      "deckId": "RUp22p-415kIq-yMRSyy",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RUp22p-415kIq-yMRSyy.png",
+      "date": "2026-10-09",
+      "venue": "バトロコ 高田馬場（東京）"
+    },
     {
       "deckId": "gLgNLg-MMWaE6-P9nin9",
       "rank": "TOP8",

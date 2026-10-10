@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-09T03:30:03.314Z",
+  "fetchedAt": "2026-10-10T03:10:00.190Z",
   "decks": [
+    {
+      "deckId": "F1VFVk-cdLJSL-bV5wV5",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/F1VFVk-cdLJSL-bV5wV5.png",
+      "date": "2026-10-09",
+      "venue": "ドラグーン周南（山口）"
+    },
     {
       "deckId": "pyMyME-QF7OW0-3SR3pM",
       "rank": "TOP4",
