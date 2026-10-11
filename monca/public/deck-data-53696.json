@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-10T03:10:00.535Z",
+  "fetchedAt": "2026-10-11T02:42:21.846Z",
   "decks": [
+    {
+      "deckId": "RSp2pM-A8b31C-Xp2yMp",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RSp2pM-A8b31C-Xp2yMp.png",
+      "date": "2026-10-10",
+      "venue": "バトロコ 本厚木駅前（神奈川）"
+    },
+    {
+      "deckId": "PggQgg-UbISrF-iL9n6g",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/PggQgg-UbISrF-iL9n6g.png",
+      "date": "2026-10-10",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
+    {
+      "deckId": "g9LgHg-oXuHhp-nHgg9L",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9LgHg-oXuHhp-nHgg9L.png",
+      "date": "2026-10-10",
+      "venue": "BOOKOFF 立川駅北口店（東京）"
+    },
     {
       "deckId": "nLgHHQ-ZZaBky-gg9gHL",
       "rank": "準優勝",
