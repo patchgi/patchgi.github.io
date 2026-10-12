@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-11T02:42:21.349Z",
+  "fetchedAt": "2026-10-12T03:05:52.172Z",
   "decks": [
+    {
+      "deckId": "c4Gxxx-35bt0T-JG8ccc",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c4Gxxx-35bt0T-JG8ccc.png",
+      "date": "2026-10-11",
+      "venue": "バトロコ 川越駅前（埼玉）"
+    },
+    {
+      "deckId": "SMRpM2-STXT3x-SM3pyE",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/SMRpM2-STXT3x-SM3pyE.png",
+      "date": "2026-10-11",
+      "venue": "BOOKOFF イオン橋本（神奈川）"
+    },
     {
       "deckId": "XypEyy-3dzyCV-U2ypMR",
       "rank": "TOP8",

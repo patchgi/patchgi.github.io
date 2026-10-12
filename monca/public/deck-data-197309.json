@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-11T02:42:20.831Z",
+  "fetchedAt": "2026-10-12T03:05:51.647Z",
   "decks": [
+    {
+      "deckId": "g9gLgi-DMnBzp-nLgnLL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/g9gLgi-DMnBzp-nLgnLL.png",
+      "date": "2026-10-11",
+      "venue": "カードショップ彩々（鹿児島）"
+    },
+    {
+      "deckId": "Ycc4xx-laGGQq-8YcDGx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ycc4xx-laGGQq-8YcDGx.png",
+      "date": "2026-10-11",
+      "venue": "Duel Stade Ganryuひたち野うしく店（茨城）"
+    },
+    {
+      "deckId": "vFFbVV-rXn0MY-FkkbVf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vFFbVV-rXn0MY-FkkbVf.png",
+      "date": "2026-10-11",
+      "venue": "タッチ松本店（長野）"
+    },
+    {
+      "deckId": "MMRypR-Hb6cWi-UMSUpM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MMRypR-Hb6cWi-UMSUpM.png",
+      "date": "2026-10-11",
+      "venue": "タッチ松本店（長野）"
+    },
     {
       "deckId": "H9PnLg-rjf3Zd-gHLgLP",
       "rank": "TOP8",

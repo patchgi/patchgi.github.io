@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-11T02:42:21.526Z",
+  "fetchedAt": "2026-10-12T03:05:52.356Z",
   "decks": [
+    {
+      "deckId": "pyyRRy-fO01kr-MpRMUM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyyRRy-fO01kr-MpRMUM.png",
+      "date": "2026-10-11",
+      "venue": "GIRAFULL 広島ドンキ店（広島）"
+    },
     {
       "deckId": "F1VFVk-cdLJSL-bV5wV5",
       "rank": "TOP4",
