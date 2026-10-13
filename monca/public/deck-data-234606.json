@@ -1,7 +1,42 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-10-12T03:05:52.847Z",
+  "fetchedAt": "2026-10-13T04:21:55.007Z",
   "decks": [
+    {
+      "deckId": "VFbFvk-fuOL3r-kkFfVF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFbFvk-fuOL3r-kkFfVF.png",
+      "date": "2026-10-12",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "2UpMpy-Cr2U7L-SRXyM2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/2UpMpy-Cr2U7L-SRXyM2.png",
+      "date": "2026-10-12",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "LPnLn9-Qc6izH-PQQggi",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LPnLn9-Qc6izH-PQQggi.png",
+      "date": "2026-10-12",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
+    {
+      "deckId": "gHNgnH-8nRr5q-9LLnLQ",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gHNgnH-8nRr5q-9LLnLQ.png",
+      "date": "2026-10-12",
+      "venue": "バトロコ 金沢駅前（石川）"
+    },
+    {
+      "deckId": "gnnNN9-095YPA-LnLLLn",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gnnNN9-095YPA-LnLLLn.png",
+      "date": "2026-10-12",
+      "venue": "ブックオフ 西尾下町店（愛知）"
+    },
     {
       "deckId": "kkVbFV-vyQJwu-kkV5VF",
       "rank": "優勝",

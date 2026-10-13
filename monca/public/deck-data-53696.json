@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-12T03:05:52.685Z",
+  "fetchedAt": "2026-10-13T04:21:54.785Z",
   "decks": [
+    {
+      "deckId": "xxx8Gc-f6P2eN-xca8Dx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xxx8Gc-f6P2eN-xca8Dx.png",
+      "date": "2026-10-12",
+      "venue": "遊ING 熊本上通り店（熊本）"
+    },
+    {
+      "deckId": "M2pyyS-R0ZOgo-pMURUy",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/M2pyyS-R0ZOgo-pMURUy.png",
+      "date": "2026-10-12",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
+    {
+      "deckId": "FkVkkd-wOZApb-V15kbV",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FkVkkd-wOZApb-V15kbV.png",
+      "date": "2026-10-12",
+      "venue": "BOOKOFF大牟田店（福岡）"
+    },
+    {
+      "deckId": "MpyM2M-Jqxjb9-RMMpXM",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MpyM2M-Jqxjb9-RMMpXM.png",
+      "date": "2026-10-12",
+      "venue": "TCG桜華（愛媛）"
+    },
     {
       "deckId": "x8xxD8-nxyRBD-Gxacc8",
       "rank": "TOP8",

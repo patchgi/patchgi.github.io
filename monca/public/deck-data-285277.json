@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-12T03:05:52.172Z",
+  "fetchedAt": "2026-10-13T04:21:54.133Z",
   "decks": [
+    {
+      "deckId": "LnPQgn-V93wM6-99ggnL",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LnPQgn-V93wM6-99ggnL.png",
+      "date": "2026-10-12",
+      "venue": "フルコンプ千葉店（千葉）"
+    },
     {
       "deckId": "c4Gxxx-35bt0T-JG8ccc",
       "rank": "TOP8",
