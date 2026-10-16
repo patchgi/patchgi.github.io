@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-10-15T02:12:50.019Z",
+  "fetchedAt": "2026-10-16T02:04:02.722Z",
   "decks": [
+    {
+      "deckId": "LgPn9g-9FlVmK-QgL9QL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LgPn9g-9FlVmK-QgL9QL.png",
+      "date": "2026-10-15",
+      "venue": "Card Secret（東京）"
+    },
     {
       "deckId": "VFbFvk-fuOL3r-kkFfVF",
       "rank": "TOP8",
