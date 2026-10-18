@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-17T01:58:04.044Z",
+  "fetchedAt": "2026-10-18T01:57:18.422Z",
   "decks": [
+    {
+      "deckId": "RMyXXp-LjvSAQ-MRyEMX",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RMyXXp-LjvSAQ-MRyEMX.png",
+      "date": "2026-10-17",
+      "venue": "バトロコ 川崎駅前（神奈川）"
+    },
+    {
+      "deckId": "VkkVVb-U4tNyi-FVdbkb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkkVVb-U4tNyi-FVdbkb.png",
+      "date": "2026-10-17",
+      "venue": "BOOKOFF町田中央通り店（東京）"
+    },
+    {
+      "deckId": "8GGG8c-iJQg8i-x8xcKx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/8GGG8c-iJQg8i-x8xcKx.png",
+      "date": "2026-10-17",
+      "venue": "トイニティ長岡E・PLAZA店（新潟）"
+    },
     {
       "deckId": "xxx8Gc-f6P2eN-xca8Dx",
       "rank": "TOP8",

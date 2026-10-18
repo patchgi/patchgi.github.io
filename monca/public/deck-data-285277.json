@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-17T01:58:03.382Z",
+  "fetchedAt": "2026-10-18T01:57:17.734Z",
   "decks": [
+    {
+      "deckId": "84YG8c-p81POA-xxxcYx",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/84YG8c-p81POA-xxxcYx.png",
+      "date": "2026-10-17",
+      "venue": "TSUTAYA 宮交シティ（宮崎）"
+    },
     {
       "deckId": "LnPQgn-V93wM6-99ggnL",
       "rank": "TOP4",

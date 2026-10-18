@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-17T01:58:02.648Z",
+  "fetchedAt": "2026-10-18T01:57:17.057Z",
   "decks": [
+    {
+      "deckId": "fVkbfV-0ikoG9-FVvkVb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/fVkbfV-0ikoG9-FVvkVb.png",
+      "date": "2026-10-17",
+      "venue": "TSUTAYA 宮交シティ（宮崎）"
+    },
+    {
+      "deckId": "VfVkFF-yE0amy-Vf1bkf",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VfVkFF-yE0amy-Vf1bkf.png",
+      "date": "2026-10-17",
+      "venue": "竜星の嵐 高松店（香川）"
+    },
+    {
+      "deckId": "gLPHL9-1oiH0k-LgLPnH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLPHL9-1oiH0k-LgLPnH.png",
+      "date": "2026-10-17",
+      "venue": "ブックオフ 相模大野店（神奈川）"
+    },
     {
       "deckId": "LgnLLn-DtYSnW-gNgLn9",
       "rank": "TOP8",
