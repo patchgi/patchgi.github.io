@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/287934",
-  "fetchedAt": "2026-10-18T01:57:17.277Z",
+  "fetchedAt": "2026-10-19T02:14:25.743Z",
   "decks": [
+    {
+      "deckId": "xD8JDK-8UbzDi-8cxG4Y",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xD8JDK-8UbzDi-8cxG4Y.png",
+      "date": "2026-10-18",
+      "venue": "チェルモサード（神奈川）"
+    },
     {
       "deckId": "dFFFFd-dRLY2E-kV1Vbk",
       "rank": "TOP4",

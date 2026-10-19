@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-18T01:57:17.057Z",
+  "fetchedAt": "2026-10-19T02:14:25.562Z",
   "decks": [
+    {
+      "deckId": "MMRpU2-N4JTwh-MypMpU",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MMRpU2-N4JTwh-MypMpU.png",
+      "date": "2026-10-18",
+      "venue": "カードショップ裁龍（茨城）"
+    },
+    {
+      "deckId": "kV5kkV-9UCQRF-FdVkFb",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kV5kkV-9UCQRF-FdVkFb.png",
+      "date": "2026-10-18",
+      "venue": "BOOKOFFアミューあつぎ店（神奈川）"
+    },
+    {
+      "deckId": "vVFkFf-C5CRdN-wVbf1F",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vVFkFf-C5CRdN-wVbf1F.png",
+      "date": "2026-10-18",
+      "venue": "BOOKOFF 松戸駅東口店（千葉）"
+    },
+    {
+      "deckId": "nLgHg9-CrM1dL-giL9ng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nLgHg9-CrM1dL-giL9ng.png",
+      "date": "2026-10-18",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
     {
       "deckId": "fVkbfV-0ikoG9-FVvkVb",
       "rank": "TOP8",

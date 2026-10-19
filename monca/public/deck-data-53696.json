@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-10-18T01:57:18.422Z",
+  "fetchedAt": "2026-10-19T02:14:26.537Z",
   "decks": [
+    {
+      "deckId": "LPnHNL-wMInvw-99NHng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LPnHNL-wMInvw-99NHng.png",
+      "date": "2026-10-18",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "vdVbkk-RqeNmg-VVkF1d",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vdVbkk-RqeNmg-VVkF1d.png",
+      "date": "2026-10-18",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "pRyRRM-hSpPMI-y2pMyU",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRyRRM-hSpPMI-y2pMyU.png",
+      "date": "2026-10-18",
+      "venue": "トレカワールド 小倉駅前店（福岡）"
+    },
+    {
+      "deckId": "L699gL-1QJWkU-nnLgQP",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/L699gL-1QJWkU-nnLgQP.png",
+      "date": "2026-10-18",
+      "venue": "BOOKOFF 松戸駅東口店（千葉）"
+    },
     {
       "deckId": "RMyXXp-LjvSAQ-MRyEMX",
       "rank": "TOP4",

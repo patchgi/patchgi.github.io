@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-18T01:57:17.982Z",
+  "fetchedAt": "2026-10-19T02:14:26.235Z",
   "decks": [
+    {
+      "deckId": "ccxY4c-W8gS2C-D8aGGx",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ccxY4c-W8gS2C-D8aGGx.png",
+      "date": "2026-10-18",
+      "venue": "バトロコミニ前橋文京店（群馬）"
+    },
+    {
+      "deckId": "Jc8GYJ-gOdcJP-xDcxx8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Jc8GYJ-gOdcJP-xDcxx8.png",
+      "date": "2026-10-18",
+      "venue": "Super KaBoS 敦賀店（福井）"
+    },
     {
       "deckId": "LggNg9-9bF8jy-nP66LL",
       "rank": "TOP4",

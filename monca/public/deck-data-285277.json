@@ -1,7 +1,35 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-18T01:57:17.734Z",
+  "fetchedAt": "2026-10-19T02:14:26.071Z",
   "decks": [
+    {
+      "deckId": "yMp3RM-x0ghS6-p2MSpU",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMp3RM-x0ghS6-p2MSpU.png",
+      "date": "2026-10-18",
+      "venue": "バトスタ長野駅前店（長野）"
+    },
+    {
+      "deckId": "pRyX2S-BopFBH-SMyEMy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pRyX2S-BopFBH-SMyEMy.png",
+      "date": "2026-10-18",
+      "venue": "遊ING博多店（福岡）"
+    },
+    {
+      "deckId": "ggiLgN-NWhiT4-HLg9ng",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ggiLgN-NWhiT4-HLg9ng.png",
+      "date": "2026-10-18",
+      "venue": "ドラゴンスター泉佐野店（大阪）"
+    },
+    {
+      "deckId": "ypRMRM-t9eoX8-32MpUy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ypRMRM-t9eoX8-32MpUy.png",
+      "date": "2026-10-18",
+      "venue": "カードスタジアム小禄店（沖縄）"
+    },
     {
       "deckId": "84YG8c-p81POA-xxxcYx",
       "rank": "優勝",

@@ -1,7 +1,49 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-10-18T01:57:18.628Z",
+  "fetchedAt": "2026-10-19T02:14:26.692Z",
   "decks": [
+    {
+      "deckId": "yMMy3M-PGbubh-RpEyyE",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/yMMy3M-PGbubh-RpEyyE.png",
+      "date": "2026-10-18",
+      "venue": "カードショップリドル京急蒲田店（東京）"
+    },
+    {
+      "deckId": "gLnQHL-oyaQrW-NPnH9Q",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLnQHL-oyaQrW-NPnH9Q.png",
+      "date": "2026-10-18",
+      "venue": "チェルモサード（神奈川）"
+    },
+    {
+      "deckId": "db5bFF-uIzjjp-dVVVkV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/db5bFF-uIzjjp-dVVVkV.png",
+      "date": "2026-10-18",
+      "venue": "バトロコ 新津田沼駅前（千葉）"
+    },
+    {
+      "deckId": "VbvF1d-DTWIo8-VVk1VV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VbvF1d-DTWIo8-VVk1VV.png",
+      "date": "2026-10-18",
+      "venue": "カードショップ彩々（鹿児島）"
+    },
+    {
+      "deckId": "1VF1fb-YnhEpv-fV5kwV",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/1VF1fb-YnhEpv-fV5kwV.png",
+      "date": "2026-10-18",
+      "venue": "フルコンプ千葉店（千葉）"
+    },
+    {
+      "deckId": "ppUpXM-XD6653-yypMR2",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/ppUpXM-XD6653-yypMR2.png",
+      "date": "2026-10-18",
+      "venue": "トレカワールド 小倉駅前店（福岡）"
+    },
     {
       "deckId": "pMpXSS-JITJbP-yMSRyy",
       "rank": "TOP4",
