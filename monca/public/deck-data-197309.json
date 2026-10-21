@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-20T02:28:53.439Z",
+  "fetchedAt": "2026-10-21T02:22:46.960Z",
   "decks": [
+    {
+      "deckId": "kbFbFF-nf4xlU-kwkFFV",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbFbFF-nf4xlU-kwkFFV.png",
+      "date": "2026-10-20",
+      "venue": "竜星のPAO 大宮店（埼玉）"
+    },
     {
       "deckId": "MMRpU2-N4JTwh-MypMpU",
       "rank": "TOP4",
