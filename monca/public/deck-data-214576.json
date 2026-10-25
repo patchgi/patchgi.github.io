@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-10-24T02:21:22.341Z",
+  "fetchedAt": "2026-10-25T02:08:25.970Z",
   "decks": [
+    {
+      "deckId": "MXRy3M-7YhfWc-2XRRMp",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MXRy3M-7YhfWc-2XRRMp.png",
+      "date": "2026-10-22",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "ccxY4c-W8gS2C-D8aGGx",
       "rank": "TOP8",

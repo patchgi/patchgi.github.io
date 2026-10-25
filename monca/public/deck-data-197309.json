@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-24T02:21:21.623Z",
+  "fetchedAt": "2026-10-25T02:08:25.053Z",
   "decks": [
+    {
+      "deckId": "kFkkF5-BlRnOf-bbFvkV",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kFkkF5-BlRnOf-bbFvkV.png",
+      "date": "2026-10-22",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "kbFbFF-nf4xlU-kwkFFV",
       "rank": "優勝",
