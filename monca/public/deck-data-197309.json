@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-10-26T02:09:15.520Z",
+  "fetchedAt": "2026-10-28T02:54:30.433Z",
   "decks": [
+    {
+      "deckId": "VbkFkf-k22Jxi-FvkvVV",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VbkFkf-k22Jxi-FvkvVV.png",
+      "date": "2026-10-26",
+      "venue": "ドラゴンスター秋葉原駅前店（東京）"
+    },
     {
       "deckId": "kFkkF5-BlRnOf-bbFvkV",
       "rank": "TOP4",

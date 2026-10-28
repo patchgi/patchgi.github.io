@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-10-26T02:09:16.046Z",
+  "fetchedAt": "2026-10-28T02:54:30.951Z",
   "decks": [
+    {
+      "deckId": "Ry2REp-FDmHJ9-MMXpMy",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ry2REp-FDmHJ9-MMXpMy.png",
+      "date": "2026-10-27",
+      "venue": "竜のしっぽ 布施店（大阪）"
+    },
     {
       "deckId": "yMp3RM-x0ghS6-p2MSpU",
       "rank": "TOP4",
