@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-10-28T02:54:31.272Z",
+  "fetchedAt": "2026-10-29T03:18:45.091Z",
   "decks": [
+    {
+      "deckId": "xGx8xK-TG6Lx7-c8J4D8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xGx8xK-TG6Lx7-c8J4D8.png",
+      "date": "2026-10-28",
+      "venue": "Torecacamp大須店（愛知）"
+    },
     {
       "deckId": "VFkbkF-QMAf9z-fvkfVV",
       "rank": "TOP8",
