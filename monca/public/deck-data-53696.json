@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-11-02T03:10:13.798Z",
+  "fetchedAt": "2026-11-03T04:26:29.486Z",
   "decks": [
+    {
+      "deckId": "kk1bkV-2RIMLx-fFVkVk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kk1bkV-2RIMLx-fFVkVk.png",
+      "date": "2026-11-02",
+      "venue": "福福トレカ 秋葉原店（東京）"
+    },
     {
       "deckId": "V1Fkd5-XY6fa0-bdkVfF",
       "rank": "TOP8",
