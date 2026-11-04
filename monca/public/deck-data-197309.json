@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-11-03T04:26:28.381Z",
+  "fetchedAt": "2026-11-04T03:45:05.366Z",
   "decks": [
+    {
+      "deckId": "nHgnPL-kDkrQG-LnHLL9",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nHgnPL-kDkrQG-LnHLL9.png",
+      "date": "2026-11-03",
+      "venue": "【CARDBOX】玉島店（岡山）"
+    },
     {
       "deckId": "UMyM2y-GFM3V6-MEypRU",
       "rank": "TOP8",

@@ -1,7 +1,63 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-11-03T04:26:29.486Z",
+  "fetchedAt": "2026-11-04T03:45:06.400Z",
   "decks": [
+    {
+      "deckId": "LNHnLn-p6r5Wt-nNP9gg",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LNHnLn-p6r5Wt-nNP9gg.png",
+      "date": "2026-11-03",
+      "venue": "ブックオフチャチャタウン小倉店（福岡）"
+    },
+    {
+      "deckId": "pMUypy-iIc1oN-yyyMyR",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMUypy-iIc1oN-yyyMyR.png",
+      "date": "2026-11-03",
+      "venue": "ブックオフチャチャタウン小倉店（福岡）"
+    },
+    {
+      "deckId": "c44caG-199EW4-xDGc8x",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/c44caG-199EW4-xDGc8x.png",
+      "date": "2026-11-03",
+      "venue": "カードショップ楓（高知）"
+    },
+    {
+      "deckId": "Dx8Ycc-Ykc91n-YJxGx8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Dx8Ycc-Ykc91n-YJxGx8.png",
+      "date": "2026-11-03",
+      "venue": "フルコンプ福岡天神店（福岡）"
+    },
+    {
+      "deckId": "FbVVkk-Bov1c1-kkVFdF",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FbVVkk-Bov1c1-kkVFdF.png",
+      "date": "2026-11-03",
+      "venue": "TSUTAYA光吉店（大分）"
+    },
+    {
+      "deckId": "xGD8cc-v4wXdA-a8xx8x",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xGD8cc-v4wXdA-a8xx8x.png",
+      "date": "2026-11-03",
+      "venue": "ブックオフ佐賀南部バイパス店（佐賀）"
+    },
+    {
+      "deckId": "xG84cc-qzUP8I-c4DxKK",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xG84cc-qzUP8I-c4DxKK.png",
+      "date": "2026-11-03",
+      "venue": "TSUTAYA そよら成田ニュータウン（千葉）"
+    },
+    {
+      "deckId": "Ln96gN-AC6WUN-LgLHLN",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Ln96gN-AC6WUN-LgLHLN.png",
+      "date": "2026-11-03",
+      "venue": "ブックオフ 西尾下町店（愛知）"
+    },
     {
       "deckId": "kk1bkV-2RIMLx-fFVkVk",
       "rank": "TOP8",
