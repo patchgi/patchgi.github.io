@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-11-04T03:45:06.242Z",
+  "fetchedAt": "2026-11-05T04:03:14.804Z",
   "decks": [
+    {
+      "deckId": "VFVbVf-NUHDva-fVkkfV",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFVbVf-NUHDva-fVkkfV.png",
+      "date": "2026-11-04",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
     {
       "deckId": "nQLLni-038AaV-nn9ggQ",
       "rank": "TOP4",

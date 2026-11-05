@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-11-04T03:45:04.976Z",
+  "fetchedAt": "2026-11-05T04:03:13.625Z",
   "decks": [
+    {
+      "deckId": "pyMRpp-OxuPrh-22MyyU",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pyMRpp-OxuPrh-22MyyU.png",
+      "date": "2026-11-04",
+      "venue": "ドラゴンスター日本橋2号店（大阪）"
+    },
     {
       "deckId": "VkkFkd-Ye3B96-fkFbVf",
       "rank": "準優勝",
