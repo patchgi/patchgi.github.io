@@ -1,7 +1,21 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-11-05T04:03:14.954Z",
+  "fetchedAt": "2026-11-06T04:00:24.281Z",
   "decks": [
+    {
+      "deckId": "kVV5Vv-u1el7p-bVVFkF",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVV5Vv-u1el7p-bVVFkF.png",
+      "date": "2026-11-05",
+      "venue": "秋葉原チェルモ（東京）"
+    },
+    {
+      "deckId": "cx4x8x-ZdIyhP-8GKc8x",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/cx4x8x-ZdIyhP-8GKc8x.png",
+      "date": "2026-11-05",
+      "venue": "ドラゴンスター日本橋3号店（大阪）"
+    },
     {
       "deckId": "LNHnLn-p6r5Wt-nNP9gg",
       "rank": "TOP8",

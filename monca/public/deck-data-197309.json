@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-11-05T04:03:13.958Z",
+  "fetchedAt": "2026-11-06T04:00:23.183Z",
   "decks": [
+    {
+      "deckId": "MpXRyy-oKCKgF-EXpEMM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/MpXRyy-oKCKgF-EXpEMM.png",
+      "date": "2026-11-05",
+      "venue": "秋葉原チェルモ（東京）"
+    },
     {
       "deckId": "nHgnPL-kDkrQG-LnHLL9",
       "rank": "TOP8",
