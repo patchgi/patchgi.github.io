@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-11-06T04:00:24.131Z",
+  "fetchedAt": "2026-11-07T03:36:59.440Z",
   "decks": [
+    {
+      "deckId": "RRpSpy-c5VLDV-MS2MMp",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RRpSpy-c5VLDV-MS2MMp.png",
+      "date": "2026-11-06",
+      "venue": "ドラゴンスター池袋店（東京）"
+    },
     {
       "deckId": "VFVbVf-NUHDva-fVkkfV",
       "rank": "TOP8",
