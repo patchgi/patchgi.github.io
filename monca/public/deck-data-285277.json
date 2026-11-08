@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-11-07T03:36:59.125Z",
+  "fetchedAt": "2026-11-08T03:07:49.249Z",
   "decks": [
+    {
+      "deckId": "vkVbFv-KUEnpc-dVvVFk",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkVbFv-KUEnpc-dVvVFk.png",
+      "date": "2026-11-07",
+      "venue": "シーガル郡山店（福島）"
+    },
     {
       "deckId": "VF1kFk-Q66foN-d5fkFb",
       "rank": "TOP8",

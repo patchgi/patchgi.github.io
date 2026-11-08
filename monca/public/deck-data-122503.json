@@ -1,7 +1,56 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-11-07T03:36:58.324Z",
+  "fetchedAt": "2026-11-08T03:07:48.341Z",
   "decks": [
+    {
+      "deckId": "RSXXyp-zOBYBq-ypXXMy",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/RSXXyp-zOBYBq-ypXXMy.png",
+      "date": "2026-11-07",
+      "venue": "バトロコ新潟万代（新潟）"
+    },
+    {
+      "deckId": "aYDxJG-UwdFWr-a8ccx8",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/aYDxJG-UwdFWr-a8ccx8.png",
+      "date": "2026-11-07",
+      "venue": "Card Secret（東京）"
+    },
+    {
+      "deckId": "LQin99-J6SwuA-NgL9LQ",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LQin99-J6SwuA-NgL9LQ.png",
+      "date": "2026-11-07",
+      "venue": "バトロコ 高崎駅前（群馬）"
+    },
+    {
+      "deckId": "Fb5kff-0hneM7-VvbkVw",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Fb5kff-0hneM7-VvbkVw.png",
+      "date": "2026-11-07",
+      "venue": "バトロコ 高崎駅前（群馬）"
+    },
+    {
+      "deckId": "pMMRpE-Kw79dn-pS3MyS",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMMRpE-Kw79dn-pS3MyS.png",
+      "date": "2026-11-07",
+      "venue": "トレカショップKCC（埼玉）"
+    },
+    {
+      "deckId": "nPPLgP-rzJFXj-N9QQLL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPPLgP-rzJFXj-N9QQLL.png",
+      "date": "2026-11-07",
+      "venue": "WonderGOO つくば店（茨城）"
+    },
+    {
+      "deckId": "JcxYYx-y9WvAz-ccxxG8",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/JcxYYx-y9WvAz-ccxxG8.png",
+      "date": "2026-11-07",
+      "venue": "WonderGOO つくば店（茨城）"
+    },
     {
       "deckId": "pyMRpp-OxuPrh-22MyyU",
       "rank": "準優勝",
