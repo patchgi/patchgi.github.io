@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-11-08T03:07:49.891Z",
+  "fetchedAt": "2026-11-09T03:29:39.462Z",
   "decks": [
+    {
+      "deckId": "LniLig-HFk4b4-gngNg9",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LniLig-HFk4b4-gngNg9.png",
+      "date": "2026-11-08",
+      "venue": "カードショップ＠ほ～む。（鹿児島）"
+    },
     {
       "deckId": "R2XMyy-KFr5S6-ppEypM",
       "rank": "TOP4",
