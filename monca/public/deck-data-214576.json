@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-11-09T03:29:38.947Z",
+  "fetchedAt": "2026-11-10T05:03:12.706Z",
   "decks": [
+    {
+      "deckId": "VFVFbv-HOYGNy-kVkvv1",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFVFbv-HOYGNy-kVkvv1.png",
+      "date": "2026-11-07",
+      "venue": "宝島 高蔵寺店（愛知）-1"
+    },
     {
       "deckId": "MXRy3M-7YhfWc-2XRRMp",
       "rank": "TOP8",
