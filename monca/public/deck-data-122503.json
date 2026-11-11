@@ -1,7 +1,28 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/122503",
-  "fetchedAt": "2026-11-10T05:03:11.444Z",
+  "fetchedAt": "2026-11-11T03:37:11.015Z",
   "decks": [
+    {
+      "deckId": "vkwFVw-qQSld4-bVvVkF",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/vkwFVw-qQSld4-bVvVkF.png",
+      "date": "2026-11-10",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "9QHg9g-FwCpb3-9nPNQg",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9QHg9g-FwCpb3-9nPNQg.png",
+      "date": "2026-11-10",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
+    {
+      "deckId": "3MXRMy-UXeKfr-pp2ypM",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/3MXRMy-UXeKfr-pp2ypM.png",
+      "date": "2026-11-10",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "ngg9QL-eSdgCt-LiHiLn",
       "rank": "TOP8",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/53696",
-  "fetchedAt": "2026-11-10T05:03:13.084Z",
+  "fetchedAt": "2026-11-11T03:37:12.417Z",
   "decks": [
+    {
+      "deckId": "VVV5kb-UBg2lw-fFwk5w",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VVV5kb-UBg2lw-fFwk5w.png",
+      "date": "2026-11-10",
+      "venue": "青馬堂矢向店（神奈川）"
+    },
     {
       "deckId": "v5dkVb-tSjXVk-FvVV5V",
       "rank": "TOP8",

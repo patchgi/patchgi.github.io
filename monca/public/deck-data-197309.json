@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/197309",
-  "fetchedAt": "2026-11-10T05:03:11.862Z",
+  "fetchedAt": "2026-11-11T03:37:11.381Z",
   "decks": [
+    {
+      "deckId": "nLLn6L-jxB14l-9ngn6P",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/nLLn6L-jxB14l-9ngn6P.png",
+      "date": "2026-11-10",
+      "venue": "スキップ玉出店（大阪）"
+    },
     {
       "deckId": "SpMREX-0FAoIY-MyXpXy",
       "rank": "準優勝",
