@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/285277",
-  "fetchedAt": "2026-11-11T03:37:11.906Z",
+  "fetchedAt": "2026-11-12T04:45:08.831Z",
   "decks": [
+    {
+      "deckId": "xxacGx-8BLqIe-c8cx8a",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xxacGx-8BLqIe-c8cx8a.png",
+      "date": "2026-11-11",
+      "venue": "BOOKOFF54号広島八木店（広島）"
+    },
     {
       "deckId": "vkVbFv-KUEnpc-dVvVFk",
       "rank": "TOP8",
