@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/214576",
-  "fetchedAt": "2026-11-14T03:55:22.185Z",
+  "fetchedAt": "2026-11-15T03:38:51.915Z",
   "decks": [
+    {
+      "deckId": "Qg9nL9-uaKjPP-NnniLL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qg9nL9-uaKjPP-NnniLL.png",
+      "date": "2026-11-14",
+      "venue": "TSUTAYA富士八幡町店（静岡）"
+    },
     {
       "deckId": "VFVFbv-HOYGNy-kVkvv1",
       "rank": "TOP8",

@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234606",
-  "fetchedAt": "2026-11-14T03:55:22.775Z",
+  "fetchedAt": "2026-11-15T03:38:52.559Z",
   "decks": [
+    {
+      "deckId": "FVkVf5-JzCZSo-1VFbk5",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/FVkVf5-JzCZSo-1VFbk5.png",
+      "date": "2026-11-14",
+      "venue": "TSUTAYA鴻巣吹上店（埼玉）"
+    },
     {
       "deckId": "LniLig-HFk4b4-gngNg9",
       "rank": "TOP4",

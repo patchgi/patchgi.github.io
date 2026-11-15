@@ -1,7 +1,70 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/234601",
-  "fetchedAt": "2026-11-14T03:55:22.378Z",
+  "fetchedAt": "2026-11-15T03:38:52.136Z",
   "decks": [
+    {
+      "deckId": "VkVF1b-vEkWuu-Vk5FFw",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/VkVF1b-vEkWuu-Vk5FFw.png",
+      "date": "2026-11-14",
+      "venue": "オレタン 岡山本店（岡山）"
+    },
+    {
+      "deckId": "p2RMM2-jiLvxE-2pMypM",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/p2RMM2-jiLvxE-2pMypM.png",
+      "date": "2026-11-14",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "XSpEyM-QHque0-SM2RMy",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/XSpEyM-QHque0-SM2RMy.png",
+      "date": "2026-11-14",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "9LNLLL-YByHyf-LHL9nL",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/9LNLLL-YByHyf-LHL9nL.png",
+      "date": "2026-11-14",
+      "venue": "青馬堂本店（神奈川）"
+    },
+    {
+      "deckId": "96LnHN-NaujOY-nnLnLN",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/96LnHN-NaujOY-nnLnLN.png",
+      "date": "2026-11-14",
+      "venue": "Wonder GOO いわき鹿島店（福島）"
+    },
+    {
+      "deckId": "xxxxa8-ofnCZn-GDDDxG",
+      "rank": "TOP8",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/xxxxa8-ofnCZn-GDDDxG.png",
+      "date": "2026-11-14",
+      "venue": "Wonder GOO いわき鹿島店（福島）"
+    },
+    {
+      "deckId": "DYx44D-CEFufW-48x8Gx",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/DYx44D-CEFufW-48x8Gx.png",
+      "date": "2026-11-14",
+      "venue": "三洋堂書店 新開橋店（愛知）"
+    },
+    {
+      "deckId": "y3pRMy-Bv9hxd-SXMyRM",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/y3pRMy-Bv9hxd-SXMyRM.png",
+      "date": "2026-11-14",
+      "venue": "BOOKOFF307号枚方池之宮店（大阪）"
+    },
+    {
+      "deckId": "pMpyp2-LC0ZbM-pMMRS2",
+      "rank": "準優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/pMpyp2-LC0ZbM-pMMRS2.png",
+      "date": "2026-11-14",
+      "venue": "宝島 岐阜本店（岐阜）"
+    },
     {
       "deckId": "Y8Gcxx-v5iUJr-x888D8",
       "rank": "優勝",

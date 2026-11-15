@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/290646",
-  "fetchedAt": "2026-11-14T03:55:21.086Z",
+  "fetchedAt": "2026-11-15T03:38:50.766Z",
   "decks": [
+    {
+      "deckId": "NLnnNL-ntgXuc-H6LLg9",
+      "rank": "優勝",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/NLnnNL-ntgXuc-H6LLg9.png",
+      "date": "2026-11-14",
+      "venue": "ブックオフ 札幌南2条店（北海道）"
+    },
     {
       "deckId": "nnHLgg-Qt0818-niiN9n",
       "rank": "TOP8",

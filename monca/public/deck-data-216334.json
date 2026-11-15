@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://pokecabook.com/archives/216334",
-  "fetchedAt": "2026-11-14T03:55:21.726Z",
+  "fetchedAt": "2026-11-15T03:38:51.427Z",
   "decks": [
+    {
+      "deckId": "LHnL69-7Pfl8b-6nLNLH",
+      "rank": "TOP4",
+      "imageUrl": "https://www.pokemon-card.com/deck/deckView.php/deckID/LHnL69-7Pfl8b-6nLNLH.png",
+      "date": "2026-11-14",
+      "venue": "Wonder GOO いわき鹿島店（福島）"
+    },
     {
       "deckId": "VkVVVd-UibhdT-FVbkdV",
       "rank": "TOP4",
